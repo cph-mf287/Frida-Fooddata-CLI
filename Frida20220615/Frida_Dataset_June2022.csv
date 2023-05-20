@@ -1,0 +1,1250 @@
+﻿FødevareNavn;FoodName;FoodID;TaxonomicName;FoodEx2Code;FoodGroupID;FødevareGruppe;FoodGroup
+Jordbær, rå;Strawberry, raw;1;Fragaria x ananassa Duchesne;A01EA#F02.A067D;51;Bærfrugt;Soft fruit
+Æble, uspec., råt;Apple, raw, all varieties;2;Malus domestica Borkh.;A01DJ#F02.A067D$F26.A07XD;49;Kernefrugt;Pome fruit
+Banan, rå;Banana, raw;3;Musa x paradisiaca L.;A01LC#F01.A064L$F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Kartoffel, uspec., rå;Potato, raw;4;Solanum tuberosum L.;A00ZT#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Hindbær, rå;Raspberry, raw;5;Rubus idaeus L.;A01EP#F02.A067D;51;Bærfrugt;Soft fruit
+Sødmælk, konventionel (ikke-økologisk);Milk, whole, konventional (not organic), 3.5 % fat;6;Bos taurus;A02LY#F07.A06ZY$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Persille, rå;Parsley, raw;8;Petroselium crispum (Miller) Nyman ex A.W. Hill;A00YE#F02.A067J;44;Krydderurter;Herbs
+Pære, rå;Pear, raw;9;Pirus communis L. var. sativa;A01DP#F02.A067D;49;Kernefrugt;Pome fruit
+Rabarber, rå;Rhubarb, raw;10;Rheum rhabarbarum L.;A00SD#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Solbær, rå;Currant, black, raw;11;Ribes nigrum L.;A01FN#F02.A067D;51;Bærfrugt;Soft fruit
+Yoghurt naturel, sødmælk;Yogurt plain, whole milk;12;NULL;A02NG#F27.A02LV$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Bladselleri, rå;Celery, raw;13;Apium graveolens L. var. dulce;A00RY#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Blomkål, uspecificeret, rå;Cauliflower, all varieties, raw;14;Brassica oleracea L. convar. botrytis;A00FR;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Blomme, rå;Plum, raw;15;Prunus domestica L.;A01GQ#F02.A067D;50;Stenfrugt;Stone fruit
+Blåbær, rå;Blueberries, raw;16;Vaccinium myrtillus L.;A01EY#F02.A067D;51;Bærfrugt;Soft fruit
+Broccoli, rå;Broccoli, raw;17;Brassica oleracea var. Italica;A00FM;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Brombær, rå;Blackberry, raw;18;Rubus fructicosus L.;A01EE#F02.A067D;51;Bærfrugt;Soft fruit
+Brune bønner, tørrede, rå;Beans, brown, dried, raw;19;Phaseolus vulgaris L.;A012V;173;Tørrede bælgplanter;Dried pulses
+Voksbønner, rå;Beans, wax, raw;20;Phaseolus vulgaris L.;A00PG;171;Friske bælgplanter;Fresh legumes
+Citron, rå;Lemon, raw;21;Citrus limon (L.) Burm. f.;A01BY#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Dild, rå;Dill, raw;22;Anethum graveolens L.;A00XH#F02.A066T;44;Krydderurter;Herbs
+Grønkål, rå;Kale, raw;23;Brassica oleracea (L.) convar. acephala;A00GM#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Gulerod, uspec., rå;Carrot, raw;24;Daucus carota L.;A00QH#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Hornfisk, rå;Garfish, raw;25;Belone belone;A02BS#F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Hvidkål, rå;Cabbage, white, raw;26;Brassica oleracea L. convar. capitata (L.) Alef. var alba DC;A00GC;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Hyben, rå;Rose hip, raw;27;Rosa rugosa Thunb.;A0CFR#F02.A067D;51;Bærfrugt;Soft fruit
+Hyldebær, rå;Elderberry, raw;28;Sambucus nigra L.;A01FX#F01.A060K$F02.A067D;51;Bærfrugt;Soft fruit
+Kirsebær, rå;Cherry, raw;29;Prunus avium (L.) L.;A01GG#F01.A060X$F02.A067D;50;Stenfrugt;Stone fruit
+Laks, atlantisk, vild, rå;Salmon, Atlantic, wild, raw;30;Salmo salar;A028P#F02.A069C;73;Fed fisk;Oily fish
+Majskolbe, rå;Sweetcorn, on-the-cob, raw;31;Zea mays L.;A00KP#F01.A059G$F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Kærnemælk;Milk, buttermilk;32;Bos taurus;A02MV#F07.A06YL;5;Syrnede mælkeprodukter;Fermented milk products
+Letmælk, konventionel (ikke-økologisk);Milk, partly skimmed, konventional (not organic), 1.5 % fat;33;Bos taurus;A02LZ#F07.A06ZA$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Makrel, rå;Mackerel, raw;34;Scomber scombrus;A02CV#F02.A069C;73;Fed fisk;Oily fish
+Mandel, rå;Almond, raw;35;Amygdalus Communis L.;A014F;53;Nødder;Nuts
+Vandmelon, rå;Watermelon, raw;36;Citrullus lanatus (Thunb.) Matsum. et Nakai;A00KJ#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Peberfrugt, grøn, rå;Pepper, sweet, green, raw;37;Capsicum annuum L. var. grossum (L.) Terpø;A00JA#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Peberfrugt, rød, rå;Pepper, sweet, red, raw;38;Capsicum annuum L. var grossum (L.) Terpø;A00JA#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Radise, rå;Radish, raw;39;Raphanus sativus L. var. sativus;A00QV#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Ribs, rå;Currant, red, raw;40;Ribes rubrum L.;A01FP#F02.A067D;51;Bærfrugt;Soft fruit
+Rosenkål, uspec., rå;Brussels sprouts, raw;41;Brassica oleracea L. convar. oleracea (L.) var. gemmifera DC;A00FV;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Rødbede, rå;Beet, red, raw;43;Beta vulgaris L. var conditiva Alef.;A00QG#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Rødkål, rå;Cabbage, red, raw;44;Brassica oleracea L. convar. capitata (L.);A00GA;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Rødspætte, rå;Plaice, raw;45;Pleuronectes platessa;A02BC#F01.A04ZG$F02.A069C;70;Mager fisk;Lean fish
+Selleri, knold, rå;Celeriac, celery root, raw;46;Apium graveolens L.;A00QJ#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Sild, marineret;Herring, pickled, canned;47;Clupea harengus;A0FBX#F28.A0F2N;79;Fiskeprodukter;Fish products
+Sild, rå;Herring, raw;48;Clupea harengus;A02DF#F02.A069C;73;Fed fisk;Oily fish
+Spidskål, rå;Cabbage, pointed, raw;49;Brassica oleracea L. convar. capitata (L.) var. conica;A00FZ#F01.A05BB;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Spinat, rå;Spinach, raw;50;Spinacia oleracea L.;A00MJ#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Stikkelsbær, rå;Gooseberry, raw;51;Ribes uva-crispa L.;A0CFN#F02.A067D;51;Bærfrugt;Soft fruit
+Tomat, uspec., rå;Tomato, ripe, raw, origin unknown;52;Lycopersicon esculentum (L.) Karsten ex Farw.;A00HR#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Vand, drikke-, vejl. værdier;Water, tap, drinking, average values;53;NULL;A03DL#F01.A0BYJ;117;Drikkevand;Drinking water
+Vindrue, rå;Grape, raw;54;Vitis vinifera L.;A01DX#F02.A067D;49;Kernefrugt;Pome fruit
+Grønne ærter, rå;Peas, green, raw;55;Pisum sativum L.;A012J#F02.A066P;171;Friske bælgplanter;Fresh legumes
+Squash, rå;Squash, raw;56;Curcubita pepo L.;A00JR#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Artiskok, rå;Artichoke, raw;57;Cynara scolymus L.;A00RS#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Mungbønner, tørrede, rå;Beans, mung, dried, raw;58;Phaseolus radiatus L.;A013D;173;Tørrede bælgplanter;Dried pulses
+Havregryn, uspec.;Oats, rolled, average values;59;Avena sativa L.;A00DH;28;Korn og gryn;Grain and groats
+Rugmel, groft, fuldkornsrugmel;Rye flour, dark, whole meal;60;Secale cereale L.;A003M#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Grahamsmel, fuldkornshvedemel;Wheat, flour, wholemeal;61;Triticum aestivum L.;A003Z#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Ingefær, rod, rå;Ginger root, raw;62;Zingiber officinale;A01AB#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Okra, rå;Okra, raw;63;Hibiscus esculentus L.;A00JF#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Asparges, grønne, rå;Asparagus, green, raw;64;Asparagus officinalis L.;A00RT#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Fennikel, knold, rå;Fennel, root, raw;65;Foeniculum vulgare (Miller) var. azoricum;A00SA#F01.A05LG$F02.A067S;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Mørksej, rå;Saithe, raw;66;Pollachius virens;A02CF#F02.A069C$F03.A06HZ;70;Mager fisk;Lean fish
+Boghvede, hel, rå;Buckwheat, whole, raw;67;Fogopyrum esculentum Moench;A000N#F02.A066P;28;Korn og gryn;Grain and groats
+Aubergine, rå;Aubergine, raw;69;Solanum melongena L.;A00JD#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Appelsin, rå;Orange, raw;70;Citrus sinensis (L.) Pers.;A01CR#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Lammekød, kølle, uspec., rå;Lamb, leg, unspecified , raw;71;Ovis aries;A01RK#F02.A07XQ$F07.A072X;61;Fåre- og lammekød;Sheep and lamb
+Torsk, filet, rå;Cod, fillet, raw;72;Gadus morhua;A02BV#F01.A050K$F02.A069C$F03.A06HZ;70;Mager fisk;Lean fish
+Feta, 40+;Cheese, semihard, Feta, 40 % fidm;73;NULL;A02RC;15;Halvfast løbeost;Semi-firm rennet cheese
+Grisekød, nakkekam med svær, rå;Pork, collar with rind, raw;74;Sus scrofa;A01RG#F02.A069H$F07.A073L;60;Svinekød (Gris);Pork
+Risengryn, grødris, brune, rå;Rice groats, brown, raw;76;Oryza sativa L.;A001E#F02.A066P;28;Korn og gryn;Grain and groats
+Sukker, stødt melis (sakkarose);Sugar, sucrose, white;77;NULL;A032K#F02.A06EC;102;Sukker;Sugar
+Grisefedt, afsmeltet, Raffinol;Lard, pork, refined, Raffinol;78;Sus scrofa;A037V#F28.A0BZT;93;Animalske fedtstoffer;Animal fats
+Grisefedt, afsmeltet;Lard, pork;79;Sus scrofa;A037V;93;Animalske fedtstoffer;Animal fats
+Mineralvand, dansk vand o.lign.;Water, bottled, carbonated;81;NULL;A03DS#F01.A0BYJ;111;Vand og mineralvand;Water and carbonated drinks
+Mineralvand, sodavand, uden tilsat sukker, uspec.;Soft drink, no sugar added, average values;82;NULL;A03DZ#F10.A077K;111;Vand og mineralvand;Water and carbonated drinks
+Fiskeolie, hydrogeneret;Fish oil, hydrogenated;85;NULL;A038M#F27.A026V$F28.A07LT;93;Animalske fedtstoffer;Animal fats
+Gås, kød og skind, rå;Goose, flesh and skin, raw;87;Anser anser;A01SS#F02.A069H$F07.A073Z$F20.A07QQ$F20.A07QV;84;And og gås;Duck and goose
+Kokosnød, rå;Nut, coco, raw;88;Cocos nucifera L.;A014K;53;Nødder;Nuts
+Snacks, ekspanderet, kartoffelbasis;Snacks, expanded, potatobasis;89;NULL;A011T#F02.A06GF$F03.A06HY;143;Chips and snacks;Potato chip and snacks
+Salat, mayonnaise-, makrel-;Mackerel mayonnaise salad;90;NULL;NULL;130;Fede salater;Fatty salads
+Læskedrik (light), koncentreret (1+10), uden tilsat sukker, uspec.;Non-alcoholic beverage (light), concentrated (1+10), no sugar added;91;NULL;A03DZ#F10.A077K$F28.A07KF;106;Andre drikkevarer;Other beverages
+Soja sauce;Soya sauce;92;Glycine max (L.) Merr.;A01NJ#F02.A068P;175;Andre produkter af bælgplanter;Other legume products
+Ost, fast, 40+, alle typer;Cheese, firm, 40 % fidm., all varieties;94;Bos taurus;A02SV#F07.A073L;13;Fast løbeost;Firm rennet cheese
+Ylette naturel;Ymer, low fat;95;Bos taurus;A02NG#F07.A06ZD$F27.A02LV$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Mozzarella, 45+;Cheese, semihard, Mozzarella, 45 % fidm.;97;Bos taurus;A02QJ#F07.A073N;13;Fast løbeost;Firm rennet cheese
+Smelteost, 45+;Cheese, processed, 45 % fidm.;98;Bos taurus;A031A#F07.A073N;17;Smelteost;Processed cheese
+And, kød og skind, rå;Duck, flesh and skin, raw;101;Anas platyrhynchos;A01SR#F02.A069H$F07.A074E$F20.A07QQ$F20.A07QV;84;And og gås;Duck and goose
+Sigtemel;Rye-flour, wheat-flour, bolted;102;Secale cereale L.;A004S#F04.A003X$F04.A003J$F28.A07LA;30;Mel og klid;Flour and bran
+Buddingpulver;Pudding powder;103;NULL;A02PY#F03.A06JD;132;Desserter;Desserts
+Havarti, 30+;Cheese, semihard, Havarti, 30 % fidm.;108;Bos taurus;A02TP#F07.A073G;13;Fast løbeost;Firm rennet cheese
+Danbo, 45+;Cheese, firm, Danbo, 45 % fidm.;109;Bos taurus;A02TQ#F07.A073N;13;Fast løbeost;Firm rennet cheese
+Rullepølse, lammekød, pålæg;Lamb, flank, spiced, cooked;110;Ovis aries;A025J#F04.A01RK$F04.A042Z$F07.A073X$F28.A07JP$F28.A07GL;65;Pålægsvarer;Cold cuts
+Løg, ristede;Onions, chopped and deepfried;114;Allium cepa;A00HC#F28.A07KY$F28.A07GV;188;Andre grøntsagsprodukter;Other vegetable products
+Te, drikkeklar, uspec.;Tea, ready-to-drink;115;Camellia sinensis;A03LB#F04.A0C6C;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Kastanje, ægte, rå;Chestnut, raw;116;Castanea sativa Miller;A014J;53;Nødder;Nuts
+Kaffe, instant, drikkeklar;Coffee, instant, prepared with water;117;NULL;A03KE#F04.A0C6A;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Esrom, 45+;Cheese, semihard, Esrom, 45 % fidm.;118;NULL;A02TX#F07.A073P;13;Fast løbeost;Firm rennet cheese
+Mineralvand, sodavand, tilsat sukker, uspec.;Soft drink, sugar added;129;NULL;A03DZ#F10.A077J;111;Vand og mineralvand;Water and carbonated drinks
+Elbo, 40+;Cheese, firm, Elbo, 40 % fidm.;131;NULL;A02YE;13;Fast løbeost;Firm rennet cheese
+Kartoffelchips, grove;Potato crisps, coarse;132;NULL;A0BYS#F02.A06GR$F03.A06HY;143;Chips and snacks;Potato chip and snacks
+Roquefort, 50+;Cheese, Roquefort, Danish, 50 % fidm.;136;NULL;A030K#F07.A073T;15;Halvfast løbeost;Semi-firm rennet cheese
+Kaffe, instant, decaffeinated, drikkeklar;Coffee, instant, decaffeinated, prepared with water;137;NULL;A03KE#F04.A0C6A$F28.A07MN;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Danablu 50+;Cheese, Danish Blue, 50 % fidm.;138;NULL;A02SG#F07.A073T;15;Halvfast løbeost;Semi-firm rennet cheese
+Brie, 60+;Cheese, Brie, 60 % fidm.;139;NULL;A02RV#F07.A073Z;14;Blød løbeost;Soft rennet cheese
+Bacon, kogestykke, rå;Bacon, stewing, raw;141;Sus scrofa;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Kaffe, drikkeklar;Coffee, beverage;142;NULL;A03KC#F04.A0C6A;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Rugkerner, hele/knækkede;Rye kernels, whole/cracked;143;Secale cereale L.;A001K#F02.A066P$F33.A0C4A;30;Mel og klid;Flour and bran
+Leverpølse, pålæg;Sausage, liver sausage;144;NULL;A025L;65;Pålægsvarer;Cold cuts
+Creme fraiche 50 %;Cream, cultured, 50 % fat;146;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Ost, fast, 45+, alle typer;Cheese, firm, 45 % fidm., all varieties;148;NULL;A02SV#F07.A073P;13;Fast løbeost;Firm rennet cheese
+Hørfrø, rå;Linseeds, raw;149;Linum usitatissimum L.;A015G#F02.A066P;177;Fedtrige frø;High-fat seeds
+Jordnød, tørret;Nut, pea, dried;150;Arachis hypogaea L.;A015H#F02.A066P$F28.A07KG;53;Nødder;Nuts
+Mælkeis, uspec.;Ice cream, dairy, (wholemilk based);151;NULL;A02QA#F02.A06BK;21;Fløde- og mælkeis;Dairy ice cream
+Fløde 50 %;Cream, 50 % fat;152;NULL;NULL;4;Usyrnede mælkeprodukter;Unfermented milk products
+Peber, hvid;Pepper, white;153;Piper nigrum;A019B#F02.A067E;120;Krydderier;Spices
+Sojamel;Soya flour, full fat;154;NULL;A01BG#F02.A067Z;175;Andre produkter af bælgplanter;Other legume products
+Ris, brune, rå;Rice, brown, raw;156;Oryza sativa L.;A001E#F02.A066P;28;Korn og gryn;Grain and groats
+Skummetmælkspulver;Milk, dry, skimmed, powder;158;NULL;A02PL#F02.A06AZ;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Havarti, 45+;Cheese, semihard, Havarti, 45 % fidm.;161;NULL;A02TP#F07.A073Q;13;Fast løbeost;Firm rennet cheese
+Hyben pulver, tørret;Rose hip, dried, powder;162;Rosa rugosa Thunb.;NULL;184;Tørrede frugt og bær produkter;Dried fruit and berry products
+Østers, rå;Oyster, raw;163;Ostreidae fam.;A02HG#F02.A069C;77;Bløddyr og produkter heraf;Mollusks and their products
+Hvidvin, tør;Wine, white, dry;164;NULL;NULL;113;Vine;Wines
+Fiskeboller, konserves;Fish balls, canned;165;NULL;A02KD#F02.A069C$F04.A026V$F28.A0BYP;79;Fiskeprodukter;Fish products
+Rugbrød, revet, med brunt sukker, uspec.;Rye bread crumbs with brown sugar, average values;166;NULL;A005G#F02.A06CM$F04.A032M$F28.A07KZ$F28.A07GX;34;Morgenprodukter;Breakfast products
+Hvidvin, uspec.;Wine, white, average values;167;NULL;NULL;113;Vine;Wines
+Hvidvin, Rhinskvin;Wine, white, Rhine wine;168;NULL;NULL;113;Vine;Wines
+Tomat, soltørret;Tomato, dried;169;Lycopersicon esculentum (L.) Karsten ex Farw.;NULL;41;Frugt-grøntsager;Fruit -Vegetables
+Ymer naturel;Ymer;170;NULL;A02NG#F07.A06ZY$F27.A02LV$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Rødvin, rosévin, uden alkohol;Wine, red, rosé, non-alcoholic;171;NULL;NULL;113;Vine;Wines
+Hvidvin, medium;Wine, white, medium;173;NULL;A03MV;113;Vine;Wines
+Småkage, finsk brød;Biscuit, sweet, 'Finnish';174;NULL;A009Y#F04.A039C$F04.A003X$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Hvidvin, uden alkohol;Wine, white, non-alcoholic;175;NULL;NULL;113;Vine;Wines
+Byggryn, rå;Barley groats, raw;176;Hordeum vulgare L.;A000P#F02.A066P;28;Korn og gryn;Grain and groats
+Øl, let pilsner, 2.6 % vol.;Beer, lager, alc. 2.6 % by vol.;178;NULL;A03MF#F02.A06EZ$F11.A078S;112;Øl og andre maltdrikke;Beer and other malt beverages
+Risstivelse;Rice starch;179;Oryza sativa L.;NULL;36;Stivelsesprodukter;Starch products
+Lakridskonfekt;Liquorice allsorts;180;NULL;A035J#F02.A06EJ;182;Slik;Candy
+Wienerbrød, spandauer;Danish pastry, square;181;NULL;A00CC;33;Kager;Cakes
+Dressing, fransk;Salad dressing, French;182;NULL;A045K#F04.A044G$F04.A031S$F04.A044L$F04.A042Z$F04.A036N;98;Dressings;Dressings
+Danablu 60+;Cheese, Danish Blue, 60 % fidm.;183;NULL;A02SG#F07.A074B;15;Halvfast løbeost;Semi-firm rennet cheese
+Fynbo, 45+;Cheese, firm, Fynbo, 45 % fidm.;184;NULL;A02SV#F07.A073R;13;Fast løbeost;Firm rennet cheese
+Æg, høne, æggehvide, pasteuriseret;Eggs, chicken, egg white, pasteurized;187;Gallus domesticus;A031T#F28.A07HV$F28.A07KQ;88;Flydende æg;Liquid egg
+Stenbider, røget;Lump, lumpsucker, smoked;188;Cyclopterus lumpus;NULL;79;Fiskeprodukter;Fish products
+Hvedekerner, hele/knækkede;Wheat, kernels, whole/cracked;189;Triticum aestivum L.;A001M#F01.A05AF$F02.A066P;30;Mel og klid;Flour and bran
+Frugtsaft, blandet, usødet, koncentreret;Fruit juice, mixed, unsweetened, concentrated;191;NULL;A03BN#F10.A077K;54;Bærjuice og bærsaft;Berry juices
+Rasp;Bread-crumbs;192;NULL;A007A#F02.A06CM$F28.A07GX;31;Brød;Bread
+Æblemost, uspec.;Apple juice, canned or bottled;194;NULL;A039M#F02.A068Q;186;Frugtjuice og frugtsaft;Fruit juice
+Øl, pilsner, 4.4 % vol.;Beer, lager, alc. 4.4 % by vol.;198;NULL;A03ME#F02.A06EZ$F11.A079N;112;Øl og andre maltdrikke;Beer and other malt beverages
+Sagogryn (kartoffelstivelse);Pearl-sago (potato starch);199;NULL;A011F#F03.A06JD;36;Stivelsesprodukter;Starch products
+Maribo, 45+;Cheese, firm, Maribo, 45 % fidm.;203;NULL;A02SV#F07.A073R;13;Fast løbeost;Firm rennet cheese
+Sennep, brun, færdiglavet;Mustard, brown, ready made;204;NULL;A044G#F24.A07VP;181;Sennep, ketchup, pesto o.l.;Condiments
+Hvidløg, rå;Garlic, raw;205;Allium sativum L.;A00GZ;44;Krydderurter;Herbs
+Rosévin;Wine, rosé;206;NULL;NULL;113;Vine;Wines
+Mayonnaise, fedtreduceret;Mayonnaise, low fat;207;NULL;A037M;97;Mayonnaise, remoulade o.l.;Mayonnaises,  remoulade etc
+Millionbøf, uspec.;Minced meat, spaghetti sauce type, average values;208;NULL;NULL;128;Færdigretter;Ready meals
+Samsø, 45+;Cheese, firm, Samsoe, 45 % fidm.;209;NULL;A02SV#F07.A073R;13;Fast løbeost;Firm rennet cheese
+Spædbørnsmad, modermælkserstatning, lavt jernindhold, pulver;Baby food, infant formula, low iron content, powder;211;NULL;NULL;135;Spædbørnsmad;Infant food
+Sherry, medium;Sherry, medium;212;NULL;A03NJ#F02.A06FB;114;Hedvine;Liqueur wines
+Rødvin, uspec.;Wine, red;213;NULL;A03MX;113;Vine;Wines
+Chesire, 50+;Cheese, hard, Chesire, 50 % fidm.;214;NULL;A02TL#F07.A073V;13;Fast løbeost;Firm rennet cheese
+Æg, høne, æggehvide, rå;Eggs, chicken, egg white, raw;215;Gallus domesticus;A031T;87;Friske æg;Fresh eggs
+Bacon, stegestykke, rå;Bacon, frying, raw;216;Sus scrofa;A01RG#F02.A07XS$F07.A073K;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Vermouth, tør;Vermouth, dry;217;NULL;A03NH#F02.A06FB;114;Hedvine;Liqueur wines
+Vermouth, sød;Vermouth, sweet;220;NULL;A03NH#F02.A06FB;114;Hedvine;Liqueur wines
+Sveske, rå;Prune, dried plum;221;Prunus domestica L. ssp. domestica;A01MB#F02.A068P;50;Stenfrugt;Stone fruit
+Tamarind, rå;Tamarind, Indian date, raw;222;Tamarindus indica L.;A019J#F02.A067E;52;Sydfrugt;Tropical or subtropical fruit
+Croissant;Pastry, croissant;223;NULL;A00BM;31;Brød;Bread
+Øl, ubeskattet, uspec.;Beer, Danish household, low alcohol, average values;224;NULL;A03MF#F02.A06EZ;112;Øl og andre maltdrikke;Beer and other malt beverages
+Æg, høne, æggehvide, tørret;Eggs, chicken, egg white, dried;225;Gallus domesticus;A031Z;89;Tørrede æg;Dried egg
+Eddike;Vinegar;226;NULL;A044L#F02.A06HA$F03.A06JL;125;Eddike;Vinegar
+Madeira;Madeira;228;NULL;A03NK#F02.A06FB;114;Hedvine;Liqueur wines
+Campari;Campari;229;NULL;NULL;114;Hedvine;Liqueur wines
+Tebirkes;Pastry with poppy seeds;230;NULL;A00CC#F04.A015J;31;Brød;Bread
+Ost, blå- og hvidskimmel, 70+;Cheese, Blue and white mould, 70 % fidm.;231;NULL;A02SM#F07.A074K;14;Blød løbeost;Soft rennet cheese
+Hvidvin, sød;Wine, white, sweet;232;NULL;NULL;113;Vine;Wines
+Bitter, uspec.;BITTER, all types, average values;235;NULL;A03PD;116;Spiritus;Spirits
+Peber, sort;Pepper, black;236;Piper nigrum;A019C#F02.A067E;120;Krydderier;Spices
+Øl, mørkt hvidtøl;Beer, Danish household, low alcohol;238;NULL;A03MF#F02.A06EZ$F11.A078D;112;Øl og andre maltdrikke;Beer and other malt beverages
+Bitter, Gammel Dansk Bitter Dram;BITTER, Gammel Dansk Bitter Dram;240;NULL;NULL;116;Spiritus;Spirits
+Cognac;Brandy, cognac;245;NULL;A03PE#F02.A06FD$F27.A01DV;116;Spiritus;Spirits
+Hvidvin, mousserende, champagne;Wine, white, sparkling, champagne;246;NULL;NULL;113;Vine;Wines
+Svenbo, 45+;Cheese, firm, Svenbo, 45 % fidm.;248;NULL;A02YE#F07.A073S;13;Fast løbeost;Firm rennet cheese
+Snaps, krydder-, uspec.;Aquavit, spiced, average values;249;NULL;A03PH#F02.A06FD;116;Spiritus;Spirits
+Sherry, tør;Sherry, dry;250;NULL;A03NJ#F02.A06FB;114;Hedvine;Liqueur wines
+Oliven, sorte, uden sten, i saltlage;Olives, black, without stones, in brine;251;Olea europaea L.;NULL;55;Konserves og syltet bær og frugt;Canned fruit products
+Øl, Guld-, 5.6 % vol.;Beer, export, alc. 5.6 % by vol.;256;NULL;A03MC#F02.A06EZ$F11.A07AC;112;Øl og andre maltdrikke;Beer and other malt beverages
+Spirituosa, gennemsnitlige værdier;Spirits, 70 % proof;257;NULL;A03NT;116;Spiritus;Spirits
+Vodka;Vodka;258;NULL;A03PH#F02.A06FD;116;Spiritus;Spirits
+Skærekage, citronkage;Plain cake, lemon cake;259;NULL;A025L;33;Kager;Cakes
+Bitter, krabask bitter;BITTER, Krabask Bitter;260;NULL;NULL;116;Spiritus;Spirits
+Emmentaler, 45+;Cheese, hard, Emmentaler, 45 % fidm.;261;NULL;A02YM#F07.A073S;13;Fast løbeost;Firm rennet cheese
+Morgenmadsprodukt, Rice Krispies;Breakfast cereal, Rice Krispies;263;NULL;NULL;34;Morgenprodukter;Breakfast products
+Snaps, 40 % vol., uspec.;Aquavit, 40 % vol., average values;264;NULL;A03PH#F02.A06FD;116;Spiritus;Spirits
+Ispind, jordbær;Ice cream, dairy, popsickle, strawberry;266;NULL;A036J#F04.A06TV;21;Fløde- og mælkeis;Dairy ice cream
+Rødvin, spansk, sød;Wine, spanish red, sweet;267;NULL;NULL;113;Vine;Wines
+Citronsaft, friskpresset;Lemon juice, fresh;268;Citrus limon (L.) Burm. f.;A03AH#F02.A068Q;52;Sydfrugt;Tropical or subtropical fruit
+Esrom, 60+;Cheese, semihard, Esrom, 60 % fidm.;270;NULL;A02TX#F07.A074D;13;Fast løbeost;Firm rennet cheese
+Flødeyoghurt med frugt, 9 % fedt;Cream yoghurt, 9 % fat, with fruit;271;NULL;A02NH#F04.A02ML$F04.A0BY3$F04.A032J$F04.A02NG$F07.A072K;5;Syrnede mælkeprodukter;Fermented milk products
+Tofu;Tofu;272;NULL;A03TT#F04.A015P;169;Plantebaserede produkter;Plant-based products
+Portvin;Port;273;NULL;A03NL#F02.A06FB;114;Hedvine;Liqueur wines
+Grapefrugtjuice, konserves, usødet;Grapefruitjuice, canned, unswtnd.;275;Citrus x paradisi Macfad.;A03AL#F02.A068Q$F10.A077K$F28.A0BYP;186;Frugtjuice og frugtsaft;Fruit juice
+Skærekage, chokoladekage/-pie;Plain cake, chocolate cake;276;NULL;A025L;33;Kager;Cakes
+Bouillon, hønsekød, spiseklar;Bouillon, chicken, prepared;277;NULL;A043G#F02.A06HC$F24.A07VP$F28.A07MR;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Wienerbrød, kanelsnegl;Danish pastry, kanelsnegl;279;NULL;NULL;33;Kager;Cakes
+Wienerbrød, uspec.;Danish pastry, average values;280;NULL;A00CC;33;Kager;Cakes
+Skærekage, formkage, uspec.;Plain cake, average values;281;NULL;A009X#F04.A003X$F28.A07GX;33;Kager;Cakes
+Pop corn, traditionelle;Pop corn, oil and salt added, traditional;282;NULL;A000V#F01.A059G$F02.A066P;143;Chips and snacks;Potato chip and snacks
+Bulgur, parboiled, rå;Bulgur, parboiled, raw;283;Triticum aestivum L.;A004G#F28.A0C03;28;Korn og gryn;Grain and groats
+Linsespirer, rå;Lentils, sprouted, raw;285;Lens culinaris (L.) Medikus;A00SP;171;Friske bælgplanter;Fresh legumes
+Whisky;Whisky;286;NULL;A03PF#F02.A06FD;116;Spiritus;Spirits
+Spegepølse, oksekød;Sausage, beef salami;287;NULL;A024X#F04.A01QV;65;Pålægsvarer;Cold cuts
+Havarti, 60+;Cheese, semihard, Havarti, 60 % fidm.;291;NULL;A02TP#F07.A074D;13;Fast løbeost;Firm rennet cheese
+Øl, skatteklasse 3, uspec.;Beer, strong, alc. 7.6 % by vol.;296;NULL;A03MD#F02.A06EZ$F11.A07BA;112;Øl og andre maltdrikke;Beer and other malt beverages
+Fløde 9 %, syrnet;Cream, cultured, 9 % fat;300;NULL;A02ML#F07.A072K;5;Syrnede mælkeprodukter;Fermented milk products
+Pølse, tepølse;Pork/beef sausage, teewurst;301;NULL;NULL;65;Pålægsvarer;Cold cuts
+Hasselnød, tørret;Hazelnut, dried;302;Corylus avellana L.;A014L#F28.A07KE;53;Nødder;Nuts
+Fløde 9 %;Cream, 9 % fat;303;NULL;A02ML#F07.A072K;4;Usyrnede mælkeprodukter;Unfermented milk products
+Pasta, rå;Pasta, raw;305;NULL;A04LB#F02.A06CV$F27.A001M;35;Pastaprodukter;Pasta
+Kvark, 5+;Cheese, Quarg, 5 % fidm.;307;NULL;A02QK#F07.A06YM;12;Blød surmælksost;Soft sour milk cheese
+Grana, 32+;Cheese, hard, Grana, 32 % fidm.;308;NULL;A02ZH#F07.A073M;13;Fast løbeost;Firm rennet cheese
+Parmesan, 32+;Cheese, hard, Parmesan, 32 % fidm.;309;NULL;A02ZS#F07.A073M;13;Fast løbeost;Firm rennet cheese
+Gin;Gin;313;NULL;A03PG#F02.A06FD;116;Spiritus;Spirits
+Creme fraiche 9 %;Cream, cultured, 9 % fat;316;NULL;A02NC#F02.A06BA$F07.A072K;5;Syrnede mælkeprodukter;Fermented milk products
+Agurk, syltet, uden tilsat sukker;Gherkin, pickled, no sugar added;317;Cucumis sativus L.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Bagegær, presset, rå;Yeast, baker`s, compressed;319;Saccharomyces cerevisiae;A049A;122;Gær og hævemiddel;Yeast and baking powder
+Småkage, vanillekranse;Biscuit, sweet, vanilla flavoured;320;NULL;A009X#F04.A06VS$F04.A003X$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Cheddar, 50+;Cheese, hard, Cheddar, Danish;321;NULL;A02YK#F07.A073Y;13;Fast løbeost;Firm rennet cheese
+Fiskefars, rå;Fish pudding, raw;324;NULL;A03XT#F02.A06GE$F24.A07VV;79;Fiskeprodukter;Fish products
+Rom;Rum;325;NULL;A03PJ#F02.A06FD;116;Spiritus;Spirits
+Pistacienød, tørret;Pistachio nuts, dried;328;Pistacia vera L.;NULL;53;Nødder;Nuts
+Flødeboller, skumboller;Whipped egg white and sugar with chocolate covering;330;NULL;A035H#F02.A06EJ$F22.A07SH$F28.A07HP;182;Slik;Candy
+Hirseflager;Millet, flakes;331;Panicum miliaceum;A00DF;28;Korn og gryn;Grain and groats
+Rygeost, 1 % fedt;Cheese, unripened, smoked, 1 % fat;333;NULL;A02QF#F07.A06YN$F28.A07JV;12;Blød surmælksost;Soft sour milk cheese
+Torsk, lever, konserves;Cod, liver, canned;335;Gadus morhua;A02EL#F28.A0BYM;78;Fiskeindmad og rogn;Offal and fish eggs
+Jordbær, dybfrost, usukrede;Strawberries, frozen, unsweetened;336;Fragraria x ananassa Duchesne;A01EA#F02.A067D$F28.A07KQ;51;Bærfrugt;Soft fruit
+Snacks, ekspanderet, majsbasis;Snacks, expanded, cornbased;337;NULL;A00FE#F03.A06HY$F04.A002M$F28.A07LL;143;Chips and snacks;Potato chip and snacks
+Ananasjuice, konserves;Pineapple juice, canned;339;Ananas comosus (L.) Merr.;A03AF#F02.A068Q$F28.A0BYP;186;Frugtjuice og frugtsaft;Fruit juice
+Myseost, 33+;Cheese, whey, Myseost, 33 % fidm.;340;NULL;A04NV#F07.A073Q;16;Valleost;Whey cheese
+Gruyere, 45+;Cheese, hard, Gruyere, 45 % fidm.;341;NULL;A02YP#F07.A073T;13;Fast løbeost;Firm rennet cheese
+Rødkål, konserves, uden tilsat sukker;Cabbage, red, canned, no sugar added;342;Brassica oleracea L. convar. capitata (L.);NULL;46;Grøntsagskonserves;Canned vegetable products
+Wienerbrød, kringle/stang;Danish pastry, pretzel;343;NULL;A00CC;33;Kager;Cakes
+Sherry, sød;Sherry, sweet;344;NULL;A03NJ#F02.A06FB;114;Hedvine;Liqueur wines
+Figen, tørret;Fig, dried;348;Ficus carica L.;A01MG#F02.A068P;52;Sydfrugt;Tropical or subtropical fruit
+Tranebær, rå;Cranberry, raw;350;Vaccinium oxycoccus L.;A01FH#F02.A067D;51;Bærfrugt;Soft fruit
+Tørkage, linse;Pastry, 'linse';351;NULL;A00BX;33;Kager;Cakes
+Pop Corn (poppede majskærner);Pop corn, oil and salt added;352;Zea mays L.;A00DC#F10.A0CJK;143;Chips and snacks;Potato chip and snacks
+Wienerbrød, julekage;Danish pastry, christmas cake;356;NULL;A00CC;33;Kager;Cakes
+Spegepølse;Sausage, salami;358;NULL;A024X;65;Pålægsvarer;Cold cuts
+Skærekage, sandkage;Sponge cake, pound cake;359;NULL;NULL;33;Kager;Cakes
+Kvæde, rå;Quinces, raw;364;Cydonia oblonga Miller;A01DR#F02.A067D;49;Kernefrugt;Pome fruit
+Græskar, rå;Pumpkin, raw;366;Cucurbita pepo L.;A00KH#F01.A05DR$F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Dressing, blue cheese;Salad dressing, blue cheese;367;NULL;A045K#F04.A02SG;98;Dressings;Dressings
+Kinaradise, japanræddike, rå;Radishes, oriental, daikon, Japanese radish, raw;368;Raphanus sativus L. var. achantiformis Makino;A00QY#F01.A05FD$F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Sesamfrø, hele;Sesame seeds, whole;370;Sesamum indicum;A015K#F02.A066P$F28.A07KG;177;Fedtrige frø;High-fat seeds
+Oliven, grønne, marinerede, konserves;Olives, green, pickled, canned;371;Olea europea L.;A01BP#F28.A0BYM;55;Konserves og syltet bær og frugt;Canned fruit products
+Tang, agar, tørret;Seaweed, agar, dried;372;NULL;A00VA;187;Tang og tangprodukter;Seaweed and seaweed products
+Knækbrød, rug-, groft;Crispbread, knackebrot, rye, coarse;375;NULL;A006B#F04.A003J$F28.A07GX;31;Brød;Bread
+Makaroni, spaghetti, fuldkorns-, rå;Macaroni, spaghetti, whole meal, raw;377;NULL;NULL;35;Pastaprodukter;Pasta
+Rugbrød, fuldkorn, importeret;Rye bread, dark, wholemeal, imported;379;NULL;NULL;31;Brød;Bread
+Pære, konserves;Pear, canned;380;Pirus communis L. var. sativa;A01NR#F02.A068P;55;Konserves og syltet bær og frugt;Canned fruit products
+Majroe, rå;Turnip, raw;381;Brassica rapa (L.) var. rapa (L.) Thell.;A00RE#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Bitter, sød, uspec.;BITTER, sweet, all types, average values;383;NULL;A03NV;116;Spiritus;Spirits
+Bønnespirer, adzuki, rå;Bean, adzuki, sprouted, raw;384;Vigna angularis (Willd.) Ohwi & H. Ohashi var. angularis;A00SG;171;Friske bælgplanter;Fresh legumes
+Hirse, hele korn;Millet, whole-grain;385;Panicum miliaceum;A001B#F01.A059J$F02.A066P;28;Korn og gryn;Grain and groats
+Pop corn, mikroovn;Pop corn, microwave oven;386;NULL;A000V#F01.A059G$F02.A066P;143;Chips and snacks;Potato chip and snacks
+Musling, rå;Mussel, raw;387;Mytilus edulis;A02HA#F01.A054X$F02.A069C;77;Bløddyr og produkter heraf;Mollusks and their products
+Agurk, rå;Cucumber, raw;388;Cucumis sativus L.;A00JM#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Loquat, japansk mispel, rå;Loquat, raw;389;Eriobotrya japonica (Thunb.) Lindley;A01DL#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Cashewnød, olieristet;Cashew nuts, oil roasted;390;Anarcardium occidentale;A014H#F28.A07HC;53;Nødder;Nuts
+Wienerbrød, smørkrans;Danish pastry, butter ring;392;NULL;A00CC;33;Kager;Cakes
+Nøddepasta med cacao, smørepålæg;Nut paste with cacao, spreads;393;NULL;A034F#F04.A0C6B;178;Nøddeprodukter;Nut products
+Cornflakes, uspec.;Corn flakes, average values;395;NULL;A00DD;34;Morgenprodukter;Breakfast products
+Müsli, uspec.;Breakfast cereal, müsli, average values;396;NULL;A00DD#F10.A077J;34;Morgenprodukter;Breakfast products
+Honningmelon, rå;Melon, honeydew, raw;397;Cucumis melo L.;A00KF#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Forloren skildpadde, uspec.;Turtle, fake, average values;398;NULL;NULL;128;Færdigretter;Ready meals
+Tomatjuice, konserves;Tomatojuice, canned;401;NULL;A03CJ;45;Grøntsagsjuice;Vegetable juices
+Abrikos, konserves, let sukkerlage;Apricot, canned, light syrup pack;403;Prunus armeniaca L.;A01NS#F02.A068P$F06.A06XZ;55;Konserves og syltet bær og frugt;Canned fruit products
+Agurk, syltet;Gherkin, pickled;404;Cucumis sativus L.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Appelsinjuice, konserves;Orange juice, canned;405;Citrus sinensis;A03AM#F28.A0BYP;186;Frugtjuice og frugtsaft;Fruit juice
+Kødpølse, fedtreduceret, pålæg;Pork sausage, saveloy type, low fat;406;NULL;A025Q#F10.A077C;65;Pålægsvarer;Cold cuts
+Druesaft;Grape juice;407;NULL;A03AK;54;Bærjuice og bærsaft;Berry juices
+Krebs, rå;Crayfish, raw;408;NULL;A02FG#F01.A053G$F02.A069C;76;Skaldyr og produkter heraf;Shellfish and their products
+Majsstivelse;Corn starch;409;Zea mays L.;A002R#F03.A07Y2$F28.A0C03;36;Stivelsesprodukter;Starch products
+Gulerod, konserves;Carrot, canned;410;Daucus carota L.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Kartoffelmos, pulver med tørmælk;Potatoes, mashed, instant powder with dry milk;412;NULL;A011E#F02.A067Z$F03.A06JD;188;Andre grøntsagsprodukter;Other vegetable products
+Rugbrød, lyst;Rye bread, light;413;NULL;A005G#F02.A06CM$F28.A07GX;31;Brød;Bread
+Bitter, jägermeister;Bitter, Jägermeister;416;NULL;NULL;116;Spiritus;Spirits
+Salt, bordsalt (jodberiget);Salt, table;417;NULL;A042R;121;Salt;Salt
+Pumpernikkel;Rye bread, dark, pumpernickel;418;NULL;A005J#F02.A06CM$F28.A07GX;31;Brød;Bread
+Forårsrulle, dybfrost;Spring roll, frozen;419;NULL;NULL;128;Færdigretter;Ready meals
+Abrikos, konserves, uden tilsat sukker;Apricot, canned, no sugar added;421;Prunus armeniaca L.;NULL;55;Konserves og syltet bær og frugt;Canned fruit products
+Græskar, konserves;Pumpkin, canned;422;Cucurbita pepo L.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Ananas, konserves;Pineapple, canned;423;Ananas comosus (L.) Merr.;A01PB#F02.A068P;55;Konserves og syltet bær og frugt;Canned fruit products
+Løg, hakkede, dybfrost;Onions, chopped, frozen;424;Allium cepa L.;A00HC#F28.A07KQ$F28.A07KY;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Flødeskumskage, lagkagesnitte;Cream pastry, layer cake;425;NULL;NULL;33;Kager;Cakes
+Krydder;Wheat rusk;426;NULL;A006M#F03.A06HY$F28.A07GX;31;Brød;Bread
+Tvebakker;Wheat rusk;427;NULL;A006M#F03.A06HY$F28.A07GX;31;Brød;Bread
+Cayote, Kayote, rå;Chayote fruit, raw;428;Sechium edule;A00JZ#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Knækbrød, rug-, fint;Crispbread, knackebrot, rye, fine;432;NULL;A006C#F04.A003J$F28.A07GX;31;Brød;Bread
+Sennep, gul, færdiglavet;Mustard, yellow, ready made;433;NULL;A044G#F24.A07VP;181;Sennep, ketchup, pesto o.l.;Condiments
+Fersken, konserves;Peach, canned;434;Prunus persica (L.) Batsch;A01NY;55;Konserves og syltet bær og frugt;Canned fruit products
+Likør, uspec.;Liqueur, average values;435;NULL;A03NS;115;Likør;Liqueurs
+Cornflakes, frosted;Corn flakes, frosted;436;NULL;A00DD#F10.A077J;34;Morgenprodukter;Breakfast products
+Solsikkefrø, afskallede, tørrede;Sunflower seeds, decorticated, dried;438;Helianthus annuus L.;A015L#F02.A066P$F28.A07LC$F28.A07KG;177;Fedtrige frø;High-fat seeds
+Sauce, gravad laks;Sauce gravad lax;439;Salmo salar;A044H#F04.A00XH;181;Sennep, ketchup, pesto o.l.;Condiments
+Snacks, ekstruderet, majsbasis;Snacks, extruded, cornbased;443;NULL;A00FE#F03.A06HY$F04.A002M;143;Chips and snacks;Potato chip and snacks
+Havregryn, beriget;Oats, rolled, enriched;444;Avena sativa L.;A00DH#F09.A03SK;28;Korn og gryn;Grain and groats
+Netmelon, rå;Muskmelon, raw;447;Cucumis melo L. var. reticulatus Naud.;A00KF#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Tomat, dansk, rå;Tomato, Danish, ripe, raw;451;Lycopersicon esculentum (L.) Karsten ex Farw.;A00HR#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Mandarin, konserves;Tangerine, canned;452;Citrus reticulata Blanco (Clementin);A01NP#F02.A068P;55;Konserves og syltet bær og frugt;Canned fruit products
+Rødspætte, filet, paneret, dybfrost;Plaice, fillet, breaded, dybfrost;454;Pleuronectes platessa;A02BC#F01.A04ZG$F02.A069C$F03.A06HZ$F28.A07HK$F28.A07KQ;79;Fiskeprodukter;Fish products
+Frugtsaft, blandet, sødet, koncentreret;Fruit juice, mixed, sweetened, concentrated;456;NULL;A03BN#F10.A077J;54;Bærjuice og bærsaft;Berry juices
+Abrikos, tørret;Apricot, dried;458;Prunus armeniaca L.;A01MD#F02.A068P;50;Stenfrugt;Stone fruit
+Sauce, barbeque;Sauce, barbeque;459;NULL;A00JF#F02.A067D;133;Saucer og sovsepulver;Sauce and powdered sauce
+Müsli med tilsat sukker.;Breakfast cereal, Müsli with added sugar;460;NULL;A00EJ#F10.A077J;34;Morgenprodukter;Breakfast products
+Müsli uden tilsat sukker.;Breakfast cereal, Müsli, no sugar added;461;NULL;A00EJ#F10.A077K;34;Morgenprodukter;Breakfast products
+Bondebrød, industrifremstillet;Rye bread, fine with wheat flour, industrially produced;462;NULL;A005N#F02.A06CM$F22.A07SH$F28.A07GX;31;Brød;Bread
+Lime, rå;Lime, raw;464;Citrus aurantifolia (Christm.), Swingle;A01CA#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Paradisæble, råt;Crab apple, raw;465;Malus sylvstris Miller. ssp. mitis (Wallr.) Mansf. var paradisiaca (l.);A01DK#F02.A067D;49;Kernefrugt;Pome fruit
+Hyldebærsaft, sur, koncentreret;Elderberry, juice, concentrated, sugar not added;467;Sambucus nigra L.;NULL;54;Bærjuice og bærsaft;Berry juices
+Fløde 13 % (UHT);Cream, 13 % fat (UHT);468;NULL;A02ML#F07.A073A$F28.A07HY;4;Usyrnede mælkeprodukter;Unfermented milk products
+Frølår, dybfrost;Frog legs, frozen;469;NULL;A02KY#F02.A07XQ$F28.A07KQ;183;Andre produkter af vandlevende dyr;Other aquatic animal products
+Peber, chili, konserves;Pepper, hot chili, canned;470;Capsicum frutescens;NULL;46;Grøntsagskonserves;Canned vegetable products
+Sesamfrø, afskallede;Sesame seed, decorticated;471;Sesamum indicum;A015K#F02.A066P$F28.A07LC;177;Fedtrige frø;High-fat seeds
+Jordbærsaft, sur, koncentreret;Strawberry juice, concentrated, sugar not added;472;Fragraria x ananassa Duchesne;A03CE#F10.A077K;54;Bærjuice og bærsaft;Berry juices
+Hindbærsaft, sur, koncentreret;Raspberry juice, concentrated, sugar not added;473;Rubus idaeus L.;NULL;54;Bærjuice og bærsaft;Berry juices
+Knude, rå;Burbot, raw;474;Lota lota;A04RN#F01.A0834$F02.A069C;70;Mager fisk;Lean fish
+Kulmule, rå;Hake, raw;475;Merluccius merluccius;A02CB#F02.A069C;70;Mager fisk;Lean fish
+Flødeskumskage, jordbærkage;Cream pastry, strawberry cake;476;NULL;NULL;33;Kager;Cakes
+Dressing, mayonnaise, kalorielet;Salad dressing, mayonnaise, low calorie;477;NULL;A045K#F04.A044Y;98;Dressings;Dressings
+Likør, Curacao;Liqueur, Curacao;478;NULL;A03NT;115;Likør;Liqueurs
+Salat, Iceberg, rå;Lettuce, iceberg (incl. crisphead types), raw;479;Lactuca sativa L. var. capitata L.;A00KZ#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Havregryn, ikke beriget;Oats, rolled, not enriched;480;Avena sativa L.;A00DH;28;Korn og gryn;Grain and groats
+Ribssaft, sur, koncentreret;Currant, red, juice, concentrated, sugar not added;481;NULL;A03BT;54;Bærjuice og bærsaft;Berry juices
+Jordbær, dybfrost, sukrede;Strawberries, frozen, sweetened, whole;482;Fragraria x ananassa Duchesne;A01EA#F02.A067D$F10.A077J$F28.A07KQ;51;Bærfrugt;Soft fruit
+Fløde 13 %;Cream, 13 % fat;483;NULL;A02ML#F07.A073A;4;Usyrnede mælkeprodukter;Unfermented milk products
+Ananas, rå;Pineapple, raw;485;Ananas comosus (L.) Merr.;A01LP#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Saccharin;Sakkarin;486;NULL;A046N;101;Andre sukkervarer;Other sweet products
+Salami;Sausage, salami;489;NULL;A024X;65;Pålægsvarer;Cold cuts
+Ræddike, rå;Radish, white, raw;490;Raphanus sativus L. var. niger (Miller);A00QY#F01.A05FD$F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Cantaloupe (melon), rå;Melon, cantaloup, raw;491;Cucumis melo L. var. cantaloupensis Naud.;A00KF#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Rødbede, konserves, uden tilsat sukker;Beet, red, canned, no sugar added;492;Beta vulgaris L. var. conditiva Alef.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Kødboller, konserves;Meat balls, canned;493;NULL;A03XG#F02.A06GE$F04.A0BXF$F28.A0BYP;127;Andre sammensatte fødevarer;Other composite foods
+Blæksprutte, rå;Octopus, raw;495;Octopus bimaculatus;A02JB#F02.A069C;77;Bløddyr og produkter heraf;Mollusks and their products
+Peberrod, rå;Horse-radish, raw;496;Armoracia rusticana P. Gaertn., Meyer et Sherb.;A00QK#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Jordbær i sukkerlage, konserves;Strawberries, canned;497;Fragraria x ananassa Duchesne;A01NN#F02.A068P$F06.A06XY$F27.A01EA;55;Konserves og syltet bær og frugt;Canned fruit products
+Grisekød i karrysovs, dybfrost;Pork in curry sauce, frozen;498;NULL;NULL;128;Færdigretter;Ready meals
+Solbærsaft, sur, koncentreret;Currant, black, juice, concentrated, sugar not added;500;NULL;A03BS#F10.A077K;54;Bærjuice og bærsaft;Berry juices
+Vinbjergssnegle, rå;Snail, edible, raw;501;NULL;A02LN#F02.A069C;77;Bløddyr og produkter heraf;Mollusks and their products
+Gulerod, dybfrost;Carrot, frozen;502;Daucus carota L.;A00QH#F02.A067M$F28.A07KQ;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Peberfrugt, konserves;Pepper, sweet, canned;503;Capsicum annuum L. var. grossum (L.) Terpø;NULL;46;Grøntsagskonserves;Canned vegetable products
+Tørkage, kokosmakroner;Pastry, coco macaroon;504;NULL;A00CN#F04.A014K$F28.A07GX;33;Kager;Cakes
+Ispind, vanille;Ice cream, dairy, popsickle, vanilla;505;NULL;A036J#F04.A06VS;21;Fløde- og mælkeis;Dairy ice cream
+Nougat is;Ice cream, dairy, nougat;506;NULL;A02QA#F02.A06BK$F04.A035D;21;Fløde- og mælkeis;Dairy ice cream
+Vanilleis;Ice cream, dairy, vanilla;507;NULL;A02QA#F02.A06BK$F04.A06VS;21;Fløde- og mælkeis;Dairy ice cream
+Vindrue, grønne, rå;Grape, green, raw;508;Vitis vinifera L.;NULL;49;Kernefrugt;Pome fruit
+Papaya, rå;Papaya, raw;510;Carica papaya L.;A01LG#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Sødmælkspulver;Milk, dry, whole, powder;511;NULL;A02PK#F02.A06AZ;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Pizza romana, dybfrost;Pizza Romana, frozen;512;NULL;A03ZN#F02.A06GN$F28.A07KQ;179;Pizza;Pizza
+Kirsebærsaft, sur, koncentreret;Cherry juice, concentrated, sugar not added;513;Prunus avium (L.) L.;A03CF#F10.A077K;54;Bærjuice og bærsaft;Berry juices
+Tyttebær, syltede;Lingonberry, jam;514;Vaccinium vitis-idaea L.;A01MT#F02.A068P$F28.A0C0G;55;Konserves og syltet bær og frugt;Canned fruit products
+Pecannød, tørret;Pecans, dried;515;Carya illinoensis (Wangenh.) K. Koch;NULL;53;Nødder;Nuts
+Hytteost, 20+;Cheese, cottage, 20 % fidm.;517;NULL;A02QG#F07.A070T;12;Blød surmælksost;Soft sour milk cheese
+Reje, dybvands-, kogt, dybfrost;Shrimp, boiled, shell removed;518;Pandalus borealis;A02FX#F01.A054F$F02.A069C$F28.A07KQ;76;Skaldyr og produkter heraf;Shellfish and their products
+Kålrabi (kålroe), rå;Swede, raw;519;Brassica napus L. var. napobrassica (L.) Reichb.;A00RD#F02.A067M;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Frugtkvark;Quark with fruit;520;NULL;A04NS#F02.A06BK$F04.A02QK$F04.A032J$F04.A0BY3$F07.A072B$F28.A07HX;12;Blød surmælksost;Soft sour milk cheese
+Gulerod, juice, konserves;Carrot juice, canned;523;Daucus carota L.;A03CK#F02.A068Q$F28.A0BYP;45;Grøntsagsjuice;Vegetable juices
+Abrikos, rå;Apricot, raw;524;Prunus armeniaca L.;A01GF#F02.A067D;50;Stenfrugt;Stone fruit
+Torsk, rogn, konserves;Cod, roe, canned;525;NULL;A02EP#F28.A0BYM;78;Fiskeindmad og rogn;Offal and fish eggs
+Valle;Whey, sweet, fluid;526;NULL;A02MR;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Reje, dybvands-, konserves;Shrimp, canned;527;Pandalus borealis;NULL;76;Skaldyr og produkter heraf;Shellfish and their products
+Blåbær, frosne, usukrede;Blueberry, frozen, unsweetened;528;Vaccinium myrtillus L.;A01EY#F02.A067D$F28.A07KQ;51;Bærfrugt;Soft fruit
+Hybensaft, sød, koncentreret;Rose hip syrup;529;NULL;NULL;54;Bærjuice og bærsaft;Berry juices
+Daddel, tørret;Date, dried;533;Phoenix dactylifera L.;A01MF#F02.A068P;184;Tørrede frugt og bær produkter;Dried fruit and berry products
+Bouillon, oksekød, terning, spiseklar;Bouillon, beef, cube, prepared;534;NULL;A043H#F02.A06HC$F24.A07VP$F28.A07MR;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Is, tre-farvet;Ice cream, dairy, three coloured;535;NULL;A02QA#F02.A06BK;21;Fløde- og mælkeis;Dairy ice cream
+Te, blade;Tea, leaves;537;Camellia sinensis;A03HQ;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Rabarber, dybfrost;Rhubarb, frozen;538;Rheum rhabarbarum L.;A00SD#F02.A067S$F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Drueagurk (sylteagurk), rå;Gherkin cucumber, raw;540;Cucumis sativus L.;A00JP#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Rødtunge, rå;Lemon sole, raw;541;Microstomus kitt;A02AR#F02.A069C;70;Mager fisk;Lean fish
+Asier, syltede;Cucumber, large, pickled;542;Cucumis sativus L.;A00JP;46;Grøntsagskonserves;Canned vegetable products
+Julesalat, rå;Chicory, raw;544;Cichorium intybus L. var. foliosum Hegi;A00LG#F01.A05EQ$F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Mango, rå;Mango, raw;545;Mangifera indica L.;A01LF#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Ising, rå;Dab, raw;546;Limanda limanda;A02AS#F01.A04ZG$F02.A069C;70;Mager fisk;Lean fish
+Nyre, kalv, rå;Kidney, calf, raw;547;NULL;A01YL;66;Indmad;Offal
+Torsk, filet, paneret, rå;Cod, fillet, breaded, raw;548;Gadus morhua;A02BV#F01.A050K$F02.A069C$F03.A06HZ$F28.A07HK;79;Fiskeprodukter;Fish products
+Sortmund, blåhvilling, filet, rå;Blue whiting, fillet, raw;549;Micromesistius poutassou;A04RS#F01.A08XP$F02.A069C$F03.A06HZ;70;Mager fisk;Lean fish
+Lever, gris, i flødesovs, dybfrost;Liver, pig, in cream sauce, frozen;550;NULL;NULL;128;Færdigretter;Ready meals
+Tørkage, uspec.;Pastry, average values;551;NULL;A00BX;33;Kager;Cakes
+Grapefrugt, rå;Grapefruit, raw;552;Citrus x paradisi Macfad.;A01CY#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Hvilling, rå;Whiting, raw;553;Merlangius merlangus merlangus;A02CG#F02.A069C;70;Mager fisk;Lean fish
+Salt, havsalt (ikke jodberiget);Salt, sea salt (no iodine fortification);556;NULL;A042X;121;Salt;Salt
+Havreklid, dansk;Oat Bran, Danish;558;Avena sativa L.;A003B#F03.A06JC$F28.A0C03;30;Mel og klid;Flour and bran
+Gulerod, dansk, rå;Carrot, raw;559;Daucus carota L.;A00QH#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Mandarin, rå;Tangerine, raw;560;Citrus reticulata Blanco (Clementin);A01CD#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Aborre, rå;Perch, raw;561;Perca fluviatilis;A027N#F02.A069C;70;Mager fisk;Lean fish
+Torsk, filet, kogt;Cod, fillet, boiled;562;Gadus morhua;A02BV#F01.A050K$F02.A069C$F03.A06HZ$F28.A07GG;79;Fiskeprodukter;Fish products
+Havkat, rå;Wolffish (catfish), raw;564;Anarhichas lupus lupus;A027J#F01.A04TY$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Flødeis;Ice cream, dairy (cream based);565;NULL;A02QA#F02.A06BK$F07.A072Y;21;Fløde- og mælkeis;Dairy ice cream
+Hjerte, kalv, råt;Heart, veal, raw;566;NULL;A020T#F01.A057E;66;Indmad;Offal
+Hvide bønner, tørrede, rå;Beans, white, dried, raw;568;Phaseolus vulgaris L.;A012X;173;Tørrede bælgplanter;Dried pulses
+Nyre, okse, rå;Kidney, ox, raw;569;Bos taurus;A01YK;66;Indmad;Offal
+Brosme, rå;Torsk, tusk, raw;570;Brosme brosme;A02CD#F01.A050R$F02.A069C;70;Mager fisk;Lean fish
+Torsk, filet, røget, med skind;Cod, fillet, smoked, with skin;571;Gadus morhua;NULL;79;Fiskeprodukter;Fish products
+Kaktusfigen, rå;Prickly pear, Indian fig, raw;572;Opuntia ficus indica (L.) Miller;A01KD#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Kinakål, rå;Cabbage, Chinese, raw;573;Brassica pekinensis (Lour.) Rupr.;A00GG#F01.A05BH$F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Nyre, gris, rå;Kidney, pig, raw;574;NULL;A01YM;66;Indmad;Offal
+Sperling, kød, rå;Norway pout, flesh, raw;575;Trisopterus esmarki;A02CJ#F02.A069C;70;Mager fisk;Lean fish
+Tørkage, mazariner;Pastry, frangipani pastry;577;NULL;A00CB#F28.A07HP;33;Kager;Cakes
+Figen, rå;Figs, raw;578;Ficus carica L.;A01HG#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Stjernefrugt, rå;Carambola, raw;579;Averrhoa carambola L.;A01HM#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Pighvarre, rå;Turbot, raw;581;Psetta maxima;A02BG#F01.A04ZX$F01.A04ZG$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Kuller, rå;Haddock, raw;582;Melanogrammus aeglefinus;A02CA#F02.A069C;70;Mager fisk;Lean fish
+Leverpostej, fedtreduceret;Pork, liver paste, Danish, low fat;583;NULL;A026L#F10.A077C;65;Pålægsvarer;Cold cuts
+Skrubbe, rå;Flounder, raw;584;Platichtys flesus;A02AT#F01.A04ZJ$F01.A04ZG$F02.A069C;70;Mager fisk;Lean fish
+Salat, endivie, bredbladet (escarole), rå;Endive (escarole), raw;585;Cichorium endivia L. var. latifolium Lam.;A00LE#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Lyssej, rå;Pollack, raw;587;Pollachius pollachius;A02CE#F01.A050S$F02.A069C;70;Mager fisk;Lean fish
+Skærekage, mazarinkage;Plain cake, frangipani cake;588;NULL;A00AQ#F04.A06QT;33;Kager;Cakes
+Kaviar, uægte (stenbiderrogn);Caviar, Danish (roe, lump-sucker);589;Cyclopterus lumpus;A02EM#F01.A09YX;78;Fiskeindmad og rogn;Offal and fish eggs
+Pizza napolitana, dybfrost;Pizza Napolitana, frozen;590;NULL;A03ZT#F02.A06GN$F28.A07KQ;179;Pizza;Pizza
+Salat, egeløv, rå;Lettuce, looseleaf, raw;591;Lactuca sativa L. var. crispa;A00KX#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Gule ærter (flækærter), rå;Peas, mature, dry, raw;592;Pisum sativum L.;A013L;173;Tørrede bælgplanter;Dried pulses
+Kakifrugt (Sharon), rå;Persimmon, kaki fruit, raw;593;Diospyros kaki L.;A01HP#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Lange, filet, rå;Ling, fillet, raw;594;Molva molvo;A02CC#F01.A050R$F02.A069C$F03.A06HZ;70;Mager fisk;Lean fish
+Søtunge, rå;Sole, raw;595;Solea solea;A02BF#F01.A04ZV$F01.A04ZG$F02.A069C;70;Mager fisk;Lean fish
+Tomat, flået, konserves;Tomato, peeled, canned;596;Lycopersicon esculentum (L.) Karsten ex Farw.;A00HR#F28.A07LC$F28.A0BYM;46;Grøntsagskonserves;Canned vegetable products
+Kødboller, uspec.;Meat balls, average values;597;NULL;NULL;180;Supper og suppeprodukter;Soup and soup products
+Fiskefrikadelle;Fish balls, fried;598;NULL;A03XT#F02.A06GE$F28.A07GS;79;Fiskeprodukter;Fish products
+Salat, endivie, kruset (frisee), rå;Endive (frisee), raw;599;Cichorium endivia L. var. crispum Lam.;A00LF#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Salat, Romaine, romersk, rå;Lettuce, Cos or romaine, raw;600;Lactuca sativa L. var. longifolia;A00LC#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Sandart, rå;Pikeperch, raw;601;Stizostedion lucioperca;A027Y#F02.A069C;70;Mager fisk;Lean fish
+Kartoffelmos, pulver uden tørmælk;Potatoes, mashed, instant powder without dry milk;602;NULL;A011E#F02.A067Z$F03.A06JD;188;Andre grøntsagsprodukter;Other vegetable products
+Rødfisk, rå;Redfish, ocean perch, raw;603;Sebastes marinus;A02AM#F01.A08MH$F02.A069C;70;Mager fisk;Lean fish
+Forårsrulle, friturestegt, fastfood;Spring roll, deepfried, fast food;604;NULL;NULL;128;Færdigretter;Ready meals
+Gulerod, importeret, rå;Carrot, raw;606;Daucus carota L.;A00QH#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Torsk, lever, røget;Cod, liver, smoked;607;Gadus morhua;NULL;78;Fiskeindmad og rogn;Offal and fish eggs
+Torsk, lever, rå;Cod, liver, raw;608;Gadus morhua;A02EL#F01.A050K;78;Fiskeindmad og rogn;Offal and fish eggs
+Fersken, rå;Peach, raw;609;Prunus persica (L.) Batsch;A01GM#F01.A061D$F02.A067D;50;Stenfrugt;Stone fruit
+Nektarin, rå;Nectarine, raw;610;Prunus persica (L.) Batsch var. nucipersica (L.) C. Schneid.;A01GN#F02.A067D;50;Stenfrugt;Stone fruit
+Gedde, rå;Pike, raw;611;Esox lucius;A027X#F02.A069C;70;Mager fisk;Lean fish
+Dressing, olie-eddike, kalorielet;Salad dressing, oil and vinegar, low calorie;612;NULL;A045K#F04.A036N$F04.A044L$F10.A077C;98;Dressings;Dressings
+Squash, alle typer, rå;Squash, all varieties, raw;614;Curcubita pepo L.;A00JQ#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Hvedebrød, groft, kærnebrød;Wheat bread, with whole kernels;615;NULL;NULL;31;Brød;Bread
+Avocado, rå;Avocado, raw;616;Persea americana Miller;A01LB#F02.A067D;50;Stenfrugt;Stone fruit
+Hvedeklid;Wheat bran;617;Triticum aestivum L.;A004P#F03.A06JC$F28.A0C03;30;Mel og klid;Flour and bran
+Læskedrik, koncentreret (1+5), tilsat sukker, uspec.;Non-alcoholic beverage, concentrated (1+5), sugar added;620;NULL;A03DZ#F10.A077J$F28.A07KF;106;Andre drikkevarer;Other beverages
+Rødbede, konserves;Beet, red, canned;621;Beta vulgaris L. var. conditiva Alef.;A00QG#F28.A0BYM;46;Grøntsagskonserves;Canned vegetable products
+Brune linser, tørrede, rå;Lentils, brown, dried, raw;622;Lens culinaris Medicus;A013Q;173;Tørrede bælgplanter;Dried pulses
+Tomat, importeret, rå;Tomato, imported, ripe, raw;624;Lycopersicon esculentum (L.) Karsten ex Farw.;A00HR#F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Hummer, kogt;Lobster, boiled;625;Homarus gammarus;A02GK#F27.A02FP$F28.A0BA1;76;Skaldyr og produkter heraf;Shellfish and their products
+Hummer, konserves;Lobster, canned;626;Homarus gammarus;A02FR#F28.A0BYM;76;Skaldyr og produkter heraf;Shellfish and their products
+Salat, hovedsalat, rå;Butterhead lettuce (US), cabbage lettuce (UK), raw;627;Lactuca sativa L. var. capitata L.;A00KY#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Margarine, 70 %, bordbrug, blød, vegetabilsk fedt;Margarine, 70 % fat, table use, soft, vegetable fat;628;NULL;A039D#F02.A06ET$F07.A075P;95;Margariner;Margarines
+Rødkål, konserves;Cabbage, red, canned;629;Brassica oleracea L. convar. capitata (L.);A00GA#F28.A0BYM;46;Grøntsagskonserves;Canned vegetable products
+Litchi, rå;Lychee, raw;630;Litchi chinensis Sonn.;A01JV#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Pizza, dybfrost, uspec.;Pizza, frozen, average values;631;NULL;A03ZN#F02.A06GN$F28.A07KQ;179;Pizza;Pizza
+Granatæble, rå;Pomegranate, raw;632;Punica granatum L.;A01LH#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Guavabær, rå;Guava, common, raw;633;Psidium guajava L.;A0CGD#F02.A067D;51;Bærfrugt;Soft fruit
+Havkat, plettet, rå;Spotted wolffish, fillet, raw;634;Anarhichas minor;A027J#F01.A04TY$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Musling, konserves;Mussels, in water, canned;635;Mytilus edulis;NULL;77;Bløddyr og produkter heraf;Mollusks and their products
+Ananaskirsebær, rå;Cape gooseberries, raw;636;Physalis peruviana;A00JG#F02.A067D;51;Bærfrugt;Soft fruit
+Rygeost, 10 % fedt;Cheese, unripened, smoked, 10 % fat;637;NULL;A02QF#F07.A072X$F28.A07JV;12;Blød surmælksost;Soft sour milk cheese
+Brasen, rå;Bream, raw;639;Abramis spp.;A027B#F01.A0B8B$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Hjerte, okse, råt;Heart, beef, raw;641;Bos taurus;A020T#F01.A057E;66;Indmad;Offal
+Pak choi (bok choy), rå;Pak choi (bok choy), raw;643;Brassica chinensis L.;A00GJ#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Hjerte, gris, råt;Heart, pork, raw;644;NULL;A021C;66;Indmad;Offal
+Rugbrød med fedtrige frø og kerner, industrifremstillet;Rye bread, dark with high fat seeds and whole kernels, industrially produced;646;NULL;A005H#F02.A066Q$F02.A06CM$F04.A015F$F28.A07GX;31;Brød;Bread
+Valnød, tørret;Walnuts, dried;647;Juglans regia L.;A014R;53;Nødder;Nuts
+Asparges, konserves;Asparagus, canned;649;Asparagus officinalis L.;A00RT#F28.A07HZ;46;Grøntsagskonserves;Canned vegetable products
+Hvidløg, tørret, pulver;Garlic, dried, powder;650;Allium sativum L.;A00GZ;44;Krydderurter;Herbs
+Pizza med broccoli, dybfrost;Pizza with broccoli, frozen;651;NULL;NULL;179;Pizza;Pizza
+Salat, Radicchio rosso, rå;Chickory, raddichio, raw;652;Chichorium intybus L. var. foliosum;A00KX#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Æg, høne, tørret;Eggs, chicken, dried;653;Gallus domesticus;A031X;89;Tørrede æg;Dried egg
+Hummer, rå;Lobster, raw;654;Homarus gammarus;A02FR#F01.A054B$F02.A069C;76;Skaldyr og produkter heraf;Shellfish and their products
+Jomfruhummer, rå;Norway lobster, raw;655;Nephros norvegicus;A02FS#F01.A0A8N$F02.A069C;76;Skaldyr og produkter heraf;Shellfish and their products
+Knækbrød, hvede-, grahamstype;Crispbread, knackebrot, wheat, coarse;656;NULL;A006E#F04.A003V$F28.A07GX;31;Brød;Bread
+Karry, pulver;Curry powder;657;NULL;A043A;120;Krydderier;Spices
+Rødfisk, lille, filet, rå;Norway haddock, fillet, raw;658;Sebastes viviparus;A02AM#F01.A08MH$F02.A069C$F03.A06HZ;70;Mager fisk;Lean fish
+Kartoffel, chips, fedtreducerede;Potato crisps, fatreduced;659;NULL;A011L#F02.A06GR$F03.A06HY$F10.A077C;46;Grøntsagskonserves;Canned vegetable products
+Tungepølse, pålæg;Sausage, tongue sausage, saveloy type;660;NULL;NULL;65;Pålægsvarer;Cold cuts
+Sej, filet, dybfrost;Saithe (UK), pollock (US), fillet, frozen;661;Pollachius virens;A02CF#F02.A069C$F03.A06HZ$F28.A07KQ;70;Mager fisk;Lean fish
+Fløde 18 %;Cream, 18 % fat;662;NULL;A02ML#F07.A073F;4;Usyrnede mælkeprodukter;Unfermented milk products
+Voksbønner, konserves;Beans, wax, canned;663;Phaseolus vulgaris L.;NULL;174;Konserves af bælgplanter;Canned legumes
+Hvedebrød, groft, fiberbrød;Wheat bread, with wheat bran;665;NULL;A004Y#F02.A067Y$F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Skinke, kogt, konserves;Pork, ham, cured, canned;666;NULL;A022T#F28.A0BYP;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Surbrød;Bread, bolted rye and wheat, sour, with caraway seeds;667;NULL;A005G#F02.A06CM$F28.A07GX;31;Brød;Bread
+Æg, høne, langæg, kogt, dybfrost;Eggs, chicken, long eggs, boiled, frozen;668;Gallus domesticus;NULL;88;Flydende æg;Liquid egg
+Brombær, syltede;Blackberry, jam;669;Rubus fructicosus L.;NULL;55;Konserves og syltet bær og frugt;Canned fruit products
+Mangomarmelade;Marmalade, mango;670;NULL;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Creme fraiche 18 %;Cream, cultured, 18 % fat;671;NULL;A02NC#F02.A06BA$F07.A073F;5;Syrnede mælkeprodukter;Fermented milk products
+Grahamsbrød;Bread, wholemeal;672;NULL;A005E#F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Lever, gåse, rå;Liver, goose, raw;673;NULL;A01YC;84;And og gås;Duck and goose
+Salt kød, pålæg;Veal, eye of round, salted, boiled;674;NULL;A0B9G#F02.A06AN$F07.A06ZM$F28.A07KD;65;Pålægsvarer;Cold cuts
+Chokolade, fløde;Chocolate, milk;675;NULL;A034J#F04.A0C6B;104;Chokoladevarer o.l.; Chocolate etc.
+Sigtebrød;Bread, white;676;NULL;A005N#F02.A06CM$F28.A07GX;31;Brød;Bread
+Hvedebrød, italiensk, store, industrifremstillet;Wheat bread, italien type, industrially produced;677;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Miso, sojapasta;Miso, soy paste;679;NULL;A044R#F03.A06JF$F28.A07JZ;175;Andre produkter af bælgplanter;Other legume products
+Grønne bønner, konserves;Beans, green, canned;680;Phaseolus vulgaris L.;A0ESL;174;Konserves af bælgplanter;Canned legumes
+Linser, tørrede, rå;Lentils, dried;681;Lens culinaris (L.) Medikus;A013Q#F28.A07HS;173;Tørrede bælgplanter;Dried pulses
+Kråse, kylling, rå;Gizzard, chicken, raw;682;NULL;A04DV#F02.A07XR;81;Høns og kylling;Chicken
+Knudekål, glaskål, rå;Kohlrabi, raw;683;Brassica oleracea L var. gongylodes;A00GV#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Brøndkarse, rå;Watercress, raw;685;Nasturtium officinalis R. Br.;A00ND#F02.A067J;44;Krydderurter;Herbs
+Dressing, creme fraiche, kalorielet;Salad dressing, soured fresh cream, low calorie;686;NULL;A045K#F04.A02NC$F10.A077C;98;Dressings;Dressings
+Æg, høne, blomme, tørret;Eggs, chicken, yolk, dried;687;Gallus domesticus;A031Y;89;Tørrede æg;Dried egg
+Flûte, fint, industrifremstillet;Baguette, wheat, fine, industrially produced;688;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Kartoffel, konserves;Potato, canned;691;Solanum tuberosum L.;A00ZT#F02.A067V$F28.A0BYP;46;Grøntsagskonserves;Canned vegetable products
+Paranød, tørret, rå;Brazil nuts, dried, raw;692;Bertholethia excelsa Humb. et Bonpl.;A014G;53;Nødder;Nuts
+Skinke, kogt, skiveskåret;Pork, ham, boiled, sliced;693;NULL;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Bækforel, rå;Charr, raw;694;Salmo alpinus;A029G#F01.A04YD$F01.A04XX$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Kødboller, dybfrost;Meat balls, frozen;695;NULL;A03XG#F02.A06GE$F04.A0BXF$F28.A07KQ;180;Supper og suppeprodukter;Soup and soup products
+Æg, høne, pasteuriseret;Eggs, chicken, pasteurized;696;Gallus domesticus;A031G#F02.A06BQ;88;Flydende æg;Liquid egg
+Kalvekød, helt magert, råt;Veal, lean meat, raw;699;Bos taurus;A01QY#F02.A069H$F07.A06ZH;59;Kalvekød;Veal
+Helleflynder, røget;Halibut, atlantic, smoked;700;Hippoglossus hippoglossus;NULL;79;Fiskeprodukter;Fish products
+Hvedebrød, toastbrød, fint, industrifremstillet;Wheat bread, for toasting, industrially produced;701;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Grisespæk, rygspæk, råt;Pig, fat, raw;702;Sus scrofa;A01VA#F07.A075R;93;Animalske fedtstoffer;Animal fats
+Brombær, dybfrost, usukrede;Blackberry, frozen, unsweetened;703;Rubus fructicosus L.;A01EE#F02.A067D$F10.A077K$F28.A07KQ;51;Bærfrugt;Soft fruit
+Kokosmel;Coconut meat, desiccated;704;Cocos nucifera L.;A014K#F28.A07LA;178;Nøddeprodukter;Nut products
+Brissel, lam, rå;Sweetbread, lamb, raw;707;Ovis aries;A01ZQ#F02.A069X;66;Indmad;Offal
+Høne, kød, rå;Chicken, hen, flesh only;708;Gallus domesticus;A01SP#F02.A069H$F07.A06ZN;81;Høns og kylling;Chicken
+Ribsgele;Currant, red, jelly;709;Ribes rubrum L.;A01MR#F02.A068P$F28.A0C0G;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Helleflynder, rå;Halibut, atlantic, raw;711;Hippoglossus hippoglossus;A02AZ#F01.A04ZG$F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Lever, kylling, rå;Liver, broiler or fryer, raw;712;NULL;A01XZ;81;Høns og kylling;Chicken
+Ørred, hav-, rå;Trout, raw;713;Salmo trutta;A029J#F01.A04YA$F02.A069C;73;Fed fisk;Oily fish
+Batat, sød kartoffel, rå;Sweet potato, raw;714;Ipomoea batatas (L.) Poiret;A010C#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Bladbede, sølvbede, rå;Chard, swiss, raw;715;Beta vulgaris L. var. vulgaris;A00MX#F01.A04YD$F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Løg, rå;Onion, raw;716;Allium cepa L.;A00HC;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Jordbær, syltede;Strawberry, jam;718;Fragraria x ananassa Duchesne;A01MN#F02.A068P$F04.A01DZ$F28.A0C0G;55;Konserves og syltet bær og frugt;Canned fruit products
+Sapodille (chiku), rå;Sapodilla, raw;719;Manilkara zapota (L.) van Royen;NULL;52;Sydfrugt;Tropical or subtropical fruit
+Kaffe, instant, pulver;Coffee, instant, powder;720;NULL;A03GQ#F02.A068H$F03.A06JD;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Parmesan, revet;Cheese, hard, Parmesan, grated;721;NULL;A02ZS#F28.A07KZ;13;Fast løbeost;Firm rennet cheese
+Hvedebrød, bolle, grov, industrifremstillet;Rolls, wheat with coarse meal, industrially produced;722;NULL;A005E#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Kiwi, rå;Kiwi fruit, raw;723;Actinidia chinensis Planchon, var. deliciosa;A01JT#F01.A063H$F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Grisekød, skinke af inderlår, helt afpudset, rå;Pork, ham, topside (M. Semimembranosus), lean, raw;724;Sus scrofa;A022T#F07.A06ZG;60;Svinekød (Gris);Pork
+Kirsebær, syltede;Cherry, canned in sugar;726;Prunus avium (L.) L.;A01ND#F02.A068P$F28.A0C0G;55;Konserves og syltet bær og frugt;Canned fruit products
+Torsk, filet, stegt;Cod, fillet, fried;727;Gadus morhua;A02BV#F01.A050K$F02.A069C$F03.A06HZ$F28.A07GR;79;Fiskeprodukter;Fish products
+And, kød, rå;Duck, flesh only, raw;728;Anas platyrhynchos;A01SR#F02.A069H;84;And og gås;Duck and goose
+Kalkun, bryst (filet), kogt/røget, pålæg;Turkey, breast, boiled/smoked, sliced;729;Meleagris gallopavo;NULL;82;Kalkun;Turkey
+Pizza med tunfisk, dybfrost;Pizza with tuna, frozen;730;NULL;NULL;179;Pizza;Pizza
+Flødeskumskage, kartoffelkage;Cream pastry, kartoffelkage;731;NULL;NULL;33;Kager;Cakes
+Kalkun, kød, rå;Turkey, flesh only, raw;732;Meleagris gallopavo;A01SQ#F02.A069H$F07.A06ZH;82;Kalkun;Turkey
+Grisekød, skinkemignon af lårtunge, helt afpudset, rå;Pork, ham, silverside (M. Semitendinosus), lean, raw;734;Sus scrofa;A022T#F07.A070F;60;Svinekød (Gris);Pork
+Loganbær, frosne;Loganberries, frozen;735;Rubus ursinus var. loganobaccus L.H. Bailey;A01EJ#F02.A067D$F28.A07KQ;51;Bærfrugt;Soft fruit
+Rugbrød, med sigtet mel (soft) og fedtrige frø, industrifremstillet;Rye bread, with siftings (soft) and high fat seeds, industrially produced;736;NULL;A005G#F02.A066Q$F02.A06CM$F04.A015F$F28.A07GX;31;Brød;Bread
+Stenbider, rå;Lump, lumpsucker, raw;737;Cyclopterus lumpus;A04RS#F01.A09YX$F02.A069C;73;Fed fisk;Oily fish
+And, brystkød, rå;Duck, breast, flesh only, raw;738;Anas platyrhynchos;A01SR#F02.A07XS$F07.A070G;84;And og gås;Duck and goose
+Grisekød, filet, helt afpudset, rå;Pork, loin, lean, raw;739;Sus scrofa;A01RG#F02.A069H$F07.A06ZE;60;Svinekød (Gris);Pork
+Forårsløg, rå;Onions, spring, raw;740;Allium cepa L.;A00HH;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Kikærter, tørrede, rå;Peas, chick/garbanzo, dry, raw;741;Cicer arietinum L.;A013M#F02.A066P;173;Tørrede bælgplanter;Dried pulses
+Lever, okse, rå;Liver, ox, raw;742;Bos taurus;A01XG;66;Indmad;Offal
+Grisefilet, røget, pålæg;Pork, loin fillet, smoked;743;NULL;NULL;65;Pålægsvarer;Cold cuts
+Tørkage, napoleonshatte;Pastry, napoleon hat;744;NULL;A00CB#F28.A07HP;33;Kager;Cakes
+Hvedebrød, toastbrød, groft, industrifremstillet;Wheat bread, with coarse meal, for toasting, industrially produced;745;NULL;A005E#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Svinekød, skinke af yderlår, helt afpudset, råt;Pork, ham, silverside (M. Biceps Femoris), lean, raw;746;Sus scrofa;A022T#F07.A070C;60;Svinekød (Gris);Pork
+Lever, ande, rå;Liver, duck, raw;747;NULL;A01YB;84;And og gås;Duck and goose
+Marcipanprodukt, m/chokolade, uspec.;Marzipanproduct, chocolatecover, average values;748;NULL;A034Y#F02.A06EJ$F04.A034M$F04.A014D$F04.A032G;104;Chokoladevarer o.l.; Chocolate etc.
+Hamburgerryg, røget;Pork, saddle, smoked, raw;749;Sus scrofa;A022T#F07.A070N$F28.A07JV;65;Pålægsvarer;Cold cuts
+Hamburgerryg, kogt;Pork, saddle, smoked, boiled;750;Sus scrofa;A022T#F07.A070N$F28.A07GL;65;Pålægsvarer;Cold cuts
+Tun i tomat, konserves;Tuna, in tomato sauce, canned;751;Thunnus thynnus;A02KL#F02.A069C$F04.A00ZF$F04.A02DX$F06.A06XR$F28.A0BYP;79;Fiskeprodukter;Fish products
+Savoykål, rå;Cabbage, savoy, raw;752;Brassica oleracea L. convar. capitata (L.) var. sabauda;A00GB;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Asparges, uspec., rå;Asparagus, all types, raw;753;Asparagus officinalis L.;A00RT#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Kylling, bryst (filet), kogt, pålæg;Chicken, breast, boiled, sliced;754;Gallus domesticus;A01SP#F02.A07XS$F07.A06ZT$F28.A07GL$F28.A07KV;81;Høns og kylling;Chicken
+Røde linser, tørrede, rå;Lentils, red, dried, raw;755;Lens culinaris Medikus;NULL;173;Tørrede bælgplanter;Dried pulses
+Citronskal, rå;Lemon peel, raw;756;Ctrus limon (L.) Burm. f.;A01BY#F02.A067G;52;Sydfrugt;Tropical or subtropical fruit
+Pistacienød, tørristet med salt;Pistachio nuts, dry roasted with salt;757;Pistacia vera L.;A014Q#F28.A07HC;53;Nødder;Nuts
+Kirsebærsaft, sød, koncentreret;Cherry juice, concentrated, sugar added;760;Prunus avium (L.) L.;A03CF#F10.A077J;54;Bærjuice og bærsaft;Berry juices
+Ribssaft, sød, koncentreret;Currant, red, juice, concentrated, sugar added;761;NULL;A03BT#F10.A077J;54;Bærjuice og bærsaft;Berry juices
+Hindbærsaft, sød, koncentreret;Raspberry juice, concentrated, sugar added;762;Rubus idaeus L.;NULL;54;Bærjuice og bærsaft;Berry juices
+Jordbærsaft, sød, koncentreret;Strawberry juice, concentrated, sugar added;763;Fragraria x ananassa Duchesne;A03CE#F10.A077J;54;Bærjuice og bærsaft;Berry juices
+Grønne bønner, rå;Beans, green, raw;764;Phaseolus vulgaris L.;A00PG;171;Friske bælgplanter;Fresh legumes
+Dild, tørret;Dill weed, dried;765;Anethum graveolens L.;NULL;44;Krydderurter;Herbs
+Pølsebrød;Bread, white, for sausages;766;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Selleri, blade, rå;Celeriac, celery leaves, raw;767;Apium graveolens L.;A00XA#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Helt, rå;Whitefish, raw;768;Coregonus lavaretus;A029Q#F02.A069C;72;Mellemfed fisk;Somewhat oily fish
+Tyttebær, rå;Lingonberry, raw;769;Vaccinium vitis-idaea L.;A01FL#F01.A060C$F02.A067D;51;Bærfrugt;Soft fruit
+Oksekød, inderlår uden kappe, rå;Beef, topside, cap off, raw;770;Bos taurus;A01QX#F02.A069H$F07.A070M;58;Oksekød;Beef
+Grisekød, mørbrad, afpudset, rå;Pork, tenderloin, trimmed, raw;771;Sus scrofa;A01RG#F02.A069H$F10.A077C;60;Svinekød (Gris);Pork
+Knækbrød, hvede-, fint;Crispbread, knackebrot, wheat, fine;772;NULL;A006F#F04.A003V$F28.A07GX;31;Brød;Bread
+Harekød, uspec., råt;Hare, raw;773;NULL;A01SJ#F02.A069H;63;Vildt;Game
+Ørred, regnbue-, rå;Rainbow trout, raw;774;Oncorhynchus mykiss (Walbaum, 1792);A029N#F02.A069C;73;Fed fisk;Oily fish
+Koriander, frø;Coriander seed;775;Coriandrum sativum;A018D#F02.A066P;120;Krydderier;Spices
+Hjerte, høne (kylling), råt;Heart, chicken, raw;776;Gallus domesticus;A04DV#F01.A057Z$F02.A06AC;81;Høns og kylling;Chicken
+Grisekød, uspec., magert, råt;Pork, meat, lean, approx. 3 % fat, raw;777;Sus scrofa;A01RG#F02.A069H$F07.A06ZR;60;Svinekød (Gris);Pork
+Torsk, rogn, rå;Cod, roe, raw;778;Gadus morhua;A02EP#F01.A050K;78;Fiskeindmad og rogn;Offal and fish eggs
+Lever, gris, rå;Liver, pig, raw;781;NULL;A01XJ;66;Indmad;Offal
+Blomkål, dybfrost;Cauliflower, frozen;782;Brassica oleracea L. convar. botrytis;A00FR#F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Krabbekløer, rå;Crab claws, meat, raw;783;Cancer pagurus;A02FL#F01.A053V$F02.A069C;79;Fiskeprodukter;Fish products
+Krabbekløer, konserves;Crab claws, meat, canned;784;Cancer pagurus;A0BZ5#F27.A02FL;76;Skaldyr og produkter heraf;Shellfish and their products
+Kalkun, kød og skind, rå;Turkey, flesh and skin, raw;785;Meleagris gallopavo;A01SQ#F02.A069H$F07.A070P$F20.A07QQ$F20.A07QV;82;Kalkun;Turkey
+Grovfranskbrød;Bread, white, coarse grain;786;NULL;A005E#F02.A066Q$F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Marcipan;Marzipan;787;NULL;A034Y#F02.A06EJ$F04.A014D$F04.A032G;178;Nøddeprodukter;Nut products
+Hvedebrød, kastanjebrød;Wheat bread, white, with cracked chestnuts;790;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A014J$F04.A003V$F28.A07GX;31;Brød;Bread
+Hyldebærsaft, sød, koncentreret;Elderberry, juice, concentrated, sugar added;791;Sambucus nigra L.;A039V;54;Bærjuice og bærsaft;Berry juices
+Fennikel, frø;Fennel seed;793;Foeniculum vulgare;A018G#F02.A066P;120;Krydderier;Spices
+Marmelade, engelsk type;Marmalade, English type;794;NULL;A01NJ#F02.A068P;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Kylling, kød, rå;Chicken, flesh only, raw;795;Gallus domesticus;A01SP#F02.A069H$F07.A070Y;81;Høns og kylling;Chicken
+Lammekød, kølle, afpudset, rå;Lamb, leg, defatted, raw;796;Ovis aries;A01RK#F02.A07XQ$F07.A070V;61;Fåre- og lammekød;Sheep and lamb
+Hvalkød, råt;Whale meat, raw;797;NULL;A02KN#F07.A06ZK;69;Havpattedyr;Marine mammals
+Kalvekød, magert, råt;Veal, thin fat, raw;798;Bos taurus;A01QY#F02.A069H$F07.A070R;59;Kalvekød;Veal
+Blomkål, dansk, rå;Cauliflower, Danish, raw;799;Brassica oleracea L. convar. botrytis;A00FR;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Krabbe, kogt;Crab, boiled;800;Cancer pagurus;A02GJ#F27.A02FL$F28.A0BA1;76;Skaldyr og produkter heraf;Shellfish and their products
+Kartoffel, kogt;Potato, boiled;801;NULL;NULL;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Rype, kød, rå;Ptarmigan, flesh, raw;802;Lagopus mutus.;A01TJ#F02.A069H;83;Fuglevildt;Game birds
+Abrikosmarmelade;Marmalade, apricot;803;NULL;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Chokolade, fløde, med nødder;Chocolate, milk, with nuts;804;NULL;A034J#F04.A014C$F04.A0C6B;104;Chokoladevarer o.l.; Chocolate etc.
+Oksekød, tykstegsfilet uden kappe, rå;Beef, rumpsteak, cap off, raw;805;Bos taurus;A01QX#F02.A069H$F07.A070C;58;Oksekød;Beef
+Pinjekerner, tørret;Pine nuts, dried;806;Pinus pinea L.;NULL;53;Nødder;Nuts
+Kaninkød, uspec., råt;Rabbit, flesh only, raw;807;Oryetalagus euniculus;A01RQ#F02.A069H$F07.A070D;63;Vildt;Game
+Peber, chili, rå;Pepper, hot chili, raw;808;Capsicum frutescens;A00JB#F01.A05CR$F02.A067D;41;Frugt-grøntsager;Fruit -Vegetables
+Sælkød, råt;Seal meat, loin, raw;812;NULL;A02KN;69;Havpattedyr;Marine mammals
+Flûte, groft, industrifremstillet;Baguette, with rye, industrially produced;813;NULL;A005E#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Cashewnød, tørristet;Cashew nuts, dry roasted;815;Anarcardium occidentale;A014H#F28.A07HC;53;Nødder;Nuts
+Hvedebrød, bolle, italiensk type, industrifremstillet;Rolls, italien type, industrially produced;816;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Oksekød, uspec., helt magert, råt;Beef, meat, lean (<5 % fat), raw;818;Bos taurus;A01QX#F02.A069H$F10.A077C;58;Oksekød;Beef
+Oksekød, klump uden kappe, rå;Beef, thick flank, cap off, raw;819;Bos taurus;A01QX#F02.A069H$F07.A070M;58;Oksekød;Beef
+Kaviar, uægte (lodderogn);Caviar, made from capelin roe;821;Mallotus villosus;A02EM#F01.A050E;78;Fiskeindmad og rogn;Offal and fish eggs
+Grønne bønner, dybfrost;Beans, green, frozen;822;Phaseolus vulgaris L.;A00PG#F28.A07KQ;172;Frosne bælgplanter;Frozen legumes
+Morgenmadsprodukt, Guldkorn;Breakfast cereal, Guldkorn;823;NULL;NULL;34;Morgenprodukter;Breakfast products
+Porre, rå;Leek, raw;824;Allium porrum L.;A00SB#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Tun i vand, konserves;Tuna, in water, canned;825;Thunnus spp.;A02KM#F02.A06AP$F06.A06XT$F27.A02DX$F28.A0BYP;79;Fiskeprodukter;Fish products
+Flødeskumskage, walesbolle/-kringle;Cream pastry, Wales pretzel;827;NULL;NULL;33;Kager;Cakes
+Roastbeef, pålæg;Roastbeef, sliced;828;NULL;A01QX#F02.A069H$F07.A06ZY$F17.A07MT$F28.A07GY$F28.A07KV;65;Pålægsvarer;Cold cuts
+Flødeskumskage, uspec.;Cream pastry, average values;830;NULL;A00AX#F28.A07GX;33;Kager;Cakes
+Oksekød, mørbrad, afpudset, rå;Beef, fillet, defatted, raw;831;Bos taurus;A01QX#F02.A069H$F07.A071F;58;Oksekød;Beef
+Fårekød, kølle, rå;Mutton, round, raw;832;Ovis aries;A01RJ#F02.A069H$F07.A071B;61;Fåre- og lammekød;Sheep and lamb
+Frugtpålæg, figen;Dried fig spread;833;NULL;A01QD#F04.A01MG$F04.A036N$F28.A0C6N;184;Tørrede frugt og bær produkter;Dried fruit and berry products
+Koriander, blade, tørrede;Coriander, leaf, dried;835;Coriandrum sativum;A00XF#F28.A07KE;120;Krydderier;Spices
+Hvedebrød, trekornsbrød;Wheat bread, with whole kernels;836;NULL;A005Q#F02.A06CM$F03.A06HY$F28.A07GX;31;Brød;Bread
+Bondebrød med fedtrige frø, industrifremstillet;Rye bread, fine with wheat flour and high fat seeds, industrially produced;837;NULL;A005N#F02.A06CM$F04.A015F$F22.A07SH$F28.A07GX;31;Brød;Bread
+Hvedebrød, bolle, fin, industrifremstillet;Rolls, white, industrially produced;838;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F22.A07SH$F28.A07GX;31;Brød;Bread
+Kartoffel, chips (franske kartofler);Potato crisps;839;NULL;A011L#F02.A06GR$F03.A06HY;143;Chips and snacks;Potato chip and snacks
+Appelsinmarmelade;Marmalade, orange;840;NULL;A01NK#F02.A068P$F04.A01CP;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Grisekød, bagskank uden svær, rå;Pork, hind leg without rind, raw;841;Sus scrofa;A01RG#F02.A069H$F07.A071S;60;Svinekød (Gris);Pork
+Ørred, dam-, sø-, rå;Lake trout, raw;842;Salmo trutta lacustris;A029F#F01.A04XX$F02.A069C;73;Fed fisk;Oily fish
+Spinat, hakket, dybfrost;Spinach, chopped, frozen;843;Spinacia oleracea L.;A00MJ#F02.A067J$F28.A07KQ$F28.A07KY;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Fasan, kød, rå;Pheasant, flesh only, raw;844;Phasianus colchinus;A01SZ#F02.A069H$F07.A06ZZ;83;Fuglevildt;Game birds
+Yams, rå;Yam, raw;845;Dioscorea opposita Thunb.;A010D#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Kartoffel, ny (maj til september), rå;Potato, new (May to September), raw;846;Solanum tuberosum L.;A00ZV#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Bøfsandwich med salat og dressing, fastfood;Hamburger sandwich with salad and dressing, fast food;847;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Æg, and, rå;Egg, duck, whole, raw;848;NULL;A031H#F02.A06BQ;87;Friske æg;Fresh eggs
+Grisekød, tunge, rå;Tongue, pig, raw;854;Sus scrofa;A021B#F07.A072X;60;Svinekød (Gris);Pork
+Kiwimarmelade;Marmalade, kiwi;855;NULL;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Tunge, gris, saltet;Tongue, pig, cured;856;Sus scrofa;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Isvaffel med vaniljeis, uspec.;Vanilla-icecream, average values;857;NULL;A0BYR#F04.A02QA$F04.A06VS$F04.A003X$F28.A07GX;21;Fløde- og mælkeis;Dairy ice cream
+Frugtpålæg, uspec.;Dried fruits spread, average values;859;NULL;A01QD#F04.A036N$F04.A01MA$F28.A0C6N;184;Tørrede frugt og bær produkter;Dried fruit and berry products
+Due, vildt, kød, rå;Squab (pigeon), flesh, raw;860;Columba spp.;A01TA#F02.A069H;83;Fuglevildt;Game birds
+Franskbrød;Bread, white;861;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Solbærsaft, sød, koncentreret;Currant, black, juice, concentrated, sugar added;862;NULL;A03BS#F10.A077J;54;Bærjuice og bærsaft;Berry juices
+Hvedebrød, valnøddebrød;Wheat bread, white, with walnuts;863;NULL;A005K#F02.A06CM$F03.A06HY$F04.A014R$F28.A07GX;31;Brød;Bread
+Peanuts, (jordnød, ristet og saltet);Nut, pea, oilroasted and salted;864;Arachis hypogaea L.;A015H#F02.A066P$F10.A0CJK$F28.A07HC;143;Chips and snacks;Potato chip and snacks
+Brisling, rå;Sprat, raw;866;Sprattus sprattus;A02DH#F01.A052C$F02.A069C;73;Fed fisk;Oily fish
+Koriander, blade, friske;Coriander, leaf, raw;867;Coriandrum sativum;A00XF#F01.A05NL$F02.A067J;44;Krydderurter;Herbs
+Bambusskud, konserves, saltet;Bamboo shoots, canned, salted;868;Phyllostachys bambusoides;NULL;46;Grøntsagskonserves;Canned vegetable products
+Bambusskud, konserves, usaltet;Bamboo shoots, canned, nonsalted;869;Phyllostachys bambusoides;NULL;46;Grøntsagskonserves;Canned vegetable products
+Oksekød, skank (osso buco), rå;Beef, shin + leg (shank), raw;870;Bos taurus;A01QX#F02.A069H$F07.A071B;58;Oksekød;Beef
+Oksekød, højrebsfilet, afpudset, rå;"Beef, striploin ""cap off"", raw";871;Bos taurus;A01QX#F02.A069H$F07.A070P;58;Oksekød;Beef
+Syre (krydderplante), rå;Dock (US), sorrel (UK), raw;872;Rumex acetosa L.;A00MT#F01.A05FT$F02.A067J;44;Krydderurter;Herbs
+Kvark, 45+;Cheese, Quarg, 45 % fidm.;874;NULL;A02QK#F07.A073C;12;Blød surmælksost;Soft sour milk cheese
+Æg, gås, rå;Egg, goose, whole, raw;875;NULL;A031J#F02.A06BQ;87;Friske æg;Fresh eggs
+Sukker, brun farin;Sugar, brown;876;NULL;A032M#F02.A06EC$F27.A010R;102;Sukker;Sugar
+Kaffe, instant, decaffeinated, pulver;Coffee, instant, decaffeinated, powder;877;NULL;A03GR#F02.A068H$F03.A06JD;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Asparges, hvide, rå;Asparagus, white, raw;878;Asparagus officinalis L.;A00RT#F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Oksekød, yderlår, råt;Beef, outside, round, raw;879;Bos taurus;A01QX#F02.A069H$F07.A071D;58;Oksekød;Beef
+Rosin uden kerner;Raisin , seedless;880;Vitis spp.;A01ME;184;Tørrede frugt og bær produkter;Dried fruit and berry products
+Solbær, syltede;Currant, black, jam;881;Ribes nigrum L.;A01MS#F02.A068P$F28.A0C0G;55;Konserves og syltet bær og frugt;Canned fruit products
+Kylling, ben, kød og skind, rå;Chicken, leg, flesh and skin, raw;882;Gallus domesticus;NULL;81;Høns og kylling;Chicken
+Solbærmarmelade;Marmalade, black currant;884;NULL;A01MS#F02.A068P$F28.A0C0G;55;Konserves og syltet bær og frugt;Canned fruit products
+Kylling, lår, kød og skind, rå;Chicken, drumstick, flesh and skin, raw;886;Gallus domesticus;A01SP#F02.A07XQ$F07.A072J$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Flûte med fedtrige frø, industrifremstillet;Baguette, wheat with rye, high fat seeds, industrially produced;887;NULL;A004Y#F02.A066S$F02.A06CM$F03.A06HY$F04.A015F$F04.A003V$F07.A06ZV$F22.A07SH$F28.A07GX;31;Brød;Bread
+Grønkål, dybfrost;Kale, frozen;888;Brassica oleracea (L.) convar. acephala;A00GM#F02.A067J$F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Kørvel, hakket, dybfrost;Chervil, chopped, frozen;889;Anthriscus cerefolium (L.) Hoffm.;A00XB#F02.A066T$F28.A07KY$F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Oksekød, lårtunge, rå;Beef, eye of round, raw;891;Bos taurus;A01QX#F02.A069H$F07.A071G;58;Oksekød;Beef
+Melbanan, plantain, rå;Cooking banana, Plaintain, raw;892;Musa x paradisiaca L.;A01LE#F01.A064N$F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Tyggegummi, med sukker, uspec.;Chewing gum, sugar added, all types;894;NULL;A035M#F02.A06EJ$F10.A077J;182;Slik;Candy
+Cherimoya, rå;Cherimoya, raw;895;Annona cherimolia Miller;A01LJ#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Hellefisk, gravad;Halibut, greenland, gravad;896;Reinhardtius hippoglossoides;A02BA#F01.A04ZG$F02.A069C$F28.A07KD;79;Fiskeprodukter;Fish products
+Hellefisk, rå;Halibut, greenland, raw;897;Reinhardtius hippoglossoides;A02BA#F01.A04ZG$F02.A069C;73;Fed fisk;Oily fish
+Knækbrød, fladbrød;Crispbread, wheat;898;NULL;A006E#F04.A003V$F28.A07GX;31;Brød;Bread
+Hvedebrød, sandwich/toastbrød med fedtrige frø, industrifremstillet;Wheat bread, sandwich/toast type, high fat seeds, industrially produced;899;NULL;A004Y#F02.A066S$F02.A06CM$F03.A06HY$F04.A015F$F04.A003V$F28.A07GX;31;Brød;Bread
+Wienerpølse, konserves;Pork, sausage, frankfurter, canned;900;NULL;A026D#F28.A0BYP;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Grøntsagsjuice, pasteuriseret;Juice, mixed vegetables, pasteurized;901;NULL;A03CS#F28.A07HV;45;Grøntsagsjuice;Vegetable juices
+Kongeål (pighaj), rå;Dogfish, piked, raw;902;Squalus acanthias;A02DP#F02.A069C;73;Fed fisk;Oily fish
+Bolcher, blandede;Sweets, boiled;903;NULL;A034X#F02.A06EJ$F04.A032G;182;Slik;Candy
+Tun, rå;Tuna, raw;904;Thunnus thynnus;A02DX#F01.A052R$F02.A069C;70;Mager fisk;Lean fish
+Kalkunkød, hakket, 0-5% fedt, råt;Turkey, mince, 0-5% fat, raw;905;Meleagris gallopavo;A01SQ#F02.A069H$F07.A071H$F28.A07KY;82;Kalkun;Turkey
+Likør, kaffe med fløde;Liqueur, coffee with cream;906;NULL;A03NY#F04.A02ML;115;Likør;Liqueurs
+Kylling, bryst, kød og skind, rå;Chicken, breast, flesh and skin, raw;907;Gallus domesticus;A01SP#F02.A07XS$F07.A071L$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Nougat;Wiener nougat;908;NULL;A035D#F02.A06EJ;178;Nøddeprodukter;Nut products
+Oksekød, uspec., magert, råt;Beef, meat, 5-10 % fat, raw;909;Bos taurus;A01QX#F02.A069H$F07.A071X;58;Oksekød;Beef
+Oksekød, tunge, rå;Tongue, ox, raw;911;Bos taurus;A020S#F01.A057E$F07.A072Z;58;Oksekød;Beef
+Tunge, kalv, saltet;Tongue, calf, cured;913;Bos taurus;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Broccoli, kogt;Broccoli, boiled;914;Brassica oleracea var. Italica;A00FM#F28.A07GL;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Marmelade, uspec.;Marmalade, all types;915;NULL;A01NJ#F02.A068P;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Kirsebærmarmelade;Marmalade, cherry;916;NULL;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Sild, paneret, stegt, i lage;Herring, breaded, fried, in vinegar with sugar;917;Clupea Harengus;A02DF#F02.A069C$F07.A072X$F28.A07HK$F28.A07GR;79;Fiskeprodukter;Fish products
+Ispind, vanille med chokoladeovertræk;Ice cream, dairy, popsickle, vanilla with chocolate;918;NULL;A036J#F04.A06VS$F28.A07HP;21;Fløde- og mælkeis;Dairy ice cream
+Laks, atlantisk, vild, konserves;Salmon, Atlantic, wild, canned;921;Salmo salar;A0FBS;79;Fiskeprodukter;Fish products
+Tomatketchup, stærk;Tomato ketchup, hot, bottled;922;NULL;A044P#F10.A06HX;46;Grøntsagskonserves;Canned vegetable products
+Hestekød, råt;Horse, meat, raw;923;NULL;A01RN#F02.A069H;57;Andet kød og ferske kødprodukter;Other meat and fresh meat products
+Sardin, i tomat, konserves;Sardine, in tomato sauce, canned;924;Clupeidae;A02KL#F02.A069C$F04.A00ZF$F04.A02DB$F06.A06XR$F28.A0BYP;79;Fiskeprodukter;Fish products
+Kyllingepølse, pålæg;Chicken, sausage;925;NULL;A025T#F04.A04DS;81;Høns og kylling;Chicken
+Champignon, konserves;Mushroom, canned;927;Agaricus bisporus forma albus;A00TZ;46;Grøntsagskonserves;Canned vegetable products
+Hvedebrød, solsikkebrød;Wheat bread, white, with sunflower kernels;929;NULL;A005K#F02.A06CM$F03.A06HY$F04.A015L$F28.A07GX;31;Brød;Bread
+Purløg, rå;Chives, raw;930;Allium schoenoprasum L.;A00XD#F02.A066T;44;Krydderurter;Herbs
+Hindbær, dybfrost, rå;Raspberry, frozen;931;Rubus idaeus L.;A01EP#F02.A067D$F28.A07KQ;51;Bærfrugt;Soft fruit
+Kumquat, guldorange, dværgappelsin, rå;Kumquats, raw;932;Fortunella japonica (Thunb.), Swingle;A01HJ#F01.A062N$F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Kalvekød, Tunge, rå;Tongue, calf, raw;933;Bos taurus;A020S#F01.A057E$F07.A072Z;59;Kalvekød;Veal
+Ispind, limonade;Ice, popsickle, lemonade;934;NULL;A036J#F04.A047B;23;Sorbet og limonadeis;Sorbet and ice lolly
+Grisekød, skinkeculotte af yderlår, ca. 2 mm spæk, rå;Pork, ham, silverside, 2 mm fat, raw;935;Sus scrofa;A022T;60;Svinekød (Gris);Pork
+Krydderskinke, udbenet;Pork, ham, spiced, deboned;936;Sus scrofa;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Pastinak, rå;Parsnip, raw;937;Pastinaca sativa L.;A00QR#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Kartoffel, efterår (oktober til januar), rå;Potato, automn (October to January), raw;938;Solanum tuberosum L.;A00ZX#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Maniok, kassava, rå;Cassava, raw;939;Manihot esculenta;A00ZZ#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Oksekød, inderlår med kappe, rå;"Beef, topside ""cap on"", raw";940;Bos taurus;A01QX#F02.A069H$F07.A072K;58;Oksekød;Beef
+Remoulade, fedtreduceret, uspec.;Remoulade, fatreduced, average values;941;NULL;A045N#F10.A077C;97;Mayonnaise, remoulade o.l.;Mayonnaises,  remoulade etc
+Oksekød, hakket, 10-15% fedt, rå;Beef, mince, 10-15% fat, raw;942;Bos taurus;A01QX#F02.A069H$F07.A072R$F28.A07KY;58;Oksekød;Beef
+Tyggegummi, uden sukker, uspec.;Chewing gum, no sugar added, all types;943;NULL;A035M#F02.A06EJ$F10.A077K;182;Slik;Candy
+Oksekød, mellemskært, råt;Beef, neck, raw;944;Bos taurus;A01QX#F02.A069H$F07.A072K;58;Oksekød;Beef
+Grisekød, hakket, 5-10% fedt, råt;Pork, mince, 5-10% fat, raw;945;Sus scrofa;A01RG#F02.A0C10$F07.A072Y;60;Svinekød (Gris);Pork
+Kartoffel, gammel (februar - juni), rå;Potato, old (February to June), raw;946;Solanum tuberosum L.;A00ZX#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Broccoli, dybfrost;Broccoli, frozen;947;Brassica oleracea var. Italica;A00FM#F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Klipfisk, rå;Stockfish, cod, split, salted and dried, raw;948;Gadus morhua;A0FCB#F28.A07KG;79;Fiskeprodukter;Fish products
+Grisekød, nakkefilet, helt afpudset (Nakkekotelet), rå;Pork, collar, defatted, raw;949;Sus scrofa;A01RG#F02.A069H$F07.A072Z;60;Svinekød (Gris);Pork
+Jordskok, rå;Jerusalem artichoke, raw;950;Helianthus tuberosus L.;A00QQ#F02.A067V;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Likør, kaffe;Liqueur, coffee;952;NULL;A03NY;115;Likør;Liqueurs
+Gås, kød, rå;Goose, flesh only, raw;955;Anser anser;A01SS#F02.A069H$F07.A071M;84;And og gås;Duck and goose
+Rundstykke, spansk;Bread, white, roll;956;NULL;A005E#F02.A066Q$F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Grønkål, konserves;Kale, canned;957;Brassica oleracea L. convar. acephala;A00GM#F28.A0BYM;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Spinat, konserves;Spinach, canned;958;Spinacia oleracea L.;NULL;46;Grøntsagskonserves;Canned vegetable products
+Kylling, kød og skind, rå;Chicken, flesh and skin, raw;959;Gallus domesticus;A01SP#F02.A069H$F07.A072Z$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Makrel i tomat, konserves;Mackerel, in tomato sauce, canned;960;Scomber scombrus;A02KL#F02.A069C$F04.A02CT$F06.A06XR$F28.A0BYP;79;Fiskeprodukter;Fish products
+Champignon, rå;Mushroom, raw;961;Agaricus bisporus forma albus;A00TQ;43;Svampe;Mushrooms
+Roulade, abrikos;Swiss roll, apricot stuffing;962;NULL;A00BB#F04.A01GF$F28.A07MA;33;Kager;Cakes
+Oksekød, tykstegsfilet med kappe, rå;"Beef, rumpsteak ""cap on"", raw";966;Bos taurus;A01QX#F02.A069H$F07.A072X;58;Oksekød;Beef
+Kiks, Marie;Biscuit, sweet;967;NULL;A009X#F04.A003X$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Karse, frisk;Cress, garden, raw;969;Lepidium sativum L.;A00LK#F02.A067J;44;Krydderurter;Herbs
+Bønnespirer, mung, rå;Bean sprouts, mung, raw;970;Phaseolus radiata L. (Vigna radiata (L.) R. Wilczek);A00SR;171;Friske bælgplanter;Fresh legumes
+Lakrids, sød;Liquorice, sweet;971;NULL;A035Q#F04.A047L;182;Slik;Candy
+Hindbærmarmelade;Marmalade, raspberry;972;NULL;A01MP#F02.A068P$F04.A01EN$F28.A0C0G;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Grisekød, skinkesteg af yderlår, med svær, rå;Pork, ham, silverside with rind, raw;973;Sus scrofa;A022T;60;Svinekød (Gris);Pork
+Gaffelbidder;Herring, pickled, canned;975;NULL;NULL;79;Fiskeprodukter;Fish products
+Persillerod, rå;Parsley root, raw;976;Petroselium crispum (Miller) Nyman ssp. tuberosum;A00QS#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Vallepulver, tørret;Whey, sweet, dried;977;NULL;A02PN#F02.A06BB;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Bønnespirer, uspec., rå;Bean sprouts, average values, raw;978;NULL;A00SF;171;Friske bælgplanter;Fresh legumes
+Minarine, 30 %, vegetabilsk fedt;Margarine, 30 % fat, vegetable fat;979;NULL;A039E#F02.A06ET$F07.A073T;95;Margariner;Margarines
+Oksekød, tykbov (marvpibebov), rå;Beef, shoulder, ventral part;980;Bos taurus;A01QX#F02.A069H$F07.A072Y;58;Oksekød;Beef
+Torsk, rogn, røget;Cod, roe, smoked;981;NULL;NULL;78;Fiskeindmad og rogn;Offal and fish eggs
+Medisterpølse, rå;Pork, sausage, Danish, raw;982;NULL;A024R#F02.A06AS$F04.A022S$F04.A023B;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Kalvekød, middelfedt, råt;Veal, medium fat, raw;984;Bos taurus;A01QY#F02.A069H$F07.A072Y;59;Kalvekød;Veal
+Grisekød, bov med svær, rå;Pork, hand with rind, raw;985;NULL;A01RG#F02.A069H$F07.A073A;60;Svinekød (Gris);Pork
+Smørbart blandingsprodukt, 80% fedt;Blended spread, 80% fat;986;NULL;A04SD#F02.A06ET$F07.A076B;96;Smør;Butter
+Skumfiduser, uspec.;Marshmellows, unspecified;987;NULL;A035H#F02.A06EJ;182;Slik;Candy
+Grisekød, uspec., ca. 10 % fedt, råt;Pork, meat, approx. 10 % fat, raw;988;Sus scrofa;A01RG#F02.A069H$F07.A072X;60;Svinekød (Gris);Pork
+Sylte;Pork, brawn, head cheese;989;NULL;A025Z;65;Pålægsvarer;Cold cuts
+Kylling, vinge, kød og skind, rå;Chicken, wing, flesh and skin, raw;990;Gallus domesticus;A01SP#F02.A06AG$F07.A072Z$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Hvedebrød med fedtrige frø, store, industrifremstillet;Wheat bread, high fat seeds, industrially produced;991;NULL;A004Y#F02.A066S$F02.A06CM$F03.A06HY$F04.A015F$F04.A003V$F28.A07GX;31;Brød;Bread
+Brisling (sardin), i tomat, konserves;Sprat (sardine), in tomato sauce, canned;993;Sprattus sprattus;NULL;79;Fiskeprodukter;Fish products
+Lammekød, bov, rå;Lamb, shoulder, raw;994;Ovis aries;A01RK#F02.A069H$F07.A073A;61;Fåre- og lammekød;Sheep and lamb
+Fasan, kød og skind, rå;Pheasant, flesh and skin, raw;995;Phasianus colchinus;A01SZ#F02.A069H$F07.A072N$F20.A07QQ$F20.A07QV;83;Fuglevildt;Game birds
+Jordbærmarmelade;Marmalade, strawberry;997;NULL;A01MN#F02.A068P$F04.A01DZ$F28.A0C0G;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Laks, atlantisk, vild, koldrøget;Salmon, Atlantic, wild, cold smoked;998;Salmo salar;A02KF#F02.A06AP$F03.A06HZ$F27.A028P$F28.A07KV;79;Fiskeprodukter;Fish products
+Pastiller, sukkerfri, uspec.;Pastilles, sugarfree, unspecified;1001;NULL;A034X#F02.A06EJ$F04.A032G$F10.A077L;182;Slik;Candy
+Hellefisk, røget;Halibut, greenland, smoked;1002;Reinhardtius hippoglossoides;A02BA#F01.A04ZG$F02.A069C$F28.A07KD;79;Fiskeprodukter;Fish products
+Grisekød, kam uden svær, ca. 3 mm spæk, rå;Pork, loin, defatted (approx. 3 mm fat), raw;1003;Sus scrofa;A01RG#F02.A069H$F07.A072Z;60;Svinekød (Gris);Pork
+Blomkål, importeret, rå;Cauliflower, imported, raw;1005;Brassica oleracea L. convar. botrytis;A00FR;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Fruktose;Fructose;1006;NULL;A032T#F02.A06EC;101;Andre sukkervarer;Other sweet products
+Salt, stensalt, køkkensalt;Salt, block;1007;NULL;A042P;121;Salt;Salt
+Karameller, blandede;Toffees, mixed;1008;NULL;A035A#F02.A06EJ;182;Slik;Candy
+Mayonnaise;Mayonnaise;1009;NULL;A004F#F03.A07Y3;97;Mayonnaise, remoulade o.l.;Mayonnaises,  remoulade etc
+Leverpostej;Liver pâté, pork, Danish;1010;NULL;A026L;65;Pålægsvarer;Cold cuts
+Æblegele;Apple jelly;1011;Malus domestica Borkh.;A04MN#F03.A0CEB$F04.A01DJ$F04.A032J$F28.A0BZP$F28.A07GG;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Solbærgele;Currant, black, jelly;1013;Ribes nigrum L.;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Grovbolle;Bread, white, roll, coarse grain;1014;NULL;A005E#F02.A066Q$F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Smør, usaltet;Butter, salt not added;1015;NULL;NULL;96;Smør;Butter
+Gåsefedt;Goose fat;1016;NULL;A01VV;93;Animalske fedtstoffer;Animal fats
+Lammekød, kølle, med fedt, rå;Lamb, leg with fat, raw;1017;Ovis aries;A01RK#F02.A07XQ$F07.A073B;61;Fåre- og lammekød;Sheep and lamb
+Plantemargarine, 80%, stege/bage;Plant margarine, 80%, fry/bake;1018;NULL;A039D#F02.A06ET$F07.A076B;95;Margariner;Margarines
+Oksekød, tykkam, rå;Beef, chuck, raw;1019;Bos taurus;A01QX#F02.A069H$F07.A073A;58;Oksekød;Beef
+Margarine, 80 %, bordbrug, blød, vegetabilsk fedt;Margarine, 80 % fat, table use, soft, vegetable fat;1020;NULL;A039D#F02.A06ET$F07.A076B;95;Margariner;Margarines
+Skinke, røget, kogt;Pork, ham, smoked, boiled;1021;NULL;A023K#F28.A07JV;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Chokolade, mørk;Chocolate, bitter;1022;NULL;A034G#F04.A0C6B;104;Chokoladevarer o.l.; Chocolate etc.
+Tomatsuppe, spiseklar;Soup, tomato, ready to eat;1023;NULL;A041N#F24.A07VP$F28.A07GG;180;Supper og suppeprodukter;Soup and soup products
+Sild, marineret, kryddersild;Herring, pickled, spiced, canned;1024;NULL;NULL;79;Fiskeprodukter;Fish products
+Kødrand, dybfrost;Pork, minced and bound with flour and egg, boiled, frozen;1025;NULL;NULL;128;Færdigretter;Ready meals
+Sild, røget;Herring, smoked;1026;Clupea harengus;A02KG#F02.A06AP$F03.A06HZ;79;Fiskeprodukter;Fish products
+Grisekød, skinkeculotte af yderlår, ca. 5 mm spæk, råt;Pork, ham, silverside (M. Biceps Femoris), 5 mm rind, raw;1029;Sus scrofa;A022T#F07.A073B;60;Svinekød (Gris);Pork
+Laks, atlantisk, vild, gravad;Salmon, Atlantic, wild, gravad;1031;Salmo salar;A028P#F02.A069C$F28.A07KD;79;Fiskeprodukter;Fish products
+Margarine, 80 %, bordbrug, vegetabilsk fedt;Margarine, 80 % fat, table use, vegetable fat;1032;NULL;A039D#F02.A06ET$F07.A076B;95;Margariner;Margarines
+Ansjos, marineret, konserves;Anchovy, pickled, canned;1034;Engraulis encrasicholus;A0FCA;79;Fiskeprodukter;Fish products
+Brisling (ansjovis), marineret, konserves;Sprat, pickled, canned;1035;Sprattus sprattus;A0FBY#F28.A0C0N;79;Fiskeprodukter;Fish products
+Margarine, 80 %, stegning/bagning, animalsk og vegetabilsk fedt;Margarine, 80 % fat, for frying/baking, animal and vegetable fat;1036;NULL;NULL;95;Margariner;Margarines
+Høne, kød og skind, rå;Chicken, hen, flesh and skin, raw;1037;Gallus domesticus;A01SP#F02.A069H$F07.A073D$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Margarine, 80 %, bordbrug, animalsk og vegetabilsk fedt;Margarine, 80 % fat, table use, animal and vegetable fat;1038;NULL;NULL;95;Margariner;Margarines
+Oksekød, spidsbryst, råt;Beef, brisket, anterior part, raw;1040;Bos taurus;A01QX#F02.A069H$F07.A073D;58;Oksekød;Beef
+Poulard, kød og skind, rå;Poularde, flesh and skin, raw;1041;Gallus domesticus;A01SP#F02.A069H$F07.A073C$F20.A07QQ$F20.A07QV;81;Høns og kylling;Chicken
+Oksekød, tyndbov + mellembov, rå;Beef, shoulder, dorsal part, raw;1042;Bos taurus;A01QX#F02.A069H$F07.A073B;58;Oksekød;Beef
+Skinkepølse, pålæg;Pork, ham sausage;1043;Sus scrofa;NULL;65;Pålægsvarer;Cold cuts
+Margarine, gennemsnit;Margarine, (more than 50 % fat), average;1044;NULL;NULL;95;Margariner;Margarines
+Flødeskumskage, gåsebryst;Cream pastry, goose breast;1045;NULL;NULL;33;Kager;Cakes
+Dressing, italiensk;Salad dressing, Italian;1046;NULL;A045K#F04.A044L$F04.A036N$F04.A00GZ;98;Dressings;Dressings
+Hvedebrød, bolle, grov, med fedtrige frø, industrifremstillet;Rolls, wheat with coarse meal, high fat seeds, industrially produced;1047;NULL;A005E#F02.A066P$F02.A06CM$F03.A06HY$F04.A015F$F04.A003V$F28.A07GX;31;Brød;Bread
+Skummetmælk, økologisk;Milk, skimmed, organic;1048;NULL;A02MA#F07.A06YL$F21.A07SE$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Skummetmælk;Milk, skimmed;1049;NULL;A02MA#F07.A06YL$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Bambusskud, rå;Bamboo shoots, raw;1051;Phyllostachys bambusoides;A00RV#F01.A05LC$F02.A067S;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Smør, saltet;Butter, salt added;1052;NULL;A039C;96;Smør;Butter
+Oksekød, uspec., middelfedt, råt;Beef, meat, approx. 15 % fat, raw;1053;Bos taurus;A01QX#F02.A069H$F07.A073B;58;Oksekød;Beef
+Sild, marineret, i madeirasauce;Herring, pickled, in madeira sauce, canned;1054;Clupea harengus;NULL;79;Fiskeprodukter;Fish products
+Passionsfrugt, rå;Passion fruit, raw;1055;Passiflora edulis Sims;A01KC#F02.A067D;52;Sydfrugt;Tropical or subtropical fruit
+Pølse, bierwurst;Pork sausage, bierwurst;1056;NULL;NULL;65;Pålægsvarer;Cold cuts
+Syltetøj, uspec.;Jam, fruit, average values;1057;NULL;A01MM#F02.A068P$F28.A0C0G;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Grisekød, rullesteg af slag, råt;Pork, flank, raw;1058;Sus scrofa;A01RG#F02.A07XS$F07.A073D;60;Svinekød (Gris);Pork
+Roulade, hindbær;Swiss roll, raspberry stuffing;1059;NULL;A00BB#F04.A01EP$F28.A07MA;33;Kager;Cakes
+Bayonneskinke, udbenet;Pork, ham, bayonne style, deboned;1060;Sus scrofa;A022T#F07.A072Z$F28.A07JV;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Sukkerært (mangetout), rå;Sugar pea (Snow pea, Mangetout) raw;1061;Pisum sativum;A00QA;171;Friske bælgplanter;Fresh legumes
+Roulade, uspec.;Swiss roll, unspecified;1062;NULL;A00BB#F04.A0BY3$F28.A07MA;33;Kager;Cakes
+Rundstykke;Bread, roll, Danish;1063;NULL;A004Y#F02.A06CM$F03.A06HY$F04.A003V$F28.A07GX;31;Brød;Bread
+Oksekød, culotte, rå;Beef, top, end of rump, raw;1064;Bos taurus;A01QX#F02.A069H$F07.A073C;58;Oksekød;Beef
+Lakrids, uspec.;Liquorice, average values;1065;NULL;A035J#F02.A06EJ;182;Slik;Candy
+Minimælk, 0.5 % fedt;Milk, skimmed, 0.5 % fat;1066;NULL;A02MA#F07.A06YN$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Oksekød, hakket, 15-20% fedt, rå;Beef, mince, 15-20% fat, raw;1067;Bos taurus;A01QX#F02.A069H$F07.A073D$F28.A07KY;58;Oksekød;Beef
+Kærnemælk med citronsaft;Milk, buttermilk with lemon;1068;NULL;A02MP#F04.A02MV$F04.A03AH;5;Syrnede mælkeprodukter;Fermented milk products
+Oksekød, tyndsteg med mørbrad, rå;Beef, T-bone steak, raw;1069;Bos taurus;A01QX#F02.A069H$F07.A073B;58;Oksekød;Beef
+Kalv- og svinekød, hakket kalv og flæsk, 15-20% fedt, råt;Veal and pork, mince, 15-20% fat, raw;1070;Bos taurus, Sus scrofa;A01TN#F02.A069D$F04.A049R$F04.A04AB$F07.A073D$F28.A07KY;57;Andet kød og ferske kødprodukter;Other meat and fresh meat products
+Flødeskumskage, medalje;Cream pastry, medal;1071;NULL;NULL;33;Kager;Cakes
+Salat, mayonnaise-, italiensk;Italian mayonnaise salad;1072;NULL;NULL;130;Fede salater;Fatty salads
+Rosenkål, dybfrost;Brussels sprout, frozen;1073;Brassica oleracea L. convar. oleracea (L.) var. gemmiferaDC;A00FV#F28.A07KQ;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Jagtpølse, pålæg;Pork sausage, jagdwurst;1074;Sus scrofa;NULL;65;Pålægsvarer;Cold cuts
+Kaffebønne, ristet, formalet;Coffee bean, roasted, ground;1075;Coffea var.;A03GN#F02.A068C;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Grisekød, hakket, 15-20% fedt, råt;Pork, mince, 15-20% fat, raw;1076;Sus scrofa;A01RG#F02.A0C10$F07.A073E;60;Svinekød (Gris);Pork
+Grisekød, kogestykke af bryst uden svær, ca. 2 mm spæk, rå;Pork, thin belly, lean, approx. 2 mm rind, raw;1077;Sus scrofa;A01RG#F02.A07XS$F07.A073F;60;Svinekød (Gris);Pork
+Sild, marineret, i karrysauce;Herring, pickled, in curry sauce, canned;1078;Clupea harengus;NULL;79;Fiskeprodukter;Fish products
+Kakao, instant, med mælk, pulver;Cocoa, instant, med milk, powder;1079;NULL;A03HH#F04.A02PJ;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Rødspætte, filet, paneret, friturestegt;Plaice, fillet, battered, deepfried;1080;NULL;A02BC#F01.A04ZG$F02.A069C$F03.A06HZ$F28.A07HK$F28.A07GV;79;Fiskeprodukter;Fish products
+Risklid;Rice bran;1081;Oryza sativa L.;A002C#F03.A06JC$F27.A001C;30;Mel og klid;Flour and bran
+Oksekød, tyndstegsfilet med fedtkant, rå;Beef, sirloin, raw;1082;Bos taurus;A01QX#F02.A069H$F07.A073C;58;Oksekød;Beef
+Tørkage, kransekage;Pastry, garland cake;1083;NULL;A035P#F04.A032H$F28.A07HM$F28.A07GX;33;Kager;Cakes
+Hvedekim, rå;Wheat germ, raw;1084;Triticum aestivum L.;A004Q;28;Korn og gryn;Grain and groats
+Kuller, paneret, stegt;Haddock, breaded, fried;1087;Melanogrammus aeglefinus;A02CA#F02.A069C$F28.A07HK$F28.A07GR;79;Fiskeprodukter;Fish products
+Tun i olie, konserves;Tuna, in oil, canned;1088;Thunnus thynnus;A02KK#F02.A06AP$F06.A06XJ$F27.A02DX$F28.A0BYP;79;Fiskeprodukter;Fish products
+Skorzonerrod, rå;Black salsify, raw;1089;Scorzonera hispanica L.;A00RC#F02.A067M;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Fårekød, bov, rå;Mutton, shoulder, raw;1090;Ovis aries;A01RJ#F02.A069H$F07.A073E;61;Fåre- og lammekød;Sheep and lamb
+Kylling, kød og skind, grillstegt;Chicken, flesh and skin, grilled;1091;NULL;A01SP#F02.A069H$F07.A072Y$F20.A07QQ$F20.A07QV$F28.A07GY;81;Høns og kylling;Chicken
+Chokolade, koge-;Chocolate, plain, couverture;1092;NULL;A034M#F04.A0C6B;104;Chokoladevarer o.l.; Chocolate etc.
+Wienerpølse, kogt, fastfood;Frankfurt sausage, boiled, fast food;1093;NULL;A026D;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Flødeskumskage, napoleonskage;Cream pastry, napoleon cake;1094;NULL;NULL;33;Kager;Cakes
+Mælkebøtte, blade, rå;Dandelion, leaves, raw;1095;Taraxacum spp.;A00MD#F02.A067J;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Kanel, stang;Cinnamon stick;1096;NULL;A019V;120;Krydderier;Spices
+Sirup;Syrup, kitchen;1098;NULL;A033Z#F03.A06JL$F28.A0C04;101;Andre sukkervarer;Other sweet products
+Paté, pålæg;Pate, liver;1099;NULL;A026R;65;Pålægsvarer;Cold cuts
+Kantarel, rå;Cantherelle, raw;1100;Cantharellus cibarius;A00TE;43;Svampe;Mushrooms
+Kødpølse, pålæg;Pork sausage, saveloy type;1101;NULL;A025Q;65;Pålægsvarer;Cold cuts
+Sapote, stor sapodil, rå;Sapotes, raw;1102;Pouteria sapota (Jacq.) H.E. Moore et Stern;NULL;52;Sydfrugt;Tropical or subtropical fruit
+Flæskesvær, snacks;Bacon crisps;1103;NULL;NULL;143;Chips and snacks;Potato chip and snacks
+Malakoffpølse, pålæg;Pork sausage, malakoff;1104;Sus scrofa;NULL;65;Pålægsvarer;Cold cuts
+Makrel, filet, naturel, konserves;Mackerel, filet, in natural juices, canned;1105;Scomber scombrus;A0FBV;79;Fiskeprodukter;Fish products
+Ribbensstegssandwich;Sandwich, rib roast;1106;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Cacaoskummetmælk;Milk, skimmed, with chocolate;1107;NULL;A02MP#F04.A032J$F04.A03HG$F10.A077C;4;Usyrnede mælkeprodukter;Unfermented milk products
+Cacaoskummetmælk (UHT);Milk, skimmed, with chocolate (UHT);1108;NULL;A02MP#F04.A032J$F04.A03HG$F10.A077C$F28.A07HY;4;Usyrnede mælkeprodukter;Unfermented milk products
+Oksekød, højrebsfilet med kappe, rå;"Beef, striploin ""cap on"", raw";1109;Bos taurus;A01QX#F02.A069H$F07.A073E$F28.A07KY;58;Oksekød;Beef
+Camembert, 30+;Cheese, Camembert, 30 % fidm.;1110;NULL;A02RX#F07.A072Y;14;Blød løbeost;Soft rennet cheese
+Lucernespirer, rå;Alfalfa seeds, sprouted, raw;1111;Medicago sativa L.;A00SH;171;Friske bælgplanter;Fresh legumes
+Grisekød, uspec., ca. 20 % fedt, råt;Pork, meat, approx. 20 % fat, raw;1112;Sus scrofa;A01RG#F02.A069H$F07.A073H;60;Svinekød (Gris);Pork
+Lakrids, salt;Liquorice, salt;1114;NULL;A035J#F02.A06EJ$F04.A042P;182;Slik;Candy
+Kiks, 20-30% fuldkorn, digestivetype;Biscuit, 20-30% wholemeal, digestive type;1115;NULL;A00AA#F04.A004B$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Grisekød, mellemkam med svær, rå;Pork, loin with rind, raw;1117;Sus scrofa;A01RG#F02.A069H$F07.A073F;60;Svinekød (Gris);Pork
+Vingummi;Fruit gums;1118;NULL;A035K#F02.A06EJ;182;Slik;Candy
+Brisling (sardin), i olie, konserves;Sprat (sardine), in oil, canned;1120;Sprattus sprattus;NULL;79;Fiskeprodukter;Fish products
+Sardin, i olie, konserves;Sardine, in oil, canned;1121;Clupeidae;A02KK#F02.A06AP$F06.A06XJ$F27.A026V$F28.A0BYP;79;Fiskeprodukter;Fish products
+Kiks til ost, Cream Crackers;Cream Crackers;1122;NULL;A005Y#F02.A06CQ$F03.A06HY$F04.A02ST$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Grisekød, kogestykke af bryst med svær, rå;Pork, thin belly with rind, raw;1124;Sus scrofa;A01RG#F02.A07XS$F07.A073H;60;Svinekød (Gris);Pork
+Modermælk, colostrum;Human milk, colostrum;1125;Homo sapiens;A02MJ;6;Modermælk og modermælkserstatning;Breast milk and  infant formula
+Morgenmadsprodukt, Havrefras;Breakfast cereal, Havrefras;1126;NULL;NULL;34;Morgenprodukter;Breakfast products
+Pølse, cervelatpølse, pålæg;Pork/beef sausage, saveloy type;1128;NULL;A026H;65;Pålægsvarer;Cold cuts
+Mintgele;Mint jelly;1131;NULL;NULL;185;Marmelade, gele o.l.;Marmelade, jelly etc.
+Sild, høstsild, fedsild, rå;Herring, autumn, raw;1132;Clupea harengus;A02DF#F02.A069C;73;Fed fisk;Oily fish
+Spædbørnsmad, modermælkserstatning, lavt jernindhold, drikkeklar;Baby food, infant formula, low iron content, prepared;1134;NULL;NULL;135;Spædbørnsmad;Infant food
+Vekao;Vecao;1135;NULL;A034T#F04.A0C6B;104;Chokoladevarer o.l.; Chocolate etc.
+Medisterpølse, røget;Pork, mettwurst, smoked;1136;NULL;A024R#F02.A06AS$F04.A022S$F04.A023B$F28.A07JV;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Sandwich med skinke og ost, toasted, fastfood;Sandwich with ham and cheese, toasted, fast food;1138;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Lucerne, alfalfa, frø;Alfalfa seeds;1142;Medicago sativa L.;A0BL9;173;Tørrede bælgplanter;Dried pulses
+Dressing, mayonnaise;Salad dressing, mayonnaise;1147;NULL;A045K#F04.A044X;98;Dressings;Dressings
+Rugsigtemel (udmalingsgrad ca. 70 %);Rye-flour, bolted (extraction rate 70 %);1148;NULL;A003K#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Oksekød, entrecote med kappe, rå;"Beef, entrecote ""cap on"", raw";1149;Bos taurus;A01QX#F02.A069H$F07.A073J;58;Oksekød;Beef
+Kippers i olie, konserves;Kippers, in oil, canned;1150;Clupea harengus;A02KK#F02.A06AP$F06.A06XJ$F27.A02DF$F28.A07JV$F28.A0BYP;79;Fiskeprodukter;Fish products
+Spegesild;Herring, salted, ripened;1152;Clupea harengus;A02DF#F28.A0F2N;79;Fiskeprodukter;Fish products
+Letmælkskefir;Milk, 1.5 % fat, cultured, kefir;1153;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Letmælk, økologisk;Milk, partly skimmed, organic, 1.5 % fat;1154;NULL;A02LZ#F07.A06ZA$F21.A07SE$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Dressing, olie-eddike;Salad dressing, oil and vinegar;1156;NULL;A045K#F04.A036N$F04.A044L;98;Dressings;Dressings
+Muskatnød, hel;Nutmeg, whole;1157;NULL;A018J#F02.A066P;120;Krydderier;Spices
+Rullepølse, pålæg;Pork, flank, spiced, cooked;1158;NULL;A025J#F04.A042Z$F04.A01RG$F07.A073L$F28.A07JP$F28.A07GL;65;Pålægsvarer;Cold cuts
+Rosenkål, vinter (januar til april), rå;Brussels sprouts, winter (January to April), raw;1159;Brassica oleracea var. gemmifera;A00FV;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Kørvel, rå;Chervil, raw;1160;Antriscus cerefolium (L.) Hoffm.;A00XB#F02.A066T;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Pølse, bratwurst, thüringer;Pork sausage, Thüringer bratwurst;1161;Sus scrofa;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Jordnøddesmør;Peanut butter;1162;NULL;A01BN;94;Vegetabilske fedtstoffer;Vegetable fats
+Pølse, krakowpølse;Pork sausage, polony type;1163;Sus scrofa;NULL;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Majs, kerner, konserves;Sweetcorn, kernels, canned;1164;Zea mays L.;A00ZP#F02.A068P;46;Grøntsagskonserves;Canned vegetable products
+Æble, tørret;Apple, dried;1166;Malus domestica Borkh.;A01MC#F02.A068P;49;Kernefrugt;Pome fruit
+Modermælk, overgangsmælk (10. dag efter fødslen);Human milk, transitional (10th day post partum);1167;Homo sapiens;A02MJ;6;Modermælk og modermælkserstatning;Breast milk and  infant formula
+Yoghurt, med frugt, 1.5 % fedt;Yogurt, with fruit, 1.5 % fat;1169;NULL;A02NH#F04.A0BY4$F04.A02NG$F07.A06ZA;5;Syrnede mælkeprodukter;Fermented milk products
+Kalvekød, fedt, råt;Veal, fat, raw;1171;Bos taurus;A01QY#F02.A069H$F07.A073L;59;Kalvekød;Veal
+Sprængt nakke, grisekød;Pork, neck, smoked, boiled;1172;NULL;A022Z#F07.A073J;65;Pålægsvarer;Cold cuts
+Småkage, uspec.;Biscuit, sweet;1173;NULL;A009V#F04.A003X$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Fløde 38 %, piskefløde;Cream, whipping, 38 % fat;1174;NULL;A02ML#F07.A074D;4;Usyrnede mælkeprodukter;Unfermented milk products
+Honning;Honey;1176;NULL;A033J;103;Honning;Honey
+Sojadrik, kommercielt tilberedt, ikke beriget;Beverages, soy, commercially prepared, unfortified;1178;NULL;A03TJ#F04.A015P$F22.A07SH;168;Plantebaserede drikkevarer;Plant-based beverages
+Modermælk, moden;Human milk, mature;1180;Homo sapiens;A02MJ;6;Modermælk og modermælkserstatning;Breast milk and  infant formula
+Creme fraiche 38 %;Cream, cultured, 38 % fat;1181;NULL;A02NC#F02.A06BA$F07.A074D;5;Syrnede mælkeprodukter;Fermented milk products
+Laks, atlantisk, vild, saltet;Salmon, Atlantic, wild, salted;1182;Salmo salar;A028P#F02.A069C$F10.A0CJK;73;Fed fisk;Oily fish
+Blodpølse, kogt;Black pudding, boiled;1184;NULL;A025S;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Æg, høne, blomme, saltet, pasteuriseret;Eggs, chicken, yolk, salted, pasteurized;1187;Gallus domesticus;A031S#F10.A0CJK;88;Flydende æg;Liquid egg
+Bækforel, filet, røget;Charr, fillet, smoked;1188;Salvelinus sp.;A029G;79;Fiskeprodukter;Fish products
+Cacaomælk (UHT);Milk, with chocolate, partly skimmed, 1.5 % fat (UHT);1189;NULL;A02MP#F04.A032J$F04.A03HG$F28.A07HY;4;Usyrnede mælkeprodukter;Unfermented milk products
+Gelatine;Gelatin;1190;NULL;A027X#F02.A069C;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Minarine, gennemsnit;Margarine, (less than 50 % fat), average;1191;NULL;NULL;95;Margariner;Margarines
+Wienerpølse, ristet, fastfood;Frankfurt sausage, fried, fast food;1192;NULL;A026D#F28.A07GS;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Pekannød, olieristet;Pecans, oil roasted;1193;Carya illinoensis (Wangenh.) K. Koch;A014N#F28.A07HC;53;Nødder;Nuts
+Pecannød, tørristet;Pecans, dry roasted;1194;Carya illinoensis (Wangenh.) K. Koch;A014N#F28.A07HC;53;Nødder;Nuts
+Minarine, 40 %, vegetabilsk fedt;Margarine, 40 % fat, vegetable fat;1195;NULL;A039E#F02.A06ET$F07.A074F;95;Margariner;Margarines
+Rosenkål, efterår (oktober til december), rå;Brussels sprouts, automn (October to December), raw;1196;Brassica oleracea var. gemmifera;A00FV;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Boghvedemel;Buckwheat flour;1198;Fagopyrum esculentum Moench;A002G#F28.A0C03;30;Mel og klid;Flour and bran
+Gær, tørret;Yeast, dried;1199;Saccharomyces;A048Z#F28.A07KG;122;Gær og hævemiddel;Yeast and baking powder
+Due, vildt, kød og skind, rå;Squab (pigeon), raw;1200;Columba spp.;A01TA#F02.A069H$F07.A073M$F20.A07QQ$F20.A07QV;83;Fuglevildt;Game birds
+Grisekød, stegestykke af bryst, uden svær, ca. 2 mm spæk, rå;Pork, thick belly, defatted, approx. 2 mm rind, raw;1201;Sus scrofa;A01RG#F02.A07XS$F07.A073Q;60;Svinekød (Gris);Pork
+Smelteost, 20+;Cheese, processed, 20 % fidm.;1202;NULL;A031A#F07.A072Z;17;Smelteost;Processed cheese
+Danbo, 20+;Cheese, firm, Danbo, 20 % fidm.;1203;NULL;A02TQ#F07.A072Z;13;Fast løbeost;Firm rennet cheese
+Tang, kombu, tørret;Seaweed, kombu, dried;1204;NULL;A00VM#F01.A05MS$F02.A066T;187;Tang og tangprodukter;Seaweed and seaweed products
+Cacaomælk;Milk, with chocolate, partly skimmed, 1.5 % fat;1205;NULL;A02MP#F04.A032J$F04.A03HG;4;Usyrnede mælkeprodukter;Unfermented milk products
+Kakao, instant, uden mælk, pulver;Cocoa, instant, without milk, powder;1206;NULL;A03HH;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Gærekstrakt, marmite;Yeast extract, Marmite;1207;NULL;A043P#F02.A06HC$F27.A048Z;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Salat, mayonnaise-, karry-;Curry mayonnaise salad;1208;NULL;NULL;130;Fede salater;Fatty salads
+Pommes frites, friturestegt, fastfood;French fries, deepfried, fast food;1209;NULL;A0BYV#F02.A06GF$F03.A06HY$F28.A07GV;127;Andre sammensatte fødevarer;Other composite foods
+Æg, blomme, tilsat sukker, pasteuriseret, dybfrost;Egg, hen, yolk, sugar added, pasteurized, frozen;1210;NULL;A031S#F10.A077J;88;Flydende æg;Liquid egg
+Ost, fast, 20+, alle typer;Cheese, firm, 20 % fidm., all varieties;1211;NULL;A02SV#F07.A072Y;13;Fast løbeost;Firm rennet cheese
+Flødeost, 60+;Cheese, Cream, 60 % fidm.;1215;NULL;A02QZ#F07.A073X;14;Blød løbeost;Soft rennet cheese
+Tomatpure, koncentreret;Tomato paste, concentrated;1216;NULL;A00ZF;46;Grøntsagskonserves;Canned vegetable products
+Sojabønner, tørrede, rå;Beans, soy, dried, raw;1217;Glycine max (L.) Merr..;A0DCH;173;Tørrede bælgplanter;Dried pulses
+Kødekstrakt, terning;Meat extract, cube;1218;NULL;A043M#F02.A06HC$F03.A06JB$F27.A0BXF;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Majs, kerner, dybfrost;Sweetcorn, kernels, frozen;1219;Zea mays L.;A000T#F02.A066P$F28.A07KQ;188;Andre grøntsagsprodukter;Other vegetable products
+Makrel, røget;Mackerel, smoked;1220;Scomber scombrus;A16EM;79;Fiskeprodukter;Fish products
+Kogt oksebryst, pålæg;Beef brisket, soaked in brine;1221;Bos taurus;A01QX#F02.A07XS$F07.A073K$F28.A07GL;65;Pålægsvarer;Cold cuts
+Dressing, thousand island;Salad dressing, thousand island;1223;NULL;A045K#F04.A036N$F04.A044L$F04.A031S$F04.A00ZD$F04.A042Y;98;Dressings;Dressings
+Kammerjunkere;Biscuit, sweet;1224;NULL;A009X#F04.A003X$F28.A07GX;32;Kiks og småkager;Biscuits and cookies
+Risengryn, grødris, polerede, rå;Rice groats, raw;1225;Oryza sativa L.;NULL;28;Korn og gryn;Grain and groats
+Skinke, røget;Pork, ham, smoked;1226;NULL;A022T#F07.A073A$F28.A07JV;64;Kogt, røget, saltet eller tørret kød;Boiled, smoked, cured or dried meat
+Smelteost, 30+;Cheese, processed, 30 % fidm.;1227;NULL;A031A#F07.A073E;17;Smelteost;Processed cheese
+Brie, 45+;Cheese, Brie, 45 % fidm.;1228;NULL;A02RV#F07.A073K;14;Blød løbeost;Soft rennet cheese
+Kylling, kød og skind, paneret, friturestegt;Chicken, flesh and skin, battered, deepfried;1229;NULL;A01SP#F02.A069H$F07.A073E$F20.A07QQ$F20.A07QV$F28.A07GV$F28.A07HK;81;Høns og kylling;Chicken
+Æg, høne, blomme, rå;Egg, chicken, yolk, raw;1230;Gallus domesticus;A031S;87;Friske æg;Fresh eggs
+Oksekød, uspec., fedt, råt;Beef, meat, approx. 25 % fat, raw;1232;Bos taurus;A01QX#F02.A069H$F10.A077A;58;Oksekød;Beef
+Oksekød, tyndbryst, råt;Beef, brisket, posterior part, raw;1233;Bos taurus;A01QX#F02.A069H$F07.A073R;58;Oksekød;Beef
+Lammekød, uspec., råt;Lamb, meat, average values, raw;1234;Ovis aries;A01RK#F02.A069H$F07.A073V;61;Fåre- og lammekød;Sheep and lamb
+Camembert, 45+;Cheese, Camembert, 45 % fidm.;1235;NULL;A02RX#F07.A073K;14;Blød løbeost;Soft rennet cheese
+Kylling, kød og skind, friturestegt;Chicken, flesh and skin, deepfried;1236;NULL;A01SP#F02.A069H$F07.A073D$F20.A07QQ$F20.A07QV$F28.A07GV;81;Høns og kylling;Chicken
+Oksekød, tykbryst, råt;Beef, brisket, middle part, raw;1237;Bos taurus;A01QX#F02.A069H$F07.A073S;58;Oksekød;Beef
+Sildepostej;Bucklingpaté (sweet cured herring, smoked);1238;NULL;NULL;79;Fiskeprodukter;Fish products
+Boghvedegryn, rå;Buckwheat groats, raw;1240;Fagopyrum esculentum Moench;A002H#F28.A0C03;28;Korn og gryn;Grain and groats
+Feta, 50+;Cheese, semihard, Feta, 50 % fidm;1243;NULL;A02RC#F07.A073N;15;Halvfast løbeost;Semi-firm rennet cheese
+Skummetmælksost, max. 5+;Cheese, firm, skimmed milk, max. 5 % fidm.;1244;NULL;NULL;13;Fast løbeost;Firm rennet cheese
+Tomatpure;Tomato puree;1246;NULL;A00ZD;46;Grøntsagskonserves;Canned vegetable products
+Ål, rå;Eel, raw;1248;Anguilla anguilla;A028G#F01.A04VV$F02.A069C;73;Fed fisk;Oily fish
+Grisekød, stegestykke af bryst med svær, rå;Pork, thick belly with rind, raw;1249;Sus scrofa;A01RG#F02.A07XS$F07.A073T;60;Svinekød (Gris);Pork
+Remoulade, uspec.;Remoulade, average values;1250;NULL;NULL;97;Mayonnaise, remoulade o.l.;Mayonnaises,  remoulade etc
+Oksekød, tværreb, råt;Beef, flatribs, raw;1251;Bos taurus;A01QX#F02.A069H$F07.A073T;58;Oksekød;Beef
+Ris, polerede, rå;Rice, polished, raw;1252;Oryza sativa L.;A003D;28;Korn og gryn;Grain and groats
+Bouillon, oksekød, koncentreret, terning;Bouillon, beef, concentrated, cube;1253;NULL;A043H#F02.A06HC;124;Buillon, ekstrakter o.l.;Bouillon, extracts and the like
+Rismel;Rice flour;1255;Oryza sativa L.;A003F;30;Mel og klid;Flour and bran
+Kakao, pulver;Cocoa, powder;1256;NULL;A03HG#F02.A067Z;107;Kaffe, te og kakao;Coffee, tea and cocoa
+Oliven, sorte, saltede, i olie;Olives, ripe, salted, oil-coated;1257;Olea europea L.;NULL;55;Konserves og syltet bær og frugt;Canned fruit products
+Rugmel, halvsigtet (udmalingsgrad ca. 85 %);Rye flour, bolted (extraction rate 85 %);1258;NULL;A003L#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Danbo, 30+;Cheese, firm, Danbo, 30 % fidm.;1259;NULL;A02TQ#F07.A073D;13;Fast løbeost;Firm rennet cheese
+Oksekød, slag, råt;Beef, flank, raw;1261;Bos taurus;A01QX#F02.A069H$F07.A073T;58;Oksekød;Beef
+Tomatketchup;Tomato ketchup, bottled;1262;NULL;A044P;181;Sennep, ketchup, pesto o.l.;Condiments
+Baked beans i tomatsovs, konserves;Beans, baked i tomato sauce, canned;1263;NULL;NULL;174;Konserves af bælgplanter;Canned legumes
+Sødmælk (UHT);Milk, whole, 3.5, (UHT), % fat;1265;NULL;A02LY#F07.A06ZY$F28.A07HY;4;Usyrnede mælkeprodukter;Unfermented milk products
+Sødmælk, økologisk;Milk, whole, organic, 3.5 % fat;1266;NULL;A02LY#F07.A06ZY$F21.A07SE$F28.A07HV;4;Usyrnede mælkeprodukter;Unfermented milk products
+Lammekød, rygstykke, råt;Lamb, loin, raw;1268;Ovis aries;A01RK#F02.A069H$F07.A073V;61;Fåre- og lammekød;Sheep and lamb
+Grisekød, uspec., fedt, råt;Pork, meat, approx. 32 % fat, raw;1269;Sus scrofa;A01RG#F02.A069H$F07.A073X;60;Svinekød (Gris);Pork
+Yoghurt med jordbær;Yoghurt with strawberries;1270;NULL;A02NH#F04.A032H$F04.A01EA$F04.A02NG;5;Syrnede mælkeprodukter;Fermented milk products
+Ris, parboiled, rå;Rice, parboiled, raw;1271;Oryza sativa L.;A003E;28;Korn og gryn;Grain and groats
+Kartoffelmel;Potato flour;1272;NULL;A011G#F02.A067Z$F03.A06JD;36;Stivelsesprodukter;Starch products
+Yoghurt med skovbær;Yoghurt with mixed fruits;1273;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Ost, fast, 30+, alle typer;Cheese, firm, 30 % fidm., all varieties;1274;NULL;A02SV#F07.A073D;13;Fast løbeost;Firm rennet cheese
+Spædbørnsmad, modermælkserstatning, højt jernindhold, pulver;Baby food, infant formula, high iron content, powder;1275;NULL;A03PZ#F09.A03SM;135;Spædbørnsmad;Infant food
+Fersken, tørret;Peach, dried;1276;Prunus persica (L.) Batsch;NULL;50;Stenfrugt;Stone fruit
+Camembert, 50+;Cheese, Camembert, 50 % fidm.;1277;NULL;A02RX#F07.A073P;14;Blød løbeost;Soft rennet cheese
+Ab-mælk, syrnet sødmælk;Milk, whole, cultured;1278;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Tykmælk;Junket;1279;NULL;A02NG#F27.A02LV$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Cultura, syrnet sødmælk (HISTORISK);Milk, whole, cultured (HISTORIC);1280;NULL;A02NG#F07.A06ZY$F27.A02LV$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Kefir (HISTORISK);Milk, cultured, kefir (HISTORIC);1281;NULL;A02NV#F28.A07JY$F28.A07JZ;5;Syrnede mælkeprodukter;Fermented milk products
+Yoghurt med peach melba;Yoghurt with peach melba;1284;NULL;A02NH#F04.A032H$F04.A01GM$F04.A01EN$F04.A02NG;5;Syrnede mælkeprodukter;Fermented milk products
+Yoghurt, sødmælk, med frugt;Yoghurt, whole milk, with fruit;1286;NULL;A02NH#F04.A032H$F04.A0BY3$F04.A02NG;5;Syrnede mælkeprodukter;Fermented milk products
+Maribo, 30+;Cheese, firm, Maribo, 30 % fidm.;1288;NULL;A02SV#F07.A073D;13;Fast løbeost;Firm rennet cheese
+Yoghurt med pære og banan;Yoghurt with pear and banana;1289;NULL;A02NH#F04.A032H$F04.A01DP$F04.A01LC$F04.A02NG;5;Syrnede mælkeprodukter;Fermented milk products
+Yoghurt med kirsebær;Yoghurt with cherries;1290;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+A38, acidophilus tykmælk af sødmælk, 3,5% fedt;Milk, acidophilus cultured from whole milk, 3.5% fat;1291;NULL;A02NS#F02.A06AZ;5;Syrnede mælkeprodukter;Fermented milk products
+Birkes, frø;Poppy seeds;1292;Papaver somniferum;A015J#F02.A066P;177;Fedtrige frø;High-fat seeds
+Bygmel;Barley flour, raw;1294;Hordeum vulgare L.;A002L#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Pastiller, med sukker, uspec.;Pastilles, sugar added, unspecified;1295;NULL;A034X#F02.A06EJ$F04.A032G$F10.A077J;182;Slik;Candy
+Pasta, kogt;Pasta, boiled;1296;NULL;A04LB#F02.A06CV$F27.A001M$F28.A07GL;35;Pastaprodukter;Pasta
+Majsmel;Corn flour;1297;Zea mays L.;A002Q#F28.A0C03;30;Mel og klid;Flour and bran
+Mozzarella, 30+;Cheese, semihard, Mozzarella, 30 % fidm.;1299;NULL;A02QJ#F07.A073F;13;Fast løbeost;Firm rennet cheese
+Hvedemel;Wheat flour;1301;Triticum aestivum L.;A003X#F03.A07Y2$F28.A0C03;30;Mel og klid;Flour and bran
+Ål, røget;Eel, smoked;1302;Anguilla anguilla;A028K#F28.A0C0N;79;Fiskeprodukter;Fish products
+Flødeost, 70+;Cheese, Cream, 70 % fidm.;1304;NULL;A02QZ#F07.A074C;14;Blød løbeost;Soft rennet cheese
+Yoghurt med müsli;Yoghurt with müsli;1305;NULL;A02NH#F04.A00EJ$F04.A02NG;5;Syrnede mælkeprodukter;Fermented milk products
+A38, acidophilus tykmælk, med citronsaft (HISTORISK);Milk, acidophilus cultured, with lemon (HISTORIC);1307;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Hvedemel, bagerimel;Wheat flour, breadmaking (extraction rate 75%);1308;NULL;NULL;30;Mel og klid;Flour and bran
+Dressing, creme fraiche;Salad dressing, soured fresh cream;1309;NULL;A045K#F04.A02NC;98;Dressings;Dressings
+Grønne ærter, dybfrost;Peas, green, frozen;1310;Pisum sativum L.;A012J#F02.A066P$F28.A07KQ;172;Frosne bælgplanter;Frozen legumes
+Hvedegryn, mannagryn;Semolina;1311;Triticum aestivum L.;A004F#F03.A07Y3;28;Korn og gryn;Grain and groats
+Bagepulver;Baking powder;1312;NULL;A048Q;122;Gær og hævemiddel;Yeast and baking powder
+Brie, 50+;Cheese, Brie, 50 % fidm.;1313;NULL;A02RV#F07.A073R;14;Blød løbeost;Soft rennet cheese
+Grønne ærter, konserves;Peas, green, canned;1314;Pisum sativum L.;A012J#F28.A0BYM;174;Konserves af bælgplanter;Canned legumes
+Lammekød, slag, råt;Lamb, flank, raw;1315;Ovis aries;A01RK#F02.A069H$F07.A074A;61;Fåre- og lammekød;Sheep and lamb
+Lammekød, bryst, råt;Lamb, breast, raw;1316;Ovis aries;A01RK#F02.A07XS$F07.A074A;61;Fåre- og lammekød;Sheep and lamb
+Bønnespirer, soja, rå;Beansprouts, soy, raw;1317;Glycine max. (L.) Merr.;A00SY;171;Friske bælgplanter;Fresh legumes
+Samsø, 30+;Cheese, firm, Samsoe, 30 % fidm.;1318;NULL;A02SV#F07.A073E;13;Fast løbeost;Firm rennet cheese
+Gedemælk;Goat milk;1320;NULL;A02MB;4;Usyrnede mælkeprodukter;Unfermented milk products
+Tidselolie;Thistle oil;1323;NULL;A037S;94;Vegetabilske fedtstoffer;Vegetable fats
+Majskimolie;Oil, corn germ;1333;NULL;NULL;94;Vegetabilske fedtstoffer;Vegetable fats
+Theboller o.l. (bløddejsboller);Rolls, sweet dough type;1334;NULL;NULL;31;Brød;Bread
+Hvedekimolie;Wheat germ oil;1335;Triticum aestivum;NULL;94;Vegetabilske fedtstoffer;Vegetable fats
+Bomuldsfrøolie;Oil, cotton seed;1345;NULL;A036Z;94;Vegetabilske fedtstoffer;Vegetable fats
+Sorbitol;Sorbitol;1351;NULL;A033A;101;Andre sukkervarer;Other sweet products
+Palmeolie;Oil, palm;1355;NULL;A037N;94;Vegetabilske fedtstoffer;Vegetable fats
+Kakaosmør;Oil, cocoa butter;1364;NULL;A037R;94;Vegetabilske fedtstoffer;Vegetable fats
+Sennep, pulver;Mustard powder;1369;NULL;NULL;181;Sennep, ketchup, pesto o.l.;Condiments
+Palmekerneolie;Palm kernel oil;1377;Elaeis guineensis;A037P;94;Vegetabilske fedtstoffer;Vegetable fats
+Jordnøddeolie;Peanut oil;1380;Arachis hypogaea;A037A;94;Vegetabilske fedtstoffer;Vegetable fats
+Solsikkeolie;Sunflower oil;1382;NULL;A037D;94;Vegetabilske fedtstoffer;Vegetable fats
+Valnøddeolie;Walnut oil;1384;Juglans regia;A037K;94;Vegetabilske fedtstoffer;Vegetable fats
+Grønkål, dansk, rå;Kale, Danish, raw;1391;Brassica oleracea (L.) convar. acephala;NULL;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Torsk, levertran;Cod liver oil;1396;NULL;A038Q;93;Animalske fedtstoffer;Animal fats
+Melboller, dybfrost;Dumplings, frozen;1406;NULL;NULL;180;Supper og suppeprodukter;Soup and soup products
+Sesamolie;Oil, sesame;1412;NULL;A037C;94;Vegetabilske fedtstoffer;Vegetable fats
+Sukker, brunt rørsukker;Sugar, brown cane sugar;1414;NULL;A032L#F02.A06EC;102;Sukker;Sugar
+Majsolie;Corn oil;1415;NULL;A036Y;94;Vegetabilske fedtstoffer;Vegetable fats
+Hørfrøolie;Linseed oil;1418;Linum usitatissimum;A037G;94;Vegetabilske fedtstoffer;Vegetable fats
+Rugbrød, soft, uden fedtrige frø, uden kerner, industrifremstillet;Rye bread, soft, no high fat seeds, industrially produced;1420;NULL;NULL;31;Brød;Bread
+Hvedebrød, italiensk type, stort, detailbageri;Wheat bread, italien type, retail bakery;1427;NULL;NULL;31;Brød;Bread
+Vindruekerneolie;Oil, grapeseed;1429;Vitis vinifera;A037F;94;Vegetabilske fedtstoffer;Vegetable fats
+Kokosolie;Oil, coconut;1440;NULL;A037M;94;Vegetabilske fedtstoffer;Vegetable fats
+Levertran (Sej);Haddock, liver oil;1454;Pollachius virens;A04PL#F27.A02CA;93;Animalske fedtstoffer;Animal fats
+Oksetalg;Fat, beef tallow;1455;Bos taurus;NULL;93;Animalske fedtstoffer;Animal fats
+Sojaolie;Soyabean oil, refined;1461;NULL;A036X;94;Vegetabilske fedtstoffer;Vegetable fats
+Fiskefilet, paneret, friturestegt, fastfood;Fish fillet, breaded, deepfried, fast food;1465;NULL;NULL;79;Fiskeprodukter;Fish products
+Olivenolie;Olive oil;1467;Olea europaea;A036P;94;Vegetabilske fedtstoffer;Vegetable fats
+Rapsolie;Oil, rape seed (no eruca acid);1483;NULL;A036V;94;Vegetabilske fedtstoffer;Vegetable fats
+Selleri, knold, dansk, rå;Celeriac, celery root, Danish, raw;1485;Apium graveolens L.;NULL;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Rucola, rå;Rucola, rå;1492;NULL;NULL;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Græskarkerner, tørret;Pumpkin seed, dried;1507;NULL;NULL;177;Fedtrige frø;High-fat seeds
+Hvedemel, durum;Durum wheat flour;1512;NULL;NULL;30;Mel og klid;Flour and bran
+Hvedebrød, fint, store, industrifremstillet;Wheat bread, white, industrially produced;1521;NULL;NULL;31;Brød;Bread
+Hvedebrød, fint, store, detailbageri;Bread, white, large, retail bakery;1522;NULL;NULL;31;Brød;Bread
+Hvedebrød, groft, store, industrifremstillet;Wheat bread, with coarse meal, industrially produced;1523;NULL;NULL;31;Brød;Bread
+Hvedebrød, groft, store, detailbageri;Wheat bread, large, with coarse meal, retail bakery;1524;NULL;NULL;31;Brød;Bread
+Tigerreje, opdræt, rå, dybfrost;Tiger prawn, aquaculture, raw, frozen;1548;Penaeus monodon;NULL;76;Skaldyr og produkter heraf;Shellfish and their products
+Reje, sort tiger-, opdræt, kogt, dybfrost;Prawn, giant tiger, aquaculture, boiled, frozen;1549;Penaeus monodon;NULL;76;Skaldyr og produkter heraf;Shellfish and their products
+Laks, atlantisk, opdræt, koldrøget;Salmon, Atlantic, aquaculture, cold smoked;1552;Salmo salar;NULL;79;Fiskeprodukter;Fish products
+Laks, atlantisk, opdræt, varmrøget;Salmon, atlantic, aquaculture, hot smoked;1553;Salmo salar;NULL;79;Fiskeprodukter;Fish products
+Hvid hvede, melmix;White Wheat, whole grain flour, ready-to-bake;1570;NULL;NULL;30;Mel og klid;Flour and bran
+Småkage, hvede, traditionelle danske, industrifremstillet;Butter cookie, wheat, Danish, industrially produced;1573;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, cookie (amerikansk type), industrifremstillet;American inspired cookie;1574;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, havreflager, industrifremstillet;Cookies, oat flakes, industrially produced;1575;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, brunkage, industrifremstillet;Butter cookie, brown, (Danish), industrially produced;1576;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, pebernød, industrifremstillet;Biscuit, sweet, pepper nuts, Danish tradition, industrially produced;1577;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, klejne, industrifremstillet;Cookies, Klenät, industrially produced;1578;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, med lavt sukkerindhold (sukkerfri, light) industrifremstillet;Cookies, low sugar content, industrially produced;1579;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Småkage, kokoskager, industrifremstillet;Cookies, coconut, industrially produced;1580;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kage, trøffelprodukt / koldprodukt, industrifremstillet;Cookie, truffle product / unbaked, industrially produced;1581;NULL;NULL;33;Kager;Cakes
+Kransekage, industrifremstillet;Wreath cake, almond based, Danish tradition;1582;NULL;NULL;33;Kager;Cakes
+Babymajs, rå;Sweetcorn, baby, on-the-cob, raw;1584;Zea mays L.;NULL;28;Korn og gryn;Grain and groats
+Pomelo, rå;"Pomelo (pommelo; shaddock), raw";1585;"Citrus grandis; Citrus maxima";NULL;52;Sydfrugt;Tropical or subtropical fruit
+Kiks, rug;Biscuit, rye;1586;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kiks, hvede, sød, med tyk chokolade;Biscuit, wheat, sweet with thick chocolate;1587;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kiks, dobbelte, hvede, søde;Biscuit, double, wheat, sweet;1588;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kiks, havre, søde;Biscuit, oat, sweet;1589;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kiks, havre, søde, med chokolade;Biscuit, oat, sweet with chokolate;1590;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Müslibar;Granola bar;1591;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Vaffelrør;Wafer sticks;1592;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Kiks, grov med frugt eller grønt;Biscuit, coarse grain with fruit and vegetables;1595;NULL;NULL;32;Kiks og småkager;Biscuits and cookies
+Skummetmælk, 0.1 % fedt;Milk, skimmed, 0.1 % fat;1596;NULL;NULL;4;Usyrnede mælkeprodukter;Unfermented milk products
+Yoghurt naturel, 1.5 % fedt;Yogurt plain, low fat, 1.5 % fat;1597;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Yoghurt naturel, 0.1 % fedt;Yogurt low fat, 0.1 % fat;1598;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Hvid hvede brød, groft, store, detailbageri;Bread, wheat, white wheat, wholw grain, retail bakery;1607;NULL;NULL;31;Brød;Bread
+Hvid hvede bolle, grov, industrifremstillet;Rolls, White Wheat, whole grain, industrially produced;1608;NULL;NULL;31;Brød;Bread
+Hvid hvede brød, groft, store, industrifremstillet;Bread, wheat, white wheat, wholw grain, industrially produced;1609;NULL;NULL;31;Brød;Bread
+Sild, Østersø, uspecificeret, rå;Herring, Baltic Sea, unspecified, raw;1610;Clupea harengus;NULL;73;Fed fisk;Oily fish
+Oksekød, hakket, 5-10% fedt, rå;Beef, mince, 5-10% fat, raw;1611;Bos taurus;NULL;58;Oksekød;Beef
+Grisekød, hakket, 10-15% fedt, råt;Pork, mince, 10-15% fat, raw;1612;Sus scrofa;NULL;60;Svinekød (Gris);Pork
+Kalkunkød, hakket, 5-10% fedt, råt;Turkey, mince, 5-10% fat, raw;1613;Meleagris gallopavo;NULL;82;Kalkun;Turkey
+Burger med lille bøf, salat og dressing, fastfood;Hamburger, small patty, salad and dressing, fast food;1615;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med medium bøf, salat og dressing, fastfood;Hamburger, medium patty, salad and dressing, fast food;1616;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med stor bøf, salat og dressing, fastfood;Hamburger, large patty, salad and dressing, fast food;1617;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med bøf og bacon, salat og dressing, fastfood;Hamburger and bacon, salad and dressing, fast food;1618;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med bøf og ost, salat og dressing, fastfood;Cheeseburger, salad and dressing, fast food;1619;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med bøf, bacon og ost, salat og dressing, fastfood;Hamburger, bacon and cheese, salad and dressing, fast food;1620;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Burger med kylling, salat og dressing, fastfood;Hamburger, chicken, salad and dressing, fast food;1621;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med kylling, salat og dressing, fastfood;Sandwich with chicken, salad and dressing, fast food;1622;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med kylling og bacon, salat og dressing, fastfood;Sandwich with chicken and bacon, salad and dressing, fast food;1623;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med skinke og ost, salat og dressing, fastfood;Sandwich, ham and cheese, salad and dressing, fast food;1624;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med æg / rejer, salat og dressing, fastfood;Sandwich with eggs / shrimp, salad and dressing, fast food;1625;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med fisk, salat og dressing, fastfood;Sandwich with seafood, salad and dressing, fast food;1626;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med kebab, salat og dressing, fastfood;Sandwich with kebab, salad and dressing, fast food;1627;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med ribbenssteg, rødkål og agurk, fastfood;Sandwich with roast pork, red cabbage and cucumber pickles, fast food;1628;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Trekantsandwich med kylling og bacon, salat og dressing, fastfood;Triangle sandwich with chicken and bacon, salad and dressing, fast food;1629;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Trekantsandwich med skinke og ost, salat og dressing, fastfood;Triangle sandwich with ham and cheese, salad and dressing, fast food;1630;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Trekantsandwich med æg, salat og dressing, fastfood;Triangle sandwich with eggs, salad and dressing, fast food;1631;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Sandwich med frikadelle, salat og dressing, fastfood;Sandwich with meatball, salad and dressing, fast food;1632;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pitasandwich med kebab, salat og dressing, fastfood;Pita sandwich with kebab, salad and dressing, fast food;1633;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pitasandwich med kylling, salat og dressing, fastfood;Pita sandwich with chicken, salad and dressing, fast food;1634;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pitasandwich med rejer, salat og dressing, fastfood;Pita sandwich with shrimp, salad and dressing, fast food;1635;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pitasandwich med falafel, salat og dressing, fastfood;Pita sandwich with falafel, salad and dressing, fast food;1636;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pitasandwich med salat og dressing, fastfood;Pita sandwich with salad and dressing, fast food;1637;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Dürumrulle med kebab, salat og dressing, fastfood;Dürüm roll with kebab, salad and dressing, fast food;1638;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pølse med bacon, ristet, fastfood;Bacon-Wrapped Frankfurt sausage, freid, fast food;1639;NULL;NULL;127;Andre sammensatte fødevarer;Other composite foods
+Fransk hot dog, fastfood;French Hotdog, fast food;1640;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Hot dog, almindelig, fastfood;Hotdog, fast food;1641;NULL;NULL;131;Sandwich, burger, hotdog, pita o.l.;Sandwich, burger, hotdog etc.
+Pølsemix med pommes frites, fastfood;Frankfurt sausage mix, fried, with frensh fries, fast food;1642;NULL;NULL;127;Andre sammensatte fødevarer;Other composite foods
+Kebabmix med pommes frites, friturestegt, fastfood;Kebab mix and french fries, deepfried, fast food;1643;NULL;NULL;127;Andre sammensatte fødevarer;Other composite foods
+Kylling, grillstegt, fastfood;Chicken, grilled, fast food;1644;NULL;NULL;127;Andre sammensatte fødevarer;Other composite foods
+Kyllingenuggets, friturestegt, fastfood;Chicken nuggets, deepfried, fast food;1645;NULL;NULL;127;Andre sammensatte fødevarer;Other composite foods
+Pizza med tomat og ost, fastfood;Pizza with tomato and cheese, fast food;1646;NULL;NULL;179;Pizza;Pizza
+Pizza med fisk, tomat og ost, fastfood;Pizza with seafood, tomato and cheese, fast food;1647;NULL;NULL;179;Pizza;Pizza
+Pizza med salami, tomat og ost, fastfood;Pizza with salami, tomato and cheese, fast food;1648;NULL;NULL;179;Pizza;Pizza
+Pizza med grønt og frugt, tomat og ost, fastfood;Pizza with vegetables, fruit, tomato and cheese, fast food;1649;NULL;NULL;179;Pizza;Pizza
+Pizza med kød, tomat og ost, fastfood;Pizza with meat, tomato and cheese, fast food;1650;NULL;NULL;179;Pizza;Pizza
+Pizza med kød og fisk, tomat og ost, fastfood;Pizza with meat and seafood, tomato and cheese, fast food;1651;NULL;NULL;179;Pizza;Pizza
+Fiskefilet, paneret, stegt, delikatesse;Fish fillet, breaded, fried, delicatessens;1652;NULL;NULL;79;Fiskeprodukter;Fish products
+Tun, gulfinnet, rå;Tuna, yellowfin, raw;1653;Thunnus albacares;NULL;70;Mager fisk;Lean fish
+Reje, dybvands, kogt, i lage;Shrimp, boiled, in brine;1654;Pandalus borealis;NULL;76;Skaldyr og produkter heraf;Shellfish and their products
+Laks, atlantisk, opdræt, gravad;Salmon, atlantic, aquaculture, gravad;1655;Salmo salar;NULL;79;Fiskeprodukter;Fish products
+Skrubbe, filet, paneret, rå, dybfrost;Flounder, fillet, breaded, raw, frozen;1656;Platichthys flesus;NULL;79;Fiskeprodukter;Fish products
+Fiskepinde, panerede, dybfrost;Fish fingers, breaded, frozen;1657;NULL;NULL;79;Fiskeprodukter;Fish products
+Laks, atlantisk, opdræt, rå;Salmon, atlantic, aquaculture, raw;1658;Salmo salar;NULL;73;Fed fisk;Oily fish
+Laks, Stillehavs-, vild, rå;Salmon, pacific, wild, raw;1659;Oncorhynchus spp.;NULL;73;Fed fisk;Oily fish
+Hajmalle, rå, dybfrost;Striped catfish, raw, frozen;1660;Pangasianodon hypophthalmus;NULL;70;Mager fisk;Lean fish
+Blåmusling, kogt;Blue mussel, boiled;1661;Mytilus edulis;NULL;77;Bløddyr og produkter heraf;Mollusks and their products
+Æg, høne, burhøns, rå;Eggs, chicken, battery hens, raw;1662;Gallus domesticus;NULL;87;Friske æg;Fresh eggs
+Æg, høne, frilands høns, rå;Eggs, chicken, free-range (outdoor) hens, raw;1663;Gallus domesticus;NULL;87;Friske æg;Fresh eggs
+Æg, høne, skrabehøns, rå;Eggs, chicken, free-range hens (indoor), raw;1664;Gallus domesticus;NULL;87;Friske æg;Fresh eggs
+Æg, høne, økologisk drift, rå;Eggs, chicken, organic farming, raw;1665;Gallus domesticus;NULL;87;Friske æg;Fresh eggs
+Æg, høne, kogt, dybfrost;Eggs, chicken, boiled, frozen;1666;Gallus domesticus;NULL;90;Ægprodukter;Egg products
+Æg, høne, blomme, pasteuriseret;Eggs, chicken, yolk, pasteurized;1667;Gallus domesticus;NULL;88;Flydende æg;Liquid egg
+Æg, høne, røræg, industrifremstillet;Eggs, chicken, scrambled, industrially produced;1668;NULL;NULL;90;Ægprodukter;Egg products
+Æg, høne, røræg mix, industrifremstillet;Eggs, chicken, scrambled eggs mix, industrially produced;1669;NULL;NULL;90;Ægprodukter;Egg products
+Rugbrød, mørkt, industrifremstillet;Rye bread, dark, industrially produced;1670;NULL;NULL;31;Brød;Bread
+Rugbrød, fuldkorn, industrifremstillet;Rye bread, dark, whole grains, industrially produced;1671;NULL;NULL;31;Brød;Bread
+Hvedebrød, groft, med fedtrige frø, stort, detailbageri;Wheat bread, with coarse meal and high fat seeds, retail bakery;1672;NULL;NULL;31;Brød;Bread
+Rugbrød, kun groft rugmel, detailbageri;Rye bread, dark, retail bakery;1673;NULL;NULL;31;Brød;Bread
+Rugbrød, kun groft rugmel, med hele kerner, detailbageri;Rye bread, dark, whole grains, retail bakery;1674;NULL;NULL;31;Brød;Bread
+Rugbrød, kun groft rugmel, med fedtrige frø, detailbageri;Rye bread, dark, with high fat seeds, retail bakery;1675;NULL;NULL;31;Brød;Bread
+Rugbrød, med sigtet mel (soft) og fedtrige frø, detailbageri;Rye bread, with siftings (soft) and high fat seeds, retail bakery;1676;NULL;NULL;31;Brød;Bread
+Yoghurt, med frugt, 0.1 % fedt, uden tilsat sukker;Yogurt, with fruit, 0.1 % fat, no sugar added;1677;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Hytteost, 5+;Cheese, cottage, 5 % fidm.;1679;NULL;NULL;12;Blød surmælksost;Soft sour milk cheese
+Lactose, pulver;Lactose, dry, powder;1680;NULL;NULL;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Yoghurt med frugt, 0.4 % fedt;Yogurt, with fruit, 0.4 % fat;1681;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Koldskål;Buttermilk dessert;1682;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Milkshake;Milkshake;1683;NULL;NULL;4;Usyrnede mælkeprodukter;Unfermented milk products
+Smørbart blandingsprodukt, 75% fedt;Blended spread, 75% fat;1684;NULL;NULL;96;Smør;Butter
+Smørbart blandingsprodukt, let, 57% fedt;Blended spread, reduced fat, 57% fat;1685;NULL;NULL;96;Smør;Butter
+Grisekød, skinkeklump, helt afpudset, rå;Pork, thick flank, completely trimmed, raw;1686;Sus scrofa;NULL;60;Svinekød (Gris);Pork
+Grisekød, bryst med svær, rå;Pork, thin belly with rind, raw;1687;Sus scrofa;NULL;60;Svinekød (Gris);Pork
+Grisekød, filet, 0-1 mm fedtkant, rå;Pork, loin, 0-1 mm fat, raw;1688;Sus scrofa;NULL;60;Svinekød (Gris);Pork
+Grisekød, kæbe, afpudset, rå;Pork, jaw, trimmed, raw;1689;Sus scrofa;NULL;60;Svinekød (Gris);Pork
+Havredrik, ikke beriget;Oatmilk, unfortified;1690;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Risdrik, ikke beriget;Ricemilk, unfortified;1691;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Mandeldrik, ikke beriget;Almondmilk, unfortified;1692;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Skyr, 0.2 % fedt;Skyr, 0.2 % fat;1693;NULL;NULL;5;Syrnede mælkeprodukter;Fermented milk products
+Flødeskumskage, chokoladebolle;Cream pastry, chocolate bun;1695;NULL;NULL;33;Kager;Cakes
+Kommen, rå;Caraway seed, raw;1697;Carum carvi;NULL;120;Krydderier;Spices
+Spidskommen, rå;Cumin seeds, raw;1698;Cuminum cyminum;NULL;120;Krydderier;Spices
+Tahin, lys;Tahini;1699;NULL;NULL;189;Produkter af fedtrige frø;High-fat seeds products
+Risdrik, tilsat calcium;Ricemilk, with added calcium;1700;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Havredrik, tilsat calcium;Oatmilk, with added calcium;1701;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Sojadrik, tilsat calcium;Soymilk, with added calcium;1702;NULL;NULL;168;Plantebaserede drikkevarer;Plant-based beverages
+Hvedebrød, bolle, italiensk type, detailbageri;Rolls, italien type, retail bakery;1703;NULL;NULL;31;Brød;Bread
+Hvedebrød, pitabrød, fint;Wheat bread, pita, white;1704;NULL;NULL;31;Brød;Bread
+Hvedebrød, pitabrød, groft;Wheat bread, pita, with coarse meal;1705;NULL;NULL;31;Brød;Bread
+Morgenmadsprodukt, med klid;Breakfast cereal, with bran;1707;NULL;NULL;34;Morgenprodukter;Breakfast products
+Havtorn, rå;Sea Buckthorn;1708;Hippophaë rhamnoides;NULL;51;Bærfrugt;Soft fruit
+Peberfrugt, gul, rå;Pepper, sweet, yellow, raw;1721;Capsicum annuum;NULL;41;Frugt-grøntsager;Fruit -Vegetables
+Speltmel, sigtet;Spelt wheat flour, bolted;1722;Triticum spelta ;A004H;30;Mel og klid;Flour and bran
+Speltmel, fuldkorn;Spelt wheat flour, whole;1723;Triticum spelta;A004L;30;Mel og klid;Flour and bran
+Quinoa, hvid, rå;Quinoa, white, raw;1724;Chenopodium quinoa;A000R;28;Korn og gryn;Grain and groats
+Quinoa, rød, rå;Quinoa, red, raw;1725;Chenopodium quinoa;NULL;28;Korn og gryn;Grain and groats
+Quinoa, sort, rå;Quinoa, black, raw;1726;Chenopodium quinoa;NULL;28;Korn og gryn;Grain and groats
+Rugmel, uspec.;Rye flour, unspecified;1727;Secale cereale L.;A003J;30;Mel og klid;Flour and bran
+Chiafrø;Chia seeds;1728;Salvia hispanica;A16FZ;177;Fedtrige frø;High-fat seeds
+Perlespelt ;Pearled spelt;1729;Triticum spelta;A001R;28;Korn og gryn;Grain and groats
+Perlebyg;Pearled barley;1730;Hordeum vulgare;A002K;28;Korn og gryn;Grain and groats
+Flydende olie margarine;Oil margarine;1731;;;95;Margariner;Margarines
+Flydende olie margarine, beriget med A- og D-vitamin;Oil margarine, fortified with A- and D-vitamin;1732;;;95;Margariner;Margarines
+Plantemargarine, 80%, stege/bage, beriget med A-vitamin;Plant margarine, 80%, fry/bake, fortified with A-vitamin;1734;;;95;Margariner;Margarines
+Plantemargarine, 75%, stege/bage, beriget med A-vitamin;Plant margarine, 75%, fry/bake, fortified with A-vitamin;1735;;;95;Margariner;Margarines
+Plantemargarine, 60%, beriget med A-vitamin;Plant margarine, 60%, fortified with A-vitamin;1736;;;95;Margariner;Margarines
+Minarine, 40%, beriget med A- og D-vitamin;Margerine, 40%, fortified with A- and D-vitamin;1737;;;95;Margariner;Margarines
+Oksekød, hakket, 8-12% fedt, rå;Beef, mince, 8-12% fat, raw;1739;Bos taurus;;58;Oksekød;Beef
+Kyllingekød, hakket, 3-10% fedt, rå;Chicken, mince, 3-10% fat, raw;1740;Gallus domesticus;;81;Høns og kylling;Chicken
+Babyspinat, rå;Baby spinach, raw;1741;Spinacia oleracea L.;;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Salat, hjerte, rå;Salad, little gem, raw;1743;Lactuca sativa var. romana;;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Græskar, hokkaido, dansk, rå;Squash, red kuri, Danish, raw;1744;;;41;Frugt-grøntsager;Fruit -Vegetables
+Græskar, butternut squash, rå;Butternut squash, raw;1745;Cucurbita moschata;;41;Frugt-grøntsager;Fruit -Vegetables
+Energi drik, Red Bull;Energy drink, Red Bull;1746;;;106;Andre drikkevarer;Other beverages
+Valle protein pulver;Whey protein powder;1747;;;8;Mælkekonserves og andre mælkeprodukter;Preserved milk and other milk products
+Riskiks/riskage, poppede brune ris;Rice cake/cracker, puffed brown rice, plain;1748;Oryza sativa L.;;32;Kiks og småkager;Biscuits and cookies
+Spinat, helbladet, dybfrost;Spinach, whole leaf, frozen;1749;Spinacia oleracea L.;;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Rødkål, dansk, rå;Cabbage, red, Danish, raw;1750;Brassica oleracea L. convar. capitata (L.);;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Spidskål, dansk, rå;Cabbage, pointed, Danish, raw;1751;Brassica oleracea L. convar. capitata (L.) var. conica;;40;Blad- og stængelgrøntsager;Leaf and stem vegetables
+Pastinak, dansk, rå;Parsnip, Danish, raw;1752;Pastinaca sativa L.;;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Kalvekød, inderlår, afpudset, rå;Veal, topside, trimmed, raw;1754;Bos taurus;;59;Kalvekød;Veal
+Kalvekød, tykstegsfilet, rå;Veal, heart of rump, trimmed, raw;1755;Bos taurus;;59;Kalvekød;Veal
+Kalvekød, tyndstegsfilet, rå;Veal, shortloin, raw;1756;Bos taurus;;59;Kalvekød;Veal
+Gulerødder, importeret, uden skræl, rå;Carrots, imported, without peel, raw;1760;Daucus carota L.;;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Gulerødder, dansk, uden skræl, rå; Carrots, Danish, without peel, raw;1761;Daucus carota L.;;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Pastinak, importeret, rå;Parsnips, imported, raw;1762;Pastinaca sativa L.;;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Selleri, knold, importeret, rå;Celery, root, imported, raw;1763;Apium graveolens L.;;39;Rod- og knoldgrøntsager;Root and tuber vegetables
+Flødeyoghurt naturel, 10% fedt (Græsk og Tyrkisk stil);Cream yoghurt, plain, 10% fat (Greek and Turkey style);1764;;;5;Syrnede mælkeprodukter;Fermented milk products
+Flødeyoghurt naturel, 2% fedt (Græsk og Tyrkisk stil);Cream yoghurt, plain, 2% fat (Greek and Turkey style);1765;;;5;Syrnede mælkeprodukter;Fermented milk products
+A38, acidophilus tykmælk af letmælk, 1,5% fedt;Milk, acidophilus cultured from partly skimmed milk, 1.5% fat;1766;;;5;Syrnede mælkeprodukter;Fermented milk products
+A38, acidophilus tykmælk af minimælk, 0,5% fedt;Milk, acidophilus cultured from skimmed milk, 0.5% fat;1767;;;5;Syrnede mælkeprodukter;Fermented milk products
+Pizza topping (Revet ost, Mozzarella);Pizza topping (Grated cheese, Mozzarella);1768;;;13;Fast løbeost;Firm rennet cheese
+Skinkeost 30+ (Smelteost med skinke);Skinkeost 30+ (Processed cheese with ham);1769;;;17;Smelteost;Processed cheese
+Rejeost, let, 8% fedt, (Smelteost med rejer);Rejeost, light, 8% fat, (Processed cheese with shrimp);1770;;;17;Smelteost;Processed cheese
+Feta, 5% (Salat-tern);Feta, 5% (Salad cheese);1771;;;15;Halvfast løbeost;Semi-firm rennet cheese
+Flødeost, 30-40+;Cheese, Cream, 30-40 % fidm.;1772;;;14;Blød løbeost;Soft rennet cheese
+Flødeost, 45-55+;Cheese, Cream, 45-55 % fidm.;1773;;;14;Blød løbeost;Soft rennet cheese
+Brie, 11%;Cheese, Brie, 11%;1774;;;14;Blød løbeost;Soft rennet cheese
+Gedeost, blød, 45-55+;Goat cheese, soft, 45-55% fidm.;1775;;;14;Blød løbeost;Soft rennet cheese
+Gedeost, i saltlage, 20-25%;Goat cheese, in brine, 20-25%;1776;;;15;Halvfast løbeost;Semi-firm rennet cheese
+Gedeost, fast, 45+;Goat cheese, hard, 45% fidm.;1777;;;13;Fast løbeost;Firm rennet cheese
+Skæreost, 6%/10+;Cheese, firm, 6%/10% fidm.;1778;;;13;Fast løbeost;Firm rennet cheese
+Ost, fast, 45+, Dansk;Cheese, firm, 45% fidm., Danish;1779;;;13;Fast løbeost;Firm rennet cheese
+Ost, fast, 50+, Dansk;Cheese, firm, 50% fidm., Danish;1780;;;13;Fast løbeost;Firm rennet cheese
+Kalvekød, bryst, rå;Veal, brisket, raw;1781;;;59;Kalvekød;Veal
+Oksekød, bryst, rå;Beef, brisket, boneless, raw;1782;;;58;Oksekød;Beef
+Pålæg i skiver, med hvedeprotein;Cold cuts, with wheat protein;1783;;;169;Plantebaserede produkter;Plant-based products
+Seitan;Seitan;1784;;;169;Plantebaserede produkter;Plant-based products
+Hakket, med mycoprotein;Mince, with mycoprotein;1785;;;169;Plantebaserede produkter;Plant-based products
+Hakket, med sojaprotein;Mince, with soy protein;1786;;;169;Plantebaserede produkter;Plant-based products
+Hakket bolle, med sojaprotein;Mince balls, with soy protein;1787;;;169;Plantebaserede produkter;Plant-based products
+Stykker, med sojaprotein;Pieces, with soy protein;1788;;;169;Plantebaserede produkter;Plant-based products
+Pålæg i skiver, med soja- og ærteprotein;Cold cuts, with soy and pea protein;1789;;;169;Plantebaserede produkter;Plant-based products
+Hakket, med ærteprotein;Mince, with pea protein;1790;;;169;Plantebaserede produkter;Plant-based products
+Pølse, med ærteprotein;Sausage, with pea protein;1791;;;169;Plantebaserede produkter;Plant-based products
+Pålæg i skiver, med æggehvide;Cold cuts, with eggwhite;1792;;;169;Plantebaserede produkter;Plant-based products
+Stykker, med mycoprotein;Pieces, with mycoprotein ;1793;;;169;Plantebaserede produkter;Plant-based products
+Pølse, med sojaprotein;Sausage, with soy protein ;1794;;;169;Plantebaserede produkter;Plant-based products
+Oksekød, filet, marmoreret, rå;Beef, entrecote/rib eye, raw;1795;Bos taurus;;58;Oksekød;Beef

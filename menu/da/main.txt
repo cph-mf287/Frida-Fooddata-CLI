@@ -1,0 +1,4 @@
+[1] Sprog
+[2] Fødevarer
+[3] Fødevaregrupper
+[q] Afslut

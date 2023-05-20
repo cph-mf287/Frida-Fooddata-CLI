@@ -1,0 +1,4 @@
+[1] Language
+[2] Food entries
+[3] Food groups
+[q] Quit
