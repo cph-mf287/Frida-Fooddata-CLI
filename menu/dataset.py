@@ -13,7 +13,7 @@ def dataset_menu(options, choice, lang):
 
             name = input(f'{options[choice]}: ')
 
-            foods = pd.read_csv(r'./Frida20220615/Frida_Dataset_June2022.csv', delimiter=';')#.sort_values(['FoodID']).reset_index()#.set_index('FoodID')
+            foods = pd.read_csv(r'./Frida20220615/Data_Table.csv', delimiter=';')#.sort_values(['FoodID']).reset_index()#.set_index('FoodID')
             groups = foods[['FoodGroupID','FoodGroup','FødevareGruppe']].drop_duplicates(keep='first')#.sort_values(['FoodGroupID']).reset_index()#.set_index('FoodGroupID')
 
             match lang:
