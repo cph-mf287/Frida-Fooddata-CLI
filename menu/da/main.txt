@@ -1,4 +1,4 @@
 [1] Sprog
 [2] Fødevarer
-[3] Fødevaregrupper
+[3] Datakategorier
 [q] Afslut

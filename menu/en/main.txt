@@ -1,4 +1,4 @@
 [1] Language
 [2] Food entries
-[3] Food groups
+[3] Data categories
 [q] Quit

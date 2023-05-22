@@ -2,7 +2,7 @@ from simple_term_menu import TerminalMenu
 
 def prompt_save(results, lang):
 
-    if len(results.index):
+    if results is not None and len(results.index):
 
         match lang:
 

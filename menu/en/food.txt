@@ -1,2 +1,4 @@
-Search food by name
-Search food by group
+[1] Search food by name
+[2] Search food by group
+[3] Search food by nutritional value
+[<] Back

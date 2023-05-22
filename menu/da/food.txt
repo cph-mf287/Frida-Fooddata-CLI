@@ -1,2 +1,4 @@
-Søg fødevarer efter navn
-Søg fødevarer efter gruppe
+[1] Søg fødevarer efter navn
+[2] Søg fødevarer efter gruppe
+[3] Søg fødevarer efter ernæringsværdi
+[<] Tilbage

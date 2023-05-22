@@ -1,2 +1,4 @@
-All groups
-Search groups by name
+[1] Search food groups by name
+[2] Search parameter groups by name
+[3] Search parameters by group name
+[<] Back

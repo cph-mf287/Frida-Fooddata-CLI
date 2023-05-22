@@ -1,0 +1,207 @@
+﻿ParameterNavn;ParameterName;Unit;SortKey;ParameterID;EuroFIR_Code;EFSA_PARAM_Code;ParameterGroupID;ParameterGruppeNavn;ParameterGroupName
+Energi (kJ);Energy (kJ);kJ/100g;1010;137;ENERC;ENERC;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Energi (kcal);Energy (kcal);kcal/100 g;1030;356;ENERC;ENERC;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Protein;Protein;g/100g;1110;218;PROT;PROT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Protein fra Aminosyrer;Protein from Amino Acids;g/100g;1120;421;PROT;PROT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Protein, deklaration;Protein, labeling;g/100g;1130;317;PROT;PROT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Kulhydrat difference;Carbohydrate by difference;g/100g;1210;170;CHOT;CHOT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Tilgængelig kulhydrat;Available carbohydrates;g/100g;1220;172;CHO;CHO;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Tilgængelig kulhydrat, deklaration;Available carbohydrate, labelling;g/100g;1230;318;CHO;CHO;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Kostfibre;Dietary fibre;g/100g;1240;168;FIBT;FIBT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Fedt;Fat;g/100g;1310;141;FAT;FAT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Alkohol;Alcohol;g/100g;1410;19;ALC;ALC;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Salt deklaration;Salt labelling;g/100g;1510;327;NACL;NACL;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Aske;Ash;g/100g;1520;33;ASH;ASH;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Tørstof;Dry matter;g/100g;1610;265;DRYMAT;DRYMAT;1;Makronæringstoffer m.m.;Macro nutrients etc.
+Vand;Water;g/100g;1620;268;WATER;WATER;1;Makronæringstoffer m.m.;Macro nutrients etc.
+A-vitamin;Vitamin A;RE (µg/100g);2010;12;VITA;VITA;3;Vitaminer;Vitamins
+Retinol;Retinol;µg/100g;2020;225;RETOLAT;RETOLAT;3;Vitaminer;Vitamins
+beta-Caroten;beta-Carotene;µg/100g;2030;303;CARTB;CARTB;3;Vitaminer;Vitamins
+D-vitamin;Vitamin D;µg/100g;2110;126;VITD;VITD;3;Vitaminer;Vitamins
+D3-vitamin;Vitamin D3;µg/100g;2120;128;CHOCAL;CHOCAL;3;Vitaminer;Vitamins
+D2-vitamin;Vitamin D2;µg/100g;2130;127;ERGCAL;ERGCAL;3;Vitaminer;Vitamins
+25-hydroxy D3-vitamin;25-hydroxy vitamin D3 ;µg/100g;2140;11;CHOCALOH;CHOCALOH;3;Vitaminer;Vitamins
+25-hydroxy D2-vitamin;25-hydroxy Vitamin D2;µg/100g;2150;354;ERGSTROH;ERGSTROH;3;Vitaminer;Vitamins
+E-vitamin;Vitamin E;alfa-TE;2210;135;VITE;VITE;3;Vitaminer;Vitamins
+alfa-Tokoferol;alpha-Tocopherol;mg/100g;2220;276;TOCPHA;TOCPHA;3;Vitaminer;Vitamins
+beta-Tokoferol;beta-Tocopherol;mg/100g;2222;279;TOCPHB;TOCPHB;3;Vitaminer;Vitamins
+gamma-Tokoferol;gamma-Tocopherol;mg/100g;2230;286;TOCPHG;TOCPHG;3;Vitaminer;Vitamins
+delta-Tokoferol;delta-Tocopherol;mg/100g;2240;282;TOCPHD;TOCPHD;3;Vitaminer;Vitamins
+alfa-Tokotrienol;alpha-Tocotrienol;mg/100g;2250;277;TOCTRA;TOCTRA;3;Vitaminer;Vitamins
+K1-vitamin;Vitamin K1;µg/100g;2310;164;VITK1;VITK1;3;Vitaminer;Vitamins
+Thiamin (B1-vitamin);Thiamin (Vitamin B1);mg/100g;2410;37;THIA;THIA;3;Vitaminer;Vitamins
+Thiamin;Thiamine;mg/100g;2420;36;THIA;THIA;3;Vitaminer;Vitamins
+2-(1-hydroxyethyl)thiamin;2-(1-hydroxyethyl)thiamine;mg/100g;2430;157;NULL;NULL;3;Vitaminer;Vitamins
+Riboflavin (B2-vitamin);Riboflavin (Vitamin B2);mg/100g;2510;39;RIBF;RIBF;3;Vitaminer;Vitamins
+Niacinækvivalent;Niacin equivalent;NE;2610;203;NIAEQ;NIAEQ;3;Vitaminer;Vitamins
+Niacin;Niacin;mg/100g;2620;294;NICOTAC;NICOTAC;3;Vitaminer;Vitamins
+B6-vitamin;Vitamin B6;mg/100g;2710;40;VITB6;VITB6;3;Vitaminer;Vitamins
+Pantothensyre;Pantothenic acid;mg/100g;2720;210;PANTAC;PANTAC;3;Vitaminer;Vitamins
+Biotin;Biotin;µg/100g;2730;42;BIOT;BIOT;3;Vitaminer;Vitamins
+Folat;Folate;µg/100g;2810;143;FOL;FOL;3;Vitaminer;Vitamins
+Frit folat;Folate, free;µg/100g;2820;145;FOLFRE;FOLFRE;3;Vitaminer;Vitamins
+B12-vitamin;Vitamin B12;µg/100g;2830;38;VITB12;VITB12;3;Vitaminer;Vitamins
+C-vitamin;Vitamin C;mg/100g;2910;47;VITC;VITC;3;Vitaminer;Vitamins
+Ascorbinsyre;Ascorbic acid;mg/100g;2920;175;ASCL;ASCL;3;Vitaminer;Vitamins
+Dehydroascorbinsyre;Dehydroascorbic acid;mg/100g;2930;177;ASCDL;ASCDL;3;Vitaminer;Vitamins
+Natrium;Sodium;mg/100g;3010;201;NA;NA;4;Mineraler og uorganisk;Minerals and inorganic
+Kalium;Potassium;mg/100g;3020;165;K;K;4;Mineraler og uorganisk;Minerals and inorganic
+Calcium;Calcium;mg/100g;3030;108;CA;CA;4;Mineraler og uorganisk;Minerals and inorganic
+Magnesium;Magnesium;mg/100g;3040;184;MG;MG;4;Mineraler og uorganisk;Minerals and inorganic
+Rubidium;Rubidium;µg/100g;3050;227;RB;RB;4;Mineraler og uorganisk;Minerals and inorganic
+Jern;Iron;mg/100g;3110;162;FE;FE;4;Mineraler og uorganisk;Minerals and inorganic
+Kobber;Copper;mg/100g;3120;166;CU;CU;4;Mineraler og uorganisk;Minerals and inorganic
+Zink;Zinc;mg/100g;3130;274;ZN;ZN;4;Mineraler og uorganisk;Minerals and inorganic
+Mangan;Manganese;mg/100g;3140;187;MN;MN;4;Mineraler og uorganisk;Minerals and inorganic
+Krom;Chromium;µg/100g;3150;117;CR;CR;4;Mineraler og uorganisk;Minerals and inorganic
+Molybdæn;Molybdenum;µg/100g;3160;190;MO;MO;4;Mineraler og uorganisk;Minerals and inorganic
+Cobolt;Cobalt;µg/100g;3170;120;CO;CO;4;Mineraler og uorganisk;Minerals and inorganic
+Selen;Selenium;µg/100g;3210;230;SE;SE;4;Mineraler og uorganisk;Minerals and inorganic
+Aluminium;Aluminum;mg/100g;3220;20;AL;AL;4;Mineraler og uorganisk;Minerals and inorganic
+Silicium;Silicon;mg/100g;3230;234;SI;SI;4;Mineraler og uorganisk;Minerals and inorganic
+Bor;Boron;µg/100g;3240;44;B;B;4;Mineraler og uorganisk;Minerals and inorganic
+Fosfor;Phosphorus;mg/100g;3310;214;P;P;4;Mineraler og uorganisk;Minerals and inorganic
+Fluor;Fluorine;µg/100g;3320;142;FD;FD;4;Mineraler og uorganisk;Minerals and inorganic
+Chlorid;Chloride;mg/100g;3330;114;CLD;CLD;4;Mineraler og uorganisk;Minerals and inorganic
+Brom;Bromine;µg/100g;3340;46;BRD;BRD;4;Mineraler og uorganisk;Minerals and inorganic
+Jod;Iodine;µg/100g;3350;163;ID;ID;4;Mineraler og uorganisk;Minerals and inorganic
+Svovl;Sulfur;mg/100g;3360;253;S;S;4;Mineraler og uorganisk;Minerals and inorganic
+Nikkel;Nickel;µg/100g;3410;204;NI;NI;4;Mineraler og uorganisk;Minerals and inorganic
+Kviksølv;Mercury;µg/100g;3420;174;HG;HG;4;Mineraler og uorganisk;Minerals and inorganic
+Arsen;Arsenic;µg/100g;3430;32;AS;AS;4;Mineraler og uorganisk;Minerals and inorganic
+Cadmium;Cadmium;µg/100g;3440;107;CD;CD;4;Mineraler og uorganisk;Minerals and inorganic
+Bly;Lead;µg/100g;3450;43;PB;PB;4;Mineraler og uorganisk;Minerals and inorganic
+Tin;Tin;µg/100g;3460;260;SN;SN;4;Mineraler og uorganisk;Minerals and inorganic
+Fruktose;Fructose;g/100g;4010;146;FRUS;FRUS;6;Sukkerstoffer;Sugars
+Galaktose;Galactose;g/100g;4020;148;GALS;GALS;6;Sukkerstoffer;Sugars
+Glukose;Glucose;g/100g;4030;149;GLUS;GLUS;6;Sukkerstoffer;Sugars
+Sum monosakkarider;Sum monosaccharides;g/100g;4040;191;MNSAC;MNSAC;6;Sukkerstoffer;Sugars
+Laktose;Lactose;g/100g;4110;179;LACS;LACS;6;Sukkerstoffer;Sugars
+Maltose;Maltose;g/100g;4120;185;MALS;MALS;6;Sukkerstoffer;Sugars
+Sakkarose;Sucrose;g/100g;4130;228;SUCS;SUCS;6;Sukkerstoffer;Sugars
+Sum disakkarider;Sum disaccharides;g/100g;4140;18;DISAC;DISAC;6;Sukkerstoffer;Sugars
+Maltotriose;Maltotriose;g/100g;4210;186;MALTRS;MALTRS;6;Sukkerstoffer;Sugars
+Raffinose;Raffinose;g/100g;4220;222;RAFS;RAFS;6;Sukkerstoffer;Sugars
+Sum sukkerarter;Sum sugars;g/100g;4410;245;SUGAR;SUGAR;6;Sukkerstoffer;Sugars
+Tilsat Sukker;Added Sugar;g/100g;4420;417;SUGAD;SUGAD;6;Sukkerstoffer;Sugars
+Frie sukkerarter;Free Sugars;g/100g;4430;418;SUGAR;SUGAR;6;Sukkerstoffer;Sugars
+Sorbitol;Sorbitol;g/100g;4510;237;SORTL;SORTL;6;Sukkerstoffer;Sugars
+Mannitol;Mannitol;g/100g;4520;188;MANTL;MANTL;6;Sukkerstoffer;Sugars
+Inositol;Inositol;mg/100g;4530;160;INOTL;INOTL;6;Sukkerstoffer;Sugars
+Maltitol;Maltitol;g/100g;4540;343;MALTL;MALTL;6;Sukkerstoffer;Sugars
+Sum sukkeralkoholer;Sum sugar alcohols;g/100g;4550;244;GRP_SUGOH;GRP_SUGOH;6;Sukkerstoffer;Sugars
+Stivelse;Starch;g/100g;5010;243;STARCH;STARCH;14;Kostfibre og stivelse;Dietary fibre and starch
+Cellulose;Cellulose;g/100g;5110;112;CELLU;CELLU;14;Kostfibre og stivelse;Dietary fibre and starch
+Lignin;Lignin;g/100g;5210;181;LIGN;LIGN;14;Kostfibre og stivelse;Dietary fibre and starch
+Uopløselige kostfibre;Insoluble dietary fibers;g/100g;5310;414;FIBINS;FIBINS;14;Kostfibre og stivelse;Dietary fibre and starch
+Høj molekylevægt opløselige kostfibre;High molecular weight soluble dietary fibre ;g/100g;5320;415;FIBHMWS;FIBHMWS;14;Kostfibre og stivelse;Dietary fibre and starch
+Lav molekylevægt opløselige kostfibre;Low molecular weight soluble dietary fibre ;g/100g;5330;416;FIBLMW;FIBLMW;14;Kostfibre og stivelse;Dietary fibre and starch
+Crude fibre;Crude fibre;g/100g;5410;123;FIBC;FIBC;14;Kostfibre og stivelse;Dietary fibre and starch
+Neutral detergent fibre;Neutral detergent fibre;g/100g;5420;202;NULL;NULL;14;Kostfibre og stivelse;Dietary fibre and starch
+L-mælkesyre;L-lactic acid;g/100g;6010;178;LACACL;LACACL;5;Organiske syrer;Organic acids
+D-mælkesyre;D-lactic acid;g/100g;6020;125;LACACD;LACACD;5;Organiske syrer;Organic acids
+Mælkesyre;Lactic acid;g/100g;6030;192;LACAC;LACAC;5;Organiske syrer;Organic acids
+Citronsyre;Citric acid;g/100g;6110;119;CITAC;CITAC;5;Organiske syrer;Organic acids
+Oxalsyre;Oxalic acid;mg/100g;6120;209;OXALAC;OXALAC;5;Organiske syrer;Organic acids
+Æblesyre;Malic acid;mg/100g;6130;302;MALAC;MALAC;5;Organiske syrer;Organic acids
+Eddikesyre;Acetic acid;g/100g;6140;136;ACEAC;ACEAC;5;Organiske syrer;Organic acids
+Propionsyre;Propionic acid;mg/100g;6170;217;PROPAC;PROPAC;5;Organiske syrer;Organic acids
+Benzosyre;Benzoic acid;mg/100g;6210;41;BENAC;BENAC;5;Organiske syrer;Organic acids
+Sum organiske syrer;Sum organic acids;g/100g;6310;208;OA;OA;5;Organiske syrer;Organic acids
+C4:0;C4:0;g/100g;7010;103;F4:0;F4:0;7;Mættede fedtsyrer;Saturated fatty acids
+C6:0;C6:0;g/100g;7020;104;F6:0;F6:0;7;Mættede fedtsyrer;Saturated fatty acids
+C8:0;C8:0;g/100g;7030;105;F8:0;F8:0;7;Mættede fedtsyrer;Saturated fatty acids
+C10:0;C10:0;g/100g;7040;48;F10:0;F10:0;7;Mættede fedtsyrer;Saturated fatty acids
+C12:0;C12:0;g/100g;7050;49;F12:0;F12:0;7;Mættede fedtsyrer;Saturated fatty acids
+C13:0;C13:0;g/100g;7060;50;F13:0;F13:0;7;Mættede fedtsyrer;Saturated fatty acids
+C14:0;C14:0;g/100g;7070;51;F14:0;F14:0;7;Mættede fedtsyrer;Saturated fatty acids
+C15:0;C15:0;g/100g;7080;56;F15:0;F15:0;7;Mættede fedtsyrer;Saturated fatty acids
+C16:0;C16:0;g/100g;7090;58;F16:0;F16:0;7;Mættede fedtsyrer;Saturated fatty acids
+C17:0;C17:0;g/100g;7100;63;F17:0;F17:0;7;Mættede fedtsyrer;Saturated fatty acids
+C18:0;C18:0;g/100g;7110;65;F18:0;F18:0;7;Mættede fedtsyrer;Saturated fatty acids
+C20:0;C20:0;g/100g;7120;77;F20:0;F20:0;7;Mættede fedtsyrer;Saturated fatty acids
+C21:0;C21:0;g/100g;7130;409;F21:0;F21:0;7;Mættede fedtsyrer;Saturated fatty acids
+C22:0;C22:0;g/100g;7140;89;F22:0;F22:0;7;Mættede fedtsyrer;Saturated fatty acids
+C23:0;C23:0;g/100g;7150;413;F23:0;F23:0;7;Mættede fedtsyrer;Saturated fatty acids
+C24:0;C24:0;g/100g;7160;100;F24:0;F24:0;7;Mættede fedtsyrer;Saturated fatty acids
+C12:1,n-1;C12:1,n-1;g/100g;8010;401;F12:1CIS;F12:1CIS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C14:1,n-5;C14:1,n-5;g/100g;8020;52;F14:1CN5;F14:1CN5;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C15:1,n-5;C15:1,n-5;g/100g;8030;57;F15:1CIS;F15:1CIS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C16:1,n-7;C16:1,n-7;g/100g;8040;59;F16:1CN7;F16:1CN7;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C17:1,n-7;C17:1,n-7;g/100g;8050;64;F17:1CIS;F17:1CIS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C18:1,n-7;C18:1,n-7;g/100g;8060;66;F18:1CN7;F18:1CN7;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C18:1,n-9;C18:1,n-9;g/100g;8070;67;F18:1CN9;F18:1CN9;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C18:1,n-12;C18:1,n-12;g/100g;8075;425;F18:1CN12;F18:1CN12;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C20:1,n-9;C20:1,n-9;g/100g;8080;347;F20:1CN9;F20:1CN9;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C20:1,n-11;C20:1,n-11;g/100g;8090;78;F20:1CN11;F20:1CN11;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C20:1,n-15;C20:1,n-15;g/100g;8095;424;NULL;NULL;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C22:1,n-9;C22:1,n-9;g/100g;8100;92;F22:1CN9;F22:1CN9;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C22:1,n-11;C22:1,n-11;g/100g;8110;90;F22:1CN11;F22:1CN11;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C24:1,n-9;C24:1,n-9;g/100g;8120;101;F24:1CN9;F24:1CN9;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C14:1,n-5,trans;C14:1,n-5,trans;g/100g;8510;53;F14:1TN5;F14:1TN5;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C16:1,n-7,trans;C16:1,n-7,trans;g/100g;8520;60;F16:1TN7;F16:1TN7;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C18:1,trans;C18:1,trans;g/100g;8530;70;F18:1TRS;F18:1TRS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C20:1,trans;C20:1,trans;g/100g;8540;79;F20:1TRS;F20:1TRS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C22:1,trans;C22:1,trans;g/100g;8550;93;F22:1TRS;F22:1TRS;8;Monoumættede fedtsyrer;Monounsaturated fatty acids
+C18:2,n-6;C18:2,n-6;g/100g;9010;71;F18:2CN6;F18:2CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C18:2,konjugeret;C18:2,conjugated;g/100g;9020;72;F18:2CON;F18:2CON;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C18:3,n-3;C18:3,n-3;g/100g;9030;74;F18:3CN3;F18:3CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C18:3,n-6;C18:3,n-6;g/100g;9040;75;F18:3CN6;F18:3CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C18:4,n-3;C18:4,n-3;g/100g;9050;76;F18:4CN3;F18:4CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:2,n-6;C20:2,n-6;g/100g;9060;80;F20:2CN6;F20:2CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:3,n-3;C20:3,n-3;g/100g;9070;82;F20:3CN3;F20:3CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:3,n-6;C20:3,n-6;g/100g;9080;85;F20:3CN6;F20:3CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:4,n-3;C20:4,n-3;g/100g;9090;349;F20:4CN3;F20:4CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:4,n-6;C20:4,n-6;g/100g;9100;86;F20:4CN6;F20:4CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C20:5,n-3;C20:5,n-3;g/100g;9110;87;F20:5CN3;F20:5CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:2,n-6;C22:2,n-6;g/100g;9120;410;F22:2CN6;F22:2CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:3,n-3;C22:3,n-3;g/100g;9125;426;F22:3CN3;F22:3CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:4,n-6;C22:4,n-6;g/100g;9130;411;F22:4CN6;F22:4CN6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:5,n-3;C22:5,n-3;g/100g;9140;98;F22:5CN3;F22:5CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:5,n-6;C22:5,n-6;g/100g;9150;412;F22:5N6;F22:5N6;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C22:6,n-3;C22:6,n-3;g/100g;9160;99;F22:6CN3;F22:6CN3;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+C18:2,trans;C18:2,trans;g/100g;9510;73;F18:2TRS;F18:2TRS;9;Polyumættede fedtsyrer;Polyunsaturated fatty acids
+Andre fedtsyrer;Other fatty acids;g/100g;10010;24;FAUN;FAUN;10;Fedtsyrer, summer;Fatty acids sums
+Sum mættede fedtsyrer;Sum saturated fatty acids;g/100g;10110;248;FASAT;FASAT;10;Fedtsyrer, summer;Fatty acids sums
+Sum enkeltumættede fedtsyrer;Sum monounsaturated fatty acids;g/100g;10120;247;FAMS;FAMS;10;Fedtsyrer, summer;Fatty acids sums
+Sum flerumættede fedtsyrer;Sum polyunsaturated fatty acids;g/100g;10130;251;FAPU;FAPU;10;Fedtsyrer, summer;Fatty acids sums
+Sum transfedtsyrer;Sum trans fatty acids;g/100g;10140;261;FATRS;FATRS;10;Fedtsyrer, summer;Fatty acids sums
+Sum fedtsyrer under detektionsgrænsen;Sum fatty acids below the detection limit;g/100g;10144;427;NULL;NULL;10;Fedtsyrer, summer;Fatty acids sums
+Sum fedtsyrer;Sum fatty acids;g/100g;10150;340;FACID;FACID;10;Fedtsyrer, summer;Fatty acids sums
+Sum n-3 fedtsyrer;Sum n-3 fatty acids;g/100g;10160;249;FAN3;FAN3;10;Fedtsyrer, summer;Fatty acids sums
+Sum n-6 fedtsyrer;Sum n-6 fatty acids;g/100g;10170;250;FAN6;FAN6;10;Fedtsyrer, summer;Fatty acids sums
+Kolesterol;Cholesterol;mg/100g;11010;115;CHORL;CHORL;12;Steroler;Sterols
+Nitrogen;Nitrogen;g/100g;12010;300;NT;NT;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Isoleucin;Isoleucine;mg/100g;12110;161;ILE;ILE;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Leucin;Leucine;mg/100g;12120;180;LEU;LEU;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Lysin;Lysine;mg/100g;12130;183;LYS;LYS;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Methionin;Methionine;mg/100g;12140;189;MET;MET;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Cystin;Cystine;mg/100g;12150;124;CYS;CYS;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Phenylalanin;Phenylalanine;mg/100g;12160;211;PHE;PHE;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Tyrosin;Tyrosine;mg/100g;12170;264;TYR;TYR;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Threonin;Threonine;mg/100g;12180;258;THR;THR;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Tryptofan;Tryptophan;mg/100g;12190;262;TRP;TRP;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Valin;Valine;mg/100g;12200;266;VAL;VAL;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Arginin;Arginine;mg/100g;12210;31;ARG;ARG;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Histidin;Histidine;mg/100g;12220;159;HIS;HIS;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Alanin;Alanine;mg/100g;12230;17;ALA;ALA;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Asparaginsyre;Aspartic acid;mg/100g;12240;34;ASP;ASP;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Glutaminsyre;Glutamic acid;mg/100g;12250;150;GLU;GLU;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Glycin;Glycine;mg/100g;12260;153;GLY;GLY;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Prolin;Proline;mg/100g;12270;216;PRO;PRO;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Serin;Serine;mg/100g;12280;231;SER;SER;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Hydroxyprolin;Hydroxyproline;mg/100g;12290;400;HYP;HYP;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Ornitin;Ornithine;mg/100g;12300;423;NULL;NULL;11;Aminosyrer og Nitrogen;Amino acids and Nitrogen
+Histamin;Histamine;mg/100g;13010;158;HISTN;HISTN;13;Biogene aminer;Biogenic amines
+Serotonin;Serotonin;mg/100g;13020;232;SEROTN;SEROTN;13;Biogene aminer;Biogenic amines
+Tyramin;Tyramine;mg/100g;13110;263;TYRA;TYRA;13;Biogene aminer;Biogenic amines
+Phenylethylamin;Phenylethylamine;mg/100g;13120;212;PHETN;PHETN;13;Biogene aminer;Biogenic amines
+Putrescin;Putrescine;mg/100g;13130;221;PUTRSC;PUTRSC;13;Biogene aminer;Biogenic amines
+Cadaverin;Cadaverine;mg/100g;13140;106;CADAVT;CADAVT;13;Biogene aminer;Biogenic amines
+Spermin;Spermine;mg/100g;13150;239;SPERN;SPERN;13;Biogene aminer;Biogenic amines
+Spermidin;Spermidine;mg/100g;13160;238;SPERDN;SPERDN;13;Biogene aminer;Biogenic amines
+Sum biogene aminer;Sum biogenic amines;mg/100g;13210;422;GRP_AM;GRP_AM;13;Biogene aminer;Biogenic amines
+Svind;Waste;%;20010;252;WASTE;WASTE;2;Faktorer m.m.;Factors etc.
+Nitrogen-til-protein faktor;Nitrogen conversion factor;No Unit;20110;219;NCF;NCF;2;Faktorer m.m.;Factors etc.
+Fedtsyrekonverteringsfaktor;Fatty acid conversion factor;No Unit;20120;140;FACF;FACF;2;Faktorer m.m.;Factors etc.
+Massefylde;Density;g/ml;20210;363;DEN;DEN;2;Faktorer m.m.;Factors etc.

@@ -1,2 +1,4 @@
-Alle grupper
-Søg fødevaregrupper efter navn
+[1] Søg fødevaregrupper efter navn
+[2] Søg parametergrupper efter navn
+[3] Søg parametre efter gruppe navn
+[<] Tilbage

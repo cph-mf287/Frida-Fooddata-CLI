@@ -5,13 +5,11 @@ def main_menu(options, choice, quit=False): #####
         return ('main', True) ###################
 
     match get_key(options, choice):
-        case '1': # Language
-            menu = 'lang'
-        case '2': # Food entries
-            menu = 'food'
-        case '3': # Food groups
-            menu = 'dataset'
-        case 'q': # Quit
-            quit = True
 
-    return (menu, quit)
+        case '1': return ('lang', False)
+
+        case '2': return ('food', False)
+
+        case '3': return ('dataset', False)
+
+        case 'q': return ('main', True)
