@@ -99,10 +99,10 @@ def food_menu(options, choice, lang):
                     try:
                         foods = foods.loc[foods['ParameterNavn'] == options[choice]]#.sort_values(['FødevareNavn']).reset_index()
                         results = foods.loc[:,:]
-                        results['DotVal'] = foods['ResVal'].apply(lambda val: float(val.replace(',','.')))
+                        results['DotVal'] = foods['ResVal'].apply(lambda val: float(str(val).replace(',','.')))
                         results['Covers'] = results['DotVal']/req
                         results['Lacks'] =  1 - results['DotVal']/req
-                        results['Recommended'] = (1 + results['Lacks']) * 100
+                        results['Recommended'] = 100 / (results['DotVal']/req)
                         results = results[comparator(results['DotVal'], min, max)].sort_values(['DotVal'], ascending=False).reset_index()
                         print(f'Resultater fundet: {len(results.index)}')
                         print()
@@ -120,7 +120,7 @@ def food_menu(options, choice, lang):
                         results['DotVal'] = foods['ResVal'].apply(lambda val: float(val.replace(',','.')))
                         results['Covers'] = results['DotVal']/req
                         results['Lacks'] =  1 - results['DotVal']/req
-                        results['Recommended'] = (1 + results['Lacks']) * 100
+                        results['Recommended'] = 100 / (results['DotVal']/req)
                         results = results[comparator(results['DotVal'], min, max)].sort_values(['DotVal'], ascending=False).reset_index()
                         print(f'Results found: {len(results.index)}')
                         print()
