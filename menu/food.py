@@ -117,7 +117,7 @@ def food_menu(options, choice, lang):
                     try:
                         foods = foods.loc[foods['ParameterName'] == options[choice]]#.sort_values(['FoodName']).reset_index()
                         results = foods.loc[:,:]
-                        results['DotVal'] = foods['ResVal'].apply(lambda val: float(val.replace(',','.')))
+                        results['DotVal'] = foods['ResVal'].apply(lambda val: float(str(val).replace(',','.')))
                         results['Covers'] = results['DotVal']/req
                         results['Lacks'] =  1 - results['DotVal']/req
                         results['Recommended'] = 100 / (results['DotVal']/req)
