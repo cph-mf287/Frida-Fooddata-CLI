@@ -9,10 +9,13 @@ A command-line interface to query records from DTU's publically available Frida 
 
 ## Installation
 
-1. Clone the project:
+1. Clone the project into your directory and change director to the project directory:
 
 ```
 git clone https://github.com/cph-mf287/Frida-Fooddata-CLI.git
+```
+```
+cd Frida-Fooddata-CLI
 ```
 
 2. Install dependencies
